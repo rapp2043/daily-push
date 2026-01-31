@@ -25,7 +25,8 @@
     "https://www.msn.com/en-us/health/other/feeling-involved-in-decision-making-associated-with-higher-mental-well-being-lower-loneliness-for-women-in-farming/ar-AA1UvVlA",
     "https://www.yahoo.com/news/articles/paradox-success-former-idf-chief-154553869.html",
     "https://www.sciencedaily.com/releases/2026/01/260114084113.htm",
-    "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP"
+    "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP",
+    "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/"
   ],
   "headlines": [
     {
@@ -180,6 +181,12 @@
       "url": "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP",
       "title": "'Checkout charity' requests often backfire, leaving shoppers feeling guilty: new study",
       "topic": "behavioral economics",
+      "date": "2026-01-31"
+    },
+    {
+      "url": "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/",
+      "title": "Compulsive Behavior May Not Be a 'Bad Habit' After All, New Study Finds",
+      "topic": "compulsive behavior research",
       "date": "2026-01-31"
     }
   ]
