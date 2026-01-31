@@ -494,8 +494,17 @@ def publish_to_webhook(html_content: str, subject: str, metadata: dict) -> bool:
         }
     }
     
+    # Check for webhook authentication credentials
+    webhook_user = os.getenv("MAKE_WEBHOOK_USER")
+    webhook_password = os.getenv("MAKE_WEBHOOK_PASSWORD")
+    
+    auth = None
+    if webhook_user and webhook_password:
+        auth = (webhook_user, webhook_password)
+        print("[WEBHOOK] Using Basic Authentication")
+    
     try:
-        response = requests.post(MAKE_WEBHOOK_URL, json=payload, timeout=60)
+        response = requests.post(MAKE_WEBHOOK_URL, json=payload, auth=auth, timeout=60)
         response.raise_for_status()
         print(f"[WEBHOOK] Successfully sent to Make.com (status: {response.status_code})")
         return True

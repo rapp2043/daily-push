@@ -26,6 +26,8 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+          MAKE_WEBHOOK_USER: ${{ secrets.MAKE_WEBHOOK_USER }}
+          MAKE_WEBHOOK_PASSWORD: ${{ secrets.MAKE_WEBHOOK_PASSWORD }}
         run: python gladwell_engine.py
       
       - name: Commit draft to repository
