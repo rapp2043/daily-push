@@ -1,0 +1,144 @@
+{
+  "used_urls": [
+    "https://www.msn.com/en-us/science/sociology/new-research-challenges-western-assumptions-about-autistic-social-cognition/ar-AA1TCz08",
+    "https://www.psychologytoday.com/nz/blog/stretching-theory/202412/the-surprising-psychology-of-holiday-decorations",
+    "https://thesocietypages.org/firstpublics/2026/01/14/teaching-methods-in-times-of-crisis/",
+    "https://www.psychologytoday.com/nz/blog/the-healthy-journey/202508/the-surprising-psychology-behind-weight-loss-maintenance",
+    "https://www.eurekalert.org/news-releases/1099156",
+    "https://www.msn.com/en-us/travel/budget-travel/skyscanner-s-cheapest-vacation-hotspots-of-2026-including-a-surprising-few-top-luxury-destinations/ar-AA1U7YHN",
+    "https://www.eurekalert.org/news-releases/1092129",
+    "https://www.eurekalert.org/news-releases/1104122",
+    "https://www.eurekalert.org/news-releases/1082349",
+    "https://www.statnews.com/2026/01/12/pulse-oximeter-study-accuracy-on-dark-skin/",
+    "https://www.msn.com/en-us/health/other/study-finds-early-withdrawal-of-care-may-limit-recovery-in-severe-brain-injury/ar-AA1Ua2ii",
+    "https://www.psychologytoday.com/us/blog/consumed/202504/the-surprising-power-of-disclosure",
+    "https://phys.org/news/2026-01-equal-treatment-ads-backfire.html",
+    "https://www.benzinga.com/content/42471240/research-challenges-assumptions-about-successful-accounting-firm",
+    "https://www.firstpost.com/world/americans-not-foreign-countries-are-paying-for-trump-tariffs-almost-entirely-finds-report-taking-13971032.html",
+    "https://www.dfnionline.com/latest-news/m1nd-set-research-challenges-assumptions-around-low-income-travel-retail-shoppers-23-01-2026/",
+    "https://www.motherjones.com/environment/2026/01/why-mandatory-green-climate-environmental-policies-backfire-study-nature-sustainability/",
+    "https://www.msn.com/en-us/news/technology/study-finds-emotional-tweets-by-politicians-don-t-always-win-followers-and-can-backfire-with-diverse-audiences/ar-AA1OxvV2",
+    "https://www.mmm-online.com/home/channel/fda-black-box-warning-antidepressants-consequences/",
+    "https://www.msn.com/en-us/health/medical/a-field-experiment-reveals-the-psychology-behind-the-batman-effect/ar-AA1RDSDz"
+  ],
+  "headlines": [
+    {
+      "url": "https://www.msn.com/en-us/science/sociology/new-research-challenges-western-assumptions-about-autistic-social-cognition/ar-AA1TCz08",
+      "title": "New research challenges Western assumptions about autistic social cognition",
+      "date": "2026-01-15"
+    },
+    {
+      "url": "https://www.psychologytoday.com/nz/blog/stretching-theory/202412/the-surprising-psychology-of-holiday-decorations",
+      "title": "The Surprising Psychology of Holiday Decorations",
+      "date": "2026-01-15"
+    },
+    {
+      "url": "https://thesocietypages.org/firstpublics/2026/01/14/teaching-methods-in-times-of-crisis/",
+      "title": "Teaching Methods in Times of Crisis",
+      "topic": "education methodology",
+      "date": "2026-01-15"
+    },
+    {
+      "url": "https://www.psychologytoday.com/nz/blog/the-healthy-journey/202508/the-surprising-psychology-behind-weight-loss-maintenance",
+      "title": "The Surprising Psychology Behind Weight Loss Maintenance",
+      "topic": "health psychology",
+      "date": "2026-01-15"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1099156",
+      "title": "New study reveals critical gap: 45% of experienced professionals lack structured decision-making habits despite high confidence in their own skills",
+      "topic": "decision-making psychology",
+      "date": "2026-01-15"
+    },
+    {
+      "url": "https://www.msn.com/en-us/travel/budget-travel/skyscanner-s-cheapest-vacation-hotspots-of-2026-including-a-surprising-few-top-luxury-destinations/ar-AA1U7YHN",
+      "title": "Skyscanner's cheapest vacation hotspots of 2026 \u2014 including a surprising few top luxury destinations",
+      "topic": "travel economics",
+      "date": "2026-01-15"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1092129",
+      "title": "Interference to astronomy the unintended consequence of faster internet",
+      "topic": "astronomy technology",
+      "date": "2026-01-16"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1104122",
+      "title": "Forests and water: new research challenges old assumptions about forest restoration",
+      "topic": "environmental science",
+      "date": "2026-01-17"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1082349",
+      "title": "Study links childhood trauma to increased substance use and unexpected effects on heart rate and blood pressure in adolescents",
+      "topic": "developmental psychopathology",
+      "date": "2026-01-18"
+    },
+    {
+      "url": "https://www.statnews.com/2026/01/12/pulse-oximeter-study-accuracy-on-dark-skin/",
+      "title": "FDA-funded study of pulse oximeter accuracy yields surprising and confusing results",
+      "topic": "medical devices",
+      "date": "2026-01-19"
+    },
+    {
+      "url": "https://www.msn.com/en-us/health/other/study-finds-early-withdrawal-of-care-may-limit-recovery-in-severe-brain-injury/ar-AA1Ua2ii",
+      "title": "Study finds early withdrawal of care may limit recovery in severe brain injury",
+      "topic": "medical research",
+      "date": "2026-01-22"
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/consumed/202504/the-surprising-power-of-disclosure",
+      "title": "The Surprising Power of Disclosure",
+      "topic": "behavioral science",
+      "date": "2026-01-23"
+    },
+    {
+      "url": "https://phys.org/news/2026-01-equal-treatment-ads-backfire.html",
+      "title": "Equal treatment ads can backfire, study finds",
+      "topic": "advertising policy",
+      "date": "2026-01-24"
+    },
+    {
+      "url": "https://www.benzinga.com/content/42471240/research-challenges-assumptions-about-successful-accounting-firm",
+      "title": "Research Challenges Assumptions About Successful Accounting Firm",
+      "topic": "accounting research",
+      "date": "2026-01-25"
+    },
+    {
+      "url": "https://www.firstpost.com/world/americans-not-foreign-countries-are-paying-for-trump-tariffs-almost-entirely-finds-report-taking-13971032.html",
+      "title": "Americans, not foreign countries, are paying for Trump tariffs \u2014 almost entirely, finds report",
+      "topic": "trade policy",
+      "date": "2026-01-26"
+    },
+    {
+      "url": "https://www.dfnionline.com/latest-news/m1nd-set-research-challenges-assumptions-around-low-income-travel-retail-shoppers-23-01-2026/",
+      "title": "m1nd-set research challenges assumptions around \"low income\" travel retail shoppers",
+      "topic": "travel retail",
+      "date": "2026-01-27"
+    },
+    {
+      "url": "https://www.motherjones.com/environment/2026/01/why-mandatory-green-climate-environmental-policies-backfire-study-nature-sustainability/",
+      "title": "Why Mandatory Green Policies Often Backfire",
+      "topic": "environmental policy",
+      "date": "2026-01-28"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/study-finds-emotional-tweets-by-politicians-don-t-always-win-followers-and-can-backfire-with-diverse-audiences/ar-AA1OxvV2",
+      "title": "Study finds emotional tweets by politicians don't always win followers and can backfire with diverse audiences",
+      "topic": "political communication",
+      "date": "2026-01-29"
+    },
+    {
+      "url": "https://www.mmm-online.com/home/channel/fda-black-box-warning-antidepressants-consequences/",
+      "title": "FDA black box warning for antidepressants may have unintended consequences",
+      "topic": "pharmaceutical regulation",
+      "date": "2026-01-30"
+    },
+    {
+      "url": "https://www.msn.com/en-us/health/medical/a-field-experiment-reveals-the-psychology-behind-the-batman-effect/ar-AA1RDSDz",
+      "title": "A field experiment reveals the psychology behind the 'Batman effect'",
+      "topic": "Psychology",
+      "date": "2026-01-31"
+    }
+  ]
+}

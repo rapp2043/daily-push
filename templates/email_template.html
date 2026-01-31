@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{SUBJECT}}</title>
+    <style>
+        /* Reset */
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background-color: #f9f9f9;
+            color: #1a1a1a;
+            line-height: 1.6;
+        }
+
+        /* Container */
+        .email-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 40px 20px;
+        }
+
+        .header {
+            text-align: center;
+            padding-bottom: 30px;
+            border-bottom: 1px solid #e6e6e6;
+            margin-bottom: 30px;
+        }
+
+        .logo {
+            max-width: 180px;
+            height: auto;
+            margin-bottom: 8px;
+        }
+
+        .author-name {
+            font-size: 14px;
+            color: #666;
+            margin: 0;
+        }
+
+        /* Title */
+        .title {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 32px;
+            font-weight: 700;
+            line-height: 1.2;
+            margin: 0 0 16px 0;
+            color: #1a1a1a;
+        }
+
+        .date {
+            font-size: 13px;
+            color: #999;
+            margin-bottom: 30px;
+        }
+
+        .byline {
+            font-size: 14px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-top: -20px;
+            margin-bottom: 30px;
+        }
+
+        /* Body Content */
+        .content {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 18px;
+            line-height: 1.8;
+            color: #292929;
+        }
+
+        .content p {
+            margin: 0 0 24px 0;
+        }
+
+        .content strong {
+            color: #1a1a1a;
+        }
+
+        .content em {
+            font-style: italic;
+        }
+
+        /* Pull Quote */
+        .pull-quote {
+            font-size: 24px;
+            font-style: italic;
+            color: #4a9c6d;
+            border-left: 4px solid #4a9c6d;
+            padding-left: 20px;
+            margin: 30px 0;
+        }
+
+        /* Footnotes */
+        .footnotes {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #e6e6e6;
+            font-size: 14px;
+            color: #666;
+            line-height: 1.6;
+        }
+
+        .footnotes h3 {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #999;
+            margin-bottom: 16px;
+        }
+
+        .footnote {
+            margin-bottom: 12px;
+        }
+
+        .footnote-marker {
+            color: #4a9c6d;
+            font-weight: bold;
+        }
+
+        /* References */
+        .references {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #e6e6e6;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-size: 12px;
+            color: #999;
+        }
+
+        .references h3 {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+        }
+
+        .references ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .references li {
+            margin-bottom: 8px;
+        }
+
+        .references a {
+            color: #4a9c6d;
+            text-decoration: none;
+        }
+
+        .personal-note {
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 1px solid #e6e6e6;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 17px;
+            line-height: 1.7;
+            color: #292929;
+        }
+
+        .signature-container {
+            margin-top: 20px;
+            margin-bottom: 40px;
+        }
+
+        .signature-img {
+            max-width: 150px;
+            height: auto;
+            /* Dark mode fix: adds a subtle glow so black ink is visible on dark backgrounds */
+            filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.8)) drop-shadow(0 0 2px rgba(255, 255, 255, 0.5));
+        }
+
+        .social-links {
+            margin-top: 20px;
+            padding-top: 20px;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        .social-links a {
+            color: #4a9c6d;
+            text-decoration: none;
+            font-weight: 600;
+            margin: 0 8px;
+        }
+
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 1px solid #e6e6e6;
+            text-align: center;
+            font-size: 12px;
+            color: #999;
+        }
+
+        .footer a {
+            color: #4a9c6d;
+            text-decoration: none;
+        }
+
+        .unsubscribe {
+            margin-top: 20px;
+        }
+
+        /* Responsive */
+        @media only screen and (max-width: 480px) {
+            .email-container {
+                padding: 20px 15px;
+            }
+
+            .title {
+                font-size: 26px;
+            }
+
+            .content {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="email-container">
+        <!-- Header -->
+        <div class="header">
+            <img src="https://raw.githubusercontent.com/rapp2043/daily-push/main/assets/logo.png" alt="Un:Curve" class="logo" style="max-width: 180px; height: auto;">
+            <p class="author-name">Bending assumptions, one story at a time</p>
+        </div>
+
+        <!-- Title -->
+        <h1 class="title">{{SUBJECT}}</h1>
+        <p class="date">{{DATE}}</p>
+        <p class="byline">By Anthony Clemons</p>
+
+        <!-- Body Content -->
+        <div class="content">
+            {{CONTENT}}
+        </div>
+
+        <!-- Footnotes -->
+        <div class="footnotes">
+            <h3>Notes</h3>
+            {{FOOTNOTES}}
+        </div>
+
+        <!-- References -->
+        <div class="references">
+            <h3>References</h3>
+            {{REFERENCES}}
+        </div>
+
+        <!-- Personal Note & Signature -->
+        <div class="personal-note">
+            {{PERSONAL_NOTE}}
+            <div class="signature-container">
+                <img src="https://raw.githubusercontent.com/rapp2043/daily-push/main/assets/signature.png" alt="Anthony Clemons" class="signature-img">
+            </div>
+        </div>
+
+        <!-- Social Links -->
+        <div class="social-links">
+            <a href="https://x.com/anthonycclemons">𝕏 Twitter</a>
+            <span style="color: #ccc;">•</span>
+            <a href="https://www.linkedin.com/in/anthonyclemons">LinkedIn</a>
+            <span style="color: #ccc;">•</span>
+            <a href="https://www.facebook.com/people/Author-Anthony-Clemons/61585417657453/">Facebook</a>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>You're receiving this because you subscribed to <strong>Un:Curve</strong>.</p>
+            <p class="unsubscribe">
+                <a href="mailto:anthony.c.clemons1@gmail.com?subject=Unsubscribe">Unsubscribe</a>
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>

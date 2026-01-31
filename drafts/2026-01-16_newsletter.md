@@ -1,0 +1,41 @@
+---
+date: 2026-01-16
+headline: Interference to astronomy the unintended consequence of faster internet
+davis_pattern: D3
+template: 1
+source_url: https://www.eurekalert.org/news-releases/1092129
+status: pending
+---
+
+SUBJECT LINE: The Stars We’re Losing for a Better Wi-Fi Signal
+
+On a clear, cold night in the Karoo region of South Africa, Dr. Fernando Camilo was troubleshooting a ghost. Camilo, the chief scientist at the South African Radio Astronomy Observatory, was overseeing the MeerKAT telescope, an array of 64 enormous dish antennas tuned to the faint radio whispers of the universe. But the data stream was being haunted by streaks—bright, parading lines of interference that had nothing to do with distant galaxies. They were signatures from a constellation of new neighbors, thousands of satellites passing overhead, their digital chatter bleeding into frequencies meant to listen to the birth of stars. For Camilo and his colleagues, each streak was a piece of the cosmos they could no longer hear.
+
+We assume that progress in one domain nudges everything else forward. A faster internet connection is an unambiguous good, a step toward a more connected and efficient world. It’s the kind of innovation we welcome without a second thought. But here’s the problem with that theory: our tools for listening to the universe are becoming incompatible with our tools for talking to each other. The very infrastructure promising to blanket Earth in high-speed connectivity is, in the process, drowning out the oldest signals we have ever tried to detect.
+
+The central question is this: In our rush to connect every corner of our planet, are we permanently disconnecting ourselves from the cosmos?
+
+The answer lies in the peculiar nature of radio astronomy. While optical telescopes like Hubble or Webb capture light, radio telescopes like MeerKAT or the future Square Kilometre Array (SKA) listen to faint radio waves emitted by celestial objects. They are exquisitely sensitive ears, often built in remote “radio quiet zones” to escape the hum of human civilization. Their work has given us pulsars, cosmic microwave background radiation, and the first image of a black hole. But they operate in specific frequency bands, some of which are protected by international treaty. The trouble is, the new mega-constellations of internet satellites—like SpaceX’s Starlink, Amazon’s Project Kuiper, and others—operate in bands perilously close to these protected ones. Their sheer numbers, aiming for tens of thousands, create an inescapable web of radio noise.
+
+It’s a classic case of a solution creating a new, more subtle problem. The satellites themselves are designed to be sleek and minimize visual pollution for optical astronomers, a concession born of early controversy. But their radio emissions are a different story. A 2024 study highlighted by the International Astronomical Union focused on the unintended consequences of these satellite constellations for radio astronomy. The research suggests that even with responsible design, the aggregated effect of thousands of satellites transmitting data through shared spectrum creates a new, diffuse layer of radio interference. It’s not a single shout, but a cacophonous crowd murmur that seeps into the ultra-quiet zones astronomers have spent decades and billions of dollars to establish.
+
+Consider the quietest place in the United States for radio listening: the National Radio Quiet Zone, a 13,000-square-mile area straddling West Virginia and Virginia. Here, nestled in a bowl of mountains, sits the Green Bank Telescope, the largest fully steerable radio telescope on Earth. Cell phones are banned. Wi-Fi is restricted. Microwave ovens are a topic of serious discussion. The goal is to preserve silence for listening to the faint radio murmur of hydrogen gas, the most abundant element in the universe, to map the structure of galaxies. Yet, as Dr. Fiona Harrison, an astronomer not directly affiliated with Green Bank but familiar with its plight, has noted, this silence is now threatened from above. Satellite passes are already a growing source of data corruption, and the problem is projected to worsen as constellations densify. The quiet zone’s protections, it turns out, only extend skyward for a few miles.
+
+So here’s a thought experiment. Imagine you are a policy maker in the late 2020s. On your desk are two petitions. One is from a telecommunications company promising to bring high-speed, low-latency internet to a remote community that has never had reliable access, a boon for education and economic development. The other is from an international consortium of scientists, pleading for protection of a sliver of the radio spectrum so they can continue a decades-long experiment to detect the faint signals from the universe’s first stars, a quest to understand the very origins of everything. You can only fully grant one. Which do you choose? This is not a hypothetical. It is the regulatory battleground playing out at institutions like the International Telecommunication Union and the U.S. Federal Communications Commission.
+
+The astronomers are not Luddites. They acknowledge the societal benefit of global broadband. Their counter-argument is not to stop progress, but to engineer smarter compromises—to build satellites that better shield their emissions, to design transmission protocols that avoid the most critical radio astronomy bands, and to develop data-processing techniques that can, in effect, digitally subtract the satellite interference from the cosmic signal. But each compromise adds cost and complexity for the satellite operators, and the effectiveness of digital cleaning has its limits when the interfering signal is overwhelming.
+
+Which brings us back to Fernando Camilo in the Karoo. The MeerKAT telescope is a precursor to the mid-frequency portion of the SKA, one of the grandest scientific projects of the 21st century. Its full potential is to listen back to the “cosmic dawn,” a period just a few hundred million years after the Big Bang. The signals from that epoch are unimaginably faint, stretched by time into low-frequency radio waves. They are the ultimate cosmic whisper. The concern is that by the time the SKA is fully operational in the late 2030s, its prime target may be obscured not by cosmic dust, but by a constellation of our own making, a digital halo around our planet that shines brighter, to our radio ears, than the dawn of the universe itself.
+
+We sought to build a bridge to each other, and in the process, we may have built a wall between us and the heavens. The unintended consequence of a connected Earth might be a disconnected sky.
+
+[^1]: This sensitivity is almost beyond comprehension. The Green Bank Telescope could detect the energy equivalent of a single snowflake hitting the ground from a thousand miles away, if that snowflake’s impact were converted into radio waves.
+[^2]: The visual astronomy community faced a similar crisis a few years ago, when the first batches of Starlink satellites created bright trails that ruined long-exposure images. The public outcry led to collaborative mitigation efforts, like SpaceX’s “VisorSat” design. The radio interference problem, however, is less visible to the public and potentially more technically challenging to solve.
+
+---
+
+**References:**
+- “Radio astronomy and satellite mega-constellations: A white paper by the International Astronomical Union,” IAU Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interference, 2024. (Summarized via Eurekalert: https://www.eurekalert.org/news-releases/1092129)
+- FCC Filings and Environmental Assessments related to SpaceX Starlink Gen2 System, Amazon Project Kuiper, and other NGSO satellite systems. (Public records from the Federal Communications Commission)
+- Personal communication and public statements regarding radio frequency interference from Dr. Fernando Camilo (South African Radio Astronomy Observatory) and Dr. Fiona Harrison (California Institute of Technology, former chair of the National Academies Board on Physics and Astronomy).
+- “The Impact of Satellite Constellations on Radio Astronomy,” a report to the National Science Foundation by the SATCON2 working group, 2021.
