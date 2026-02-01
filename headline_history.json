@@ -28,7 +28,8 @@
     "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP",
     "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/",
     "https://medicalxpress.com/news/2025-03-syndrome-case-alzheimer-assumptions-unexpected.html",
-    "https://ctmirror.org/2025/01/27/unintended-consequences-of-halting-vaccine-research-more-cancer-deaths/"
+    "https://ctmirror.org/2025/01/27/unintended-consequences-of-halting-vaccine-research-more-cancer-deaths/",
+    "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625"
   ],
   "headlines": [
     {
@@ -201,6 +202,12 @@
       "url": "https://ctmirror.org/2025/01/27/unintended-consequences-of-halting-vaccine-research-more-cancer-deaths/",
       "title": "Unintended consequences of halting vaccine research: more cancer deaths?",
       "topic": "public health policy",
+      "date": "2026-02-01"
+    },
+    {
+      "url": "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625",
+      "title": "Some people gain confidence from thinking things through, others lose it - new research",
+      "topic": "social psychology",
       "date": "2026-02-01"
     }
   ]
