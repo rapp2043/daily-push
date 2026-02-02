@@ -29,7 +29,8 @@
     "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/",
     "https://medicalxpress.com/news/2025-03-syndrome-case-alzheimer-assumptions-unexpected.html",
     "https://ctmirror.org/2025/01/27/unintended-consequences-of-halting-vaccine-research-more-cancer-deaths/",
-    "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625"
+    "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625",
+    "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner"
   ],
   "headlines": [
     {
@@ -209,6 +210,12 @@
       "title": "Some people gain confidence from thinking things through, others lose it - new research",
       "topic": "social psychology",
       "date": "2026-02-01"
+    },
+    {
+      "url": "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner",
+      "title": "New Research Challenges Assumptions on Workplace Engagement: Hybrid Work Emerges as a Front-Runner",
+      "topic": "workplace studies",
+      "date": "2026-02-02"
     }
   ]
 }
