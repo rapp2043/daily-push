@@ -31,7 +31,8 @@
     "https://ctmirror.org/2025/01/27/unintended-consequences-of-halting-vaccine-research-more-cancer-deaths/",
     "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625",
     "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner",
-    "https://www.wbez.org/2024/09/18/research-finds-shotspotter-slows-police-responses-to-911-calls"
+    "https://www.wbez.org/2024/09/18/research-finds-shotspotter-slows-police-responses-to-911-calls",
+    "https://www.sciencedaily.com/releases/2026/02/260203020203.htm"
   ],
   "headlines": [
     {
@@ -223,6 +224,12 @@
       "title": "Research finds ShotSpotter slows police responses to 911 calls",
       "topic": "law enforcement technology",
       "date": "2026-02-03"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
+      "title": "This brain discovery is forcing scientists to rethink how memory works",
+      "topic": "memory neuroscience",
+      "date": "2026-02-04"
     }
   ]
 }
