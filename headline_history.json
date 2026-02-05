@@ -32,7 +32,8 @@
     "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625",
     "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner",
     "https://www.wbez.org/2024/09/18/research-finds-shotspotter-slows-police-responses-to-911-calls",
-    "https://www.sciencedaily.com/releases/2026/02/260203020203.htm"
+    "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
+    "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/"
   ],
   "headlines": [
     {
@@ -230,6 +231,12 @@
       "title": "This brain discovery is forcing scientists to rethink how memory works",
       "topic": "memory neuroscience",
       "date": "2026-02-04"
+    },
+    {
+      "url": "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
+      "title": "LLMs exhibit significant Western cultural bias, study finds",
+      "topic": "AI ethics",
+      "date": "2026-02-05"
     }
   ]
 }
