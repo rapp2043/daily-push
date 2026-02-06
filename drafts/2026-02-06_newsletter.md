@@ -1,0 +1,34 @@
+---
+date: 2026-02-06
+headline: What works at 50 may backfire at 70: New aspirin-cancer study challenges conventional wisdom
+davis_pattern: D4
+template: 1
+source_url: https://www.msn.com/en-us/health/other/what-works-at-50-may-backfire-at-70-new-aspirin-cancer-study-challenges-conventional-wisdom/ar-AA1Vuzq9
+status: published
+---
+
+SUBJECT LINE: The Miracle Drug That Starts Lying After 70
+
+John McNeil stood before a room of fellow researchers in Melbourne, Australia, in the summer of 2018, holding data that felt like a betrayal. For years, he had been one of the leading architects of a monumental study called ASPREE—Aspirin in Reducing Events in the Elderly. The premise was straightforward and followed a decades-old script: low-dose aspirin, that century-old pill in every medicine cabinet, should prevent heart attacks and maybe even cancer in healthy older adults. McNeil and his team had enrolled 19,000 people, all over 70, and followed them for an average of five years. The results he was about to present, however, were about to upend a global narrative. The aspirin hadn’t performed as a preventative miracle. In fact, in one critical area, the numbers told a dangerous, reverse story.
+
+We love a simple medical hero. For generations, aspirin has been that hero. It’s the go-to for headaches, the suspected savior for heart attack symptoms, and, since the late 20th century, it has worn the gleaming mantle of a potential cancer preventative. The conventional wisdom was built on a solid foundation of observation. Landmark studies, like the long-running Nurses’ Health Study, consistently found that people who took aspirin regularly had lower rates of colorectal cancer. The mechanism made elegant sense: aspirin inhibits cyclooxygenase (COX) enzymes, which play a role in inflammation, a known driver of cancer. By the 2000s, the U.S. Preventive Services Task Force began to formally recommend low-dose aspirin for certain adults to stave off both cardiovascular disease *and* colorectal cancer. The story was tidy. The logic was clear. Take this humble pill, and you are stacking the deck in your favor against two of humanity’s biggest killers.
+
+But here’s the problem with that theory. It turns out that our bodies are not static machines, and what is a repair protocol at fifty can become a disruptive noise at seventy. The ASPREE trial delivered a one-two punch. First, it found that aspirin did not prolong life or prevent heart attacks in healthy older adults—a disappointment, but not a shocker, as other recent studies had hinted at this. The second finding was the stunner. The group taking aspirin showed a *statistically significant increase* in the risk of death from cancer, particularly colorectal cancer. The very disease aspirin was supposed to guard against had become more likely. The numbers were small but clear: the cancer mortality rate was 3.1% in the aspirin group versus 2.3% in the placebo group. For years, the medical community had been confidently moving in one direction. John McNeil’s data was a sudden, jarring stop sign.
+
+So what happened? How does a chemical compound flip its biological script based on the age of the person swallowing it? The answer lies not in the pill, but in the profound biological shift that is aging itself. Think of it this way: a young, healthy cell is like a vigilant security guard. If it detects precancerous damage, aspirin might help it quietly repair the issue or usher the cell into apoptosis—programmed cell death. Now imagine that security guard is 75. He’s tired, his protocols are frayed, and the communication lines are full of static. In this environment, the same anti-inflammatory signal from aspirin might not prompt a clean repair. Instead, it could create confusion, allowing damaged, unstable cells to linger and propagate. The treatment doesn’t change. The terrain does.
+
+This isn’t just a quirk of aspirin. It’s a fundamental principle of geriatric medicine that we consistently forget in our search for silver bullets. Our biology undergoes a series of slow, seismic changes known as *immunosenescence*—the aging of the immune system—and *inflammaging*, a chronic, low-grade inflammatory state that becomes the background noise of later life. Throwing an anti-inflammatory like aspirin into the complex, altered landscape of an aged immune system may inadvertently disarm a necessary, if blunted, defense mechanism. It’s like taking a fire extinguisher to a smoldering, controlled burn in a forest and accidentally letting the real fire start elsewhere. The intervention is right, but the context makes it wrong.
+
+What, then, are we to make of this? The lesson from Melbourne is not that aspirin is “good” or “bad.” It’s that *context is everything*. A therapy is not a standalone entity; it is a dialogue between a molecule and the immensely complicated, ever-changing system that is a human life. The same logic applies to hormones, to supplements, to diet trends—what fuels a body at one stage can stress it at another.[^1]
+
+John McNeil’s 2018 presentation was a quiet earthquake. It challenged the comforting, one-size-fits-all narrative and replaced it with a more complicated, more truthful picture. Medicine’s most dangerous assumption isn’t that a drug doesn’t work, but that it works the same way for everyone, forever. The story of aspirin and cancer is a story about time. It’s about the fact that our cells keep a calendar, and the passages they mark can change the meaning of the very things we trust to keep us safe.
+
+[^1]: This principle, sometimes called an evolutionary mismatch, is why some gerontologists like David Sinclair at Harvard focus on "information loss" in aging cells. The argument is that aging cells misread signals—including drug signals—leading to unintended consequences. Aspirin’ flip in later life is a textbook case of a beneficial youth signal becoming a confusing noise in an aged system.
+
+---
+**References:**
+- McNeil, J.J. et al. Effect of Aspirin on Cardiovascular Events and Bleeding in the Healthy Elderly. *The New England Journal of Medicine*, 2018.
+- McNeil, J.J. et al. Effect of Aspirin on All-Cause Mortality in the Healthy Elderly. *The New England Journal of Medicine*, 2018.
+- Rothwell, P.M. et al. Effect of daily aspirin on risk of cancer metastasis: a study of incident cancers during randomised controlled trials. *The Lancet*, 2012.
+- U.S. Preventive Services Task Force. Final Recommendation Statement: Aspirin Use to Prevent Cardiovascular Disease and Colorectal Cancer. April 2022.
+- "What works at 50 may backfire at 70: New aspirin-cancer study challenges conventional wisdom." *Washington Post*, via MSN, May 2024.

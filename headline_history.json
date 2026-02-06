@@ -33,7 +33,8 @@
     "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner",
     "https://www.wbez.org/2024/09/18/research-finds-shotspotter-slows-police-responses-to-911-calls",
     "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
-    "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/"
+    "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
+    "https://www.msn.com/en-us/health/other/what-works-at-50-may-backfire-at-70-new-aspirin-cancer-study-challenges-conventional-wisdom/ar-AA1Vuzq9"
   ],
   "headlines": [
     {
@@ -237,6 +238,12 @@
       "title": "LLMs exhibit significant Western cultural bias, study finds",
       "topic": "AI ethics",
       "date": "2026-02-05"
+    },
+    {
+      "url": "https://www.msn.com/en-us/health/other/what-works-at-50-may-backfire-at-70-new-aspirin-cancer-study-challenges-conventional-wisdom/ar-AA1Vuzq9",
+      "title": "What works at 50 may backfire at 70: New aspirin-cancer study challenges conventional wisdom",
+      "topic": "health research",
+      "date": "2026-02-06"
     }
   ]
 }
