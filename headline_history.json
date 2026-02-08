@@ -36,7 +36,8 @@
     "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
     "https://www.msn.com/en-us/health/other/what-works-at-50-may-backfire-at-70-new-aspirin-cancer-study-challenges-conventional-wisdom/ar-AA1Vuzq9",
     "https://www.msn.com/en-us/weather/topstories/cfc-replacements-behind-vast-quantities-of-global-forever-chemical-pollution-research-reveals/ar-AA1VEJzx",
-    "https://www.psychologytoday.com/au/blog/the-athletes-way/201608/nonconformity-has-counter-intuitive-benefits-study-finds"
+    "https://www.psychologytoday.com/au/blog/the-athletes-way/201608/nonconformity-has-counter-intuitive-benefits-study-finds",
+    "https://news.yale.edu/2025/01/27/riding-wave-yales-expansion-korean-language-and-cultural-studies"
   ],
   "headlines": [
     {
@@ -258,6 +259,12 @@
       "title": "Nonconformity Has Counter-Intuitive Benefits, Study Finds",
       "topic": "social psychology",
       "date": "2026-02-07"
+    },
+    {
+      "url": "https://news.yale.edu/2025/01/27/riding-wave-yales-expansion-korean-language-and-cultural-studies",
+      "title": "Riding a 'Wave': Yale's expansion of Korean language and cultural studies",
+      "topic": "cultural education",
+      "date": "2026-02-08"
     }
   ]
 }
