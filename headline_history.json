@@ -38,7 +38,8 @@
     "https://www.msn.com/en-us/weather/topstories/cfc-replacements-behind-vast-quantities-of-global-forever-chemical-pollution-research-reveals/ar-AA1VEJzx",
     "https://www.psychologytoday.com/au/blog/the-athletes-way/201608/nonconformity-has-counter-intuitive-benefits-study-finds",
     "https://news.yale.edu/2025/01/27/riding-wave-yales-expansion-korean-language-and-cultural-studies",
-    "https://www.forbes.com/councils/forbesbusinesscouncil/2026/02/03/moving-from-decision-making-to-decision-leadership-why-the-usual-frameworks-arent-enough/"
+    "https://www.forbes.com/councils/forbesbusinesscouncil/2026/02/03/moving-from-decision-making-to-decision-leadership-why-the-usual-frameworks-arent-enough/",
+    "https://www.eurekalert.org/news-releases/1077458"
   ],
   "headlines": [
     {
@@ -272,6 +273,12 @@
       "title": "Moving From Decision-Making To Decision Leadership: Why The Usual Frameworks Aren't Enough",
       "topic": "business leadership",
       "date": "2026-02-09"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1077458",
+      "title": "New study challenges assumptions about solid-state lithium metal batteries",
+      "topic": "battery technology",
+      "date": "2026-02-11"
     }
   ]
 }
