@@ -39,7 +39,8 @@
     "https://www.psychologytoday.com/au/blog/the-athletes-way/201608/nonconformity-has-counter-intuitive-benefits-study-finds",
     "https://news.yale.edu/2025/01/27/riding-wave-yales-expansion-korean-language-and-cultural-studies",
     "https://www.forbes.com/councils/forbesbusinesscouncil/2026/02/03/moving-from-decision-making-to-decision-leadership-why-the-usual-frameworks-arent-enough/",
-    "https://www.eurekalert.org/news-releases/1077458"
+    "https://www.eurekalert.org/news-releases/1077458",
+    "https://medicalxpress.com/news/2026-02-eye-movements-brain-3d-assumption.html"
   ],
   "headlines": [
     {
@@ -279,6 +280,12 @@
       "title": "New study challenges assumptions about solid-state lithium metal batteries",
       "topic": "battery technology",
       "date": "2026-02-11"
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-02-eye-movements-brain-3d-assumption.html",
+      "title": "Eye movements help the brain see in 3D: Research challenges long-standing assumption",
+      "topic": "neuroscience research",
+      "date": "2026-02-12"
     }
   ]
 }
