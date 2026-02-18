@@ -46,7 +46,8 @@
     "https://www.sciencedaily.com/releases/2026/01/260129080440.htm",
     "https://www.msn.com/en-us/news/technology/psychology-study-reveals-how-gratitude-can-backfire-on-your-social-standing/ar-AA1VnGC9",
     "https://www.washingtonexaminer.com/red-alert-politics/1490255/study-unexpected-college-majors-are-most-likely-to-vote/",
-    "https://www.marketwatch.com/press-release/rural-health-transformation-reality-check-what-rural-hospital-decision-makers-will-fund-in-2026-and-what-they-won-t-b95d99ca"
+    "https://www.marketwatch.com/press-release/rural-health-transformation-reality-check-what-rural-hospital-decision-makers-will-fund-in-2026-and-what-they-won-t-b95d99ca",
+    "https://thedebrief.org/scientists-successfully-use-string-theory-to-challenge-more-than-a-century-of-assumptions-about-living-systems/"
   ],
   "headlines": [
     {
@@ -328,6 +329,12 @@
       "title": "Rural Health Transformation Reality Check: What Rural Hospital Decision-Makers Will Fund in 2026 and What They Won't",
       "topic": "rural healthcare",
       "date": "2026-02-17"
+    },
+    {
+      "url": "https://thedebrief.org/scientists-successfully-use-string-theory-to-challenge-more-than-a-century-of-assumptions-about-living-systems/",
+      "title": "Scientists Successfully Use String Theory to Challenge More Than a Century of Assumptions About Living Systems",
+      "topic": "theoretical biology",
+      "date": "2026-02-18"
     }
   ]
 }
