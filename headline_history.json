@@ -48,7 +48,8 @@
     "https://www.washingtonexaminer.com/red-alert-politics/1490255/study-unexpected-college-majors-are-most-likely-to-vote/",
     "https://www.marketwatch.com/press-release/rural-health-transformation-reality-check-what-rural-hospital-decision-makers-will-fund-in-2026-and-what-they-won-t-b95d99ca",
     "https://thedebrief.org/scientists-successfully-use-string-theory-to-challenge-more-than-a-century-of-assumptions-about-living-systems/",
-    "https://www.msn.com/en-in/entertainment/news/word-of-the-day-counterintuitive/ar-AA1WeuHT"
+    "https://www.msn.com/en-in/entertainment/news/word-of-the-day-counterintuitive/ar-AA1WeuHT",
+    "https://theconversation.com/why-failure-is-a-necessary-ingredient-for-success-especially-in-the-era-of-ai-272820"
   ],
   "headlines": [
     {
@@ -342,6 +343,12 @@
       "title": "Word of the Day: Counterintuitive",
       "topic": "cognitive science",
       "date": "2026-02-19"
+    },
+    {
+      "url": "https://theconversation.com/why-failure-is-a-necessary-ingredient-for-success-especially-in-the-era-of-ai-272820",
+      "title": "Why failure is a necessary ingredient for success - especially in the era of AI",
+      "topic": "AI and innovation",
+      "date": "2026-02-20"
     }
   ]
 }
