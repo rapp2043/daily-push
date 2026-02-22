@@ -51,7 +51,8 @@
     "https://www.msn.com/en-in/entertainment/news/word-of-the-day-counterintuitive/ar-AA1WeuHT",
     "https://theconversation.com/why-failure-is-a-necessary-ingredient-for-success-especially-in-the-era-of-ai-272820",
     "https://www.msn.com/en-us/health/wellness/a-new-experiment-reveals-an-unexpected-shift-in-how-pregnant-women-handle-intimidation/ar-AA1VJuEy",
-    "https://www.sciencedaily.com/releases/2026/02/260215225606.htm"
+    "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
+    "https://www.msn.com/en-us/family-and-relationships/child-development-and-psychology/childhood-trauma-linked-to-increased-substance-use-unexpected-effects-on-heart-rate-and-blood-pressure-in-adolescents/ar-AA1DWD3X"
   ],
   "headlines": [
     {
@@ -363,6 +364,12 @@
       "title": "Brain inflammation may be driving compulsive behavior",
       "topic": "neuroscience",
       "date": "2026-02-21"
+    },
+    {
+      "url": "https://www.msn.com/en-us/family-and-relationships/child-development-and-psychology/childhood-trauma-linked-to-increased-substance-use-unexpected-effects-on-heart-rate-and-blood-pressure-in-adolescents/ar-AA1DWD3X",
+      "title": "Childhood trauma linked to increased substance use, unexpected effects on heart rate and blood pressure in adolescents",
+      "topic": "trauma research",
+      "date": "2026-02-22"
     }
   ]
 }
