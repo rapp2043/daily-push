@@ -53,7 +53,8 @@
     "https://www.msn.com/en-us/health/wellness/a-new-experiment-reveals-an-unexpected-shift-in-how-pregnant-women-handle-intimidation/ar-AA1VJuEy",
     "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
     "https://www.msn.com/en-us/family-and-relationships/child-development-and-psychology/childhood-trauma-linked-to-increased-substance-use-unexpected-effects-on-heart-rate-and-blood-pressure-in-adolescents/ar-AA1DWD3X",
-    "https://www.morningstar.com/news/business-wire/20251021473397/new-sisense-research-uncovers-the-churn-paradox-86-of-developers-say-theyre-happy-with-their-analytics-tools-yet-82-have-switched"
+    "https://www.morningstar.com/news/business-wire/20251021473397/new-sisense-research-uncovers-the-churn-paradox-86-of-developers-say-theyre-happy-with-their-analytics-tools-yet-82-have-switched",
+    "https://www.ajmc.com/view/new-research-challenges-assumptions-about-hospital-physician-integration-medicare-patient-mix"
   ],
   "headlines": [
     {
@@ -377,6 +378,12 @@
       "title": "New Sisense Research Uncovers the 'Churn Paradox': 86% of Developers Say They're Happy with Their Analytics Tools, Yet 82% Have Switched",
       "topic": "business analytics",
       "date": "2026-02-23"
+    },
+    {
+      "url": "https://www.ajmc.com/view/new-research-challenges-assumptions-about-hospital-physician-integration-medicare-patient-mix",
+      "title": "New Research Challenges Assumptions About Hospital-Physician Integration, Medicare Patient Mix",
+      "topic": "healthcare policy",
+      "date": "2026-02-24"
     }
   ]
 }
