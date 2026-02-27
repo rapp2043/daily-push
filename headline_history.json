@@ -56,7 +56,8 @@
     "https://www.morningstar.com/news/business-wire/20251021473397/new-sisense-research-uncovers-the-churn-paradox-86-of-developers-say-theyre-happy-with-their-analytics-tools-yet-82-have-switched",
     "https://www.ajmc.com/view/new-research-challenges-assumptions-about-hospital-physician-integration-medicare-patient-mix",
     "https://www.thenews.com.pk/latest/1393533-mars-missing-water-mystery-takes-a-surprising-turn-as-new-study-finds-regional-dust-storms-trigger-massive-water-loss-into-space",
-    "https://www.msn.com/en-us/money/careersandeducation/decision-making-nudges-can-improve-racial-equity-in-tenure-decisions/ar-AA1WZtLz"
+    "https://www.msn.com/en-us/money/careersandeducation/decision-making-nudges-can-improve-racial-equity-in-tenure-decisions/ar-AA1WZtLz",
+    "https://www.msn.com/en-us/science/sociology/girls-rarely-experience-the-friend-zone-psychology-study-finds/ar-AA1WNpEj"
   ],
   "headlines": [
     {
@@ -398,6 +399,12 @@
       "title": "Decision-making nudges can improve racial equity in tenure decisions",
       "topic": "academic equity",
       "date": "2026-02-26"
+    },
+    {
+      "url": "https://www.msn.com/en-us/science/sociology/girls-rarely-experience-the-friend-zone-psychology-study-finds/ar-AA1WNpEj",
+      "title": "Girls rarely experience the 'friend zone,' psychology study finds",
+      "topic": "social psychology",
+      "date": "2026-02-27"
     }
   ]
 }

@@ -1,0 +1,36 @@
+---
+date: 2026-02-27
+headline: Girls rarely experience the 'friend zone,' psychology study finds
+davis_pattern: D7
+template: 2
+source_url: https://www.msn.com/en-us/science/sociology/girls-rarely-experience-the-friend-zone-psychology-study-finds/ar-AA1WNpEj
+status: published
+---
+
+SUBJECT LINE: What a 23-year-old in Ohio can teach us about the 'friend zone'
+
+Josh was twenty-three and living in Columbus when he decided to be honest. He had been close friends with Sarah for two years, through the tail end of college and into their first confusing years of adult life. They texted daily, shared inside jokes, and had a standing Thursday night hangout. To any outside observer, they were a couple waiting to happen. So one evening, over beers at their usual bar, Josh took a breath and told her how he felt. He saw a future with her. He was, in a word, interested.
+
+Sarah was kind. She valued their friendship immensely, she said. She didn’t want to lose what they had. But she didn’t see him that way. Josh walked home that night nursing the peculiar, hollow ache of being told you are wonderful, but not wonderful *that* way. He had, as the parlance of our times goes, been placed firmly in the “friend zone.” For months afterward, he turned the situation over in his mind. Was it something he said? Was he not attractive enough? Was he too available? The experience felt like a universal rite of passage, a brutal but common chapter in the modern story of young love. We’ve all been there, or so we think.
+
+But here’s the problem with that theory. It turns out, “we” haven’t all been there. Not equally. The “friend zone,” that cultural touchstone of unrequited romantic longing between friends, is not the symmetrical experience pop culture has led us to believe. New psychological research suggests it is a profoundly gendered phenomenon. The story we tell ourselves—that men and women equally suffer the agonizing limbo of being “just a friend”—is a modern myth. And like all good myths, it obscures a much more interesting, and unequal, reality.
+
+So what did the researchers find? The work, led by psychologists like Oklahoma State’s Jaimie Krems and UCLA’s Molly Stroud, points to a consistent asymmetry. When you ask men and women about their cross-sex friendships, a clear pattern emerges. Men are far more likely than women to report being attracted to their platonic female friends. They are also more likely to *overestimate* their friend’s attraction to them. Women, by contrast, are more likely to accurately perceive the platonic nature of the bond. This creates a fundamental mismatch. From the man’s perspective, a friendship might feel like a prelude, charged with romantic potential. From the woman’s, it’s simply a friendship. The “zone” isn’t a place she puts him; it’s a scenario he interprets, often alone.[^1]
+
+Why would this be? Let’s consider the first piece of the puzzle: desire and opportunity. A vast body of evolutionary psychology research, from theorists like David Buss, suggests that men and women have historically faced different reproductive challenges. For men, the biological cost of a missed opportunity is relatively low. This can translate, in modern contexts, into a broader, more frequent expression of romantic interest. A friendship with an appealing woman might naturally be seen as a potential platform for something more. The woman, facing higher potential costs from a romantic entanglement, may be more selective from the outset. She is quicker to categorize a man as a friend *or* a romantic prospect, and less likely to linger in an ambiguous middle ground. So the “friend zone” narrative often starts with one party viewing the friendship through a romantic lens, while the other does not.
+
+This brings us to the second concept: mate value assessment. Researchers suggest that men, on average, tend to perceive a wider circle of potential partners as desirable. Think of it as a difference in filters. A man’s filter might let in a larger number of women as potential romantic partners, which can include friends. A woman’s filter is often more stringent from the beginning. Consequently, a man is more likely to find himself attracted to a female friend who has already passed his “friendship filter”—she’s kind, compatible, fun to be with. For the woman, that same man may have already been assessed and placed in the “valuable platonically” category, not the romantic one. The “zone” isn’t created by a cruel rejection; it’s born from two different assessment timelines crashing into one another.
+
+Finally, we have to talk about risk and storytelling. Rejection is painful for everyone. But the story we craft to make sense of that pain matters. The “friend zone” is a compelling narrative for men because it externalizes the rejection. It’s not that *he* was found lacking; it’s that *she* has placed him in a special, frustrating category. It turns a personal “no” into a systemic plight. It’s a story shared in locker rooms and comedy routines, reinforcing its perceived universality. For women, the equivalent narrative is often different—it might be about fearing the loss of the friendship itself, or managing a suitor’s expectations to avoid confrontation. The asymmetry in experience creates an asymmetry in folklore.
+
+So let’s return to Josh in Columbus. His pain was real. His confusion was genuine. But his experience was not the mirror image of what Sarah, or any of his other female friends, were likely going through. He was navigating a landscape shaped by different instincts, different filters, and a culture that had sold him a symmetrical myth. He wasn’t a participant in a universal dance so much as he was experiencing one side of a profound mismatch. The “friend zone” isn’t really a place you get put. It’s more like a story we tell, one that makes more sense to one gender than the other, to explain the messy, unequal, and entirely human collision of friendship and desire.
+
+[^1]: The term "friend zone" is itself a fascinating piece of recent cultural history. It gained mainstream traction in the early 1990s, arguably from an episode of the sitcom *Friends*, and has since become a staple of internet discourse. Its emergence tracks perfectly with an era of increasing platonic cross-sex interaction, creating a need for a new term to describe an old, but newly common, social friction.
+
+---
+**References:**
+- Girls rarely experience the 'friend zone,' psychology study finds. *PsyPost*. Retrieved from https://www.psypost.org/girls-rarely-experience-the-friend-zone-psychology-study-finds/
+- Krems, J. A., Williams, K. E. G., Aktipis, A., & Kenrick, D. T. (2021). Friendship jealousy: One tool for maintaining friendships in the face of third-party threats? *Journal of Personality and Social Psychology*.
+- Bleske-Rechek, A., & Buss, D. M. (2001). Opposite-sex friendship: Sex differences and similarities in initiation, selection, and dissolution. *Personality and Social Psychology Bulletin*.
+- Hall, J. A. (2011). Sex differences in friendship expectations: A meta-analysis. *Journal of Social and Personal Relationships*.
+- The pop culture journey of the "friend zone." *BBC Culture*. Retrieved from https://www.bbc.com/culture/article/20150717-is-the-friend-zone-real
