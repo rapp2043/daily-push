@@ -59,7 +59,8 @@
     "https://www.msn.com/en-us/money/careersandeducation/decision-making-nudges-can-improve-racial-equity-in-tenure-decisions/ar-AA1WZtLz",
     "https://www.msn.com/en-us/science/sociology/girls-rarely-experience-the-friend-zone-psychology-study-finds/ar-AA1WNpEj",
     "https://www.project-syndicate.org/onpoint/technology-brings-more-unintended-consequences-than-intended-ones-by-edward-tenner-2025-04",
-    "https://www.msn.com/en-us/news/technology/habit-like-repetition-influences-decisions-more-than-previously-thought-large-scale-study-finds/ar-AA1XdHRO"
+    "https://www.msn.com/en-us/news/technology/habit-like-repetition-influences-decisions-more-than-previously-thought-large-scale-study-finds/ar-AA1XdHRO",
+    "https://www.sciencedaily.com/releases/2026/02/260222092306.htm"
   ],
   "headlines": [
     {
@@ -419,6 +420,12 @@
       "title": "Habit-like repetition influences decisions more than previously thought, large-scale study finds",
       "topic": "decision-making research",
       "date": "2026-02-28"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/02/260222092306.htm",
+      "title": "Scientists reverse muscle aging in mice and discover a surprising catch",
+      "topic": "aging research",
+      "date": "2026-03-01"
     }
   ]
 }
