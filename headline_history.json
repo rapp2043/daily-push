@@ -62,7 +62,8 @@
     "https://www.msn.com/en-us/news/technology/habit-like-repetition-influences-decisions-more-than-previously-thought-large-scale-study-finds/ar-AA1XdHRO",
     "https://www.sciencedaily.com/releases/2026/02/260222092306.htm",
     "https://www.udel.edu/udaily/2026/february/paradox-theory-business-leadership-scholar-wendy-smith/",
-    "https://www.eurekalert.org/news-releases/1107097"
+    "https://www.eurekalert.org/news-releases/1107097",
+    "https://www.hstoday.us/subject-matter-areas/counterterrorism/study-challenges-assumptions-linking-poverty-and-terrorism/"
   ],
   "headlines": [
     {
@@ -440,6 +441,12 @@
       "title": "Study shows some holiday gifts can backfire - leading to hurt feelings, bad reviews",
       "topic": "consumer behavior",
       "date": "2026-03-03"
+    },
+    {
+      "url": "https://www.hstoday.us/subject-matter-areas/counterterrorism/study-challenges-assumptions-linking-poverty-and-terrorism/",
+      "title": "Study Challenges Assumptions Linking Poverty and Terrorism",
+      "topic": "terrorism research",
+      "date": "2026-03-04"
     }
   ]
 }
