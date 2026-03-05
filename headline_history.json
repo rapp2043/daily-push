@@ -63,7 +63,8 @@
     "https://www.sciencedaily.com/releases/2026/02/260222092306.htm",
     "https://www.udel.edu/udaily/2026/february/paradox-theory-business-leadership-scholar-wendy-smith/",
     "https://www.eurekalert.org/news-releases/1107097",
-    "https://www.hstoday.us/subject-matter-areas/counterterrorism/study-challenges-assumptions-linking-poverty-and-terrorism/"
+    "https://www.hstoday.us/subject-matter-areas/counterterrorism/study-challenges-assumptions-linking-poverty-and-terrorism/",
+    "https://www.edweek.org/teaching-learning/new-adhd-research-challenges-former-assumptions-why-it-matters/2026/02"
   ],
   "headlines": [
     {
@@ -447,6 +448,12 @@
       "title": "Study Challenges Assumptions Linking Poverty and Terrorism",
       "topic": "terrorism research",
       "date": "2026-03-04"
+    },
+    {
+      "url": "https://www.edweek.org/teaching-learning/new-adhd-research-challenges-former-assumptions-why-it-matters/2026/02",
+      "title": "New ADHD Research Challenges Former Assumptions. Why It Matters",
+      "topic": "ADHD research",
+      "date": "2026-03-05"
     }
   ]
 }
