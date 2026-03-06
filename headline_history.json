@@ -64,7 +64,8 @@
     "https://www.udel.edu/udaily/2026/february/paradox-theory-business-leadership-scholar-wendy-smith/",
     "https://www.eurekalert.org/news-releases/1107097",
     "https://www.hstoday.us/subject-matter-areas/counterterrorism/study-challenges-assumptions-linking-poverty-and-terrorism/",
-    "https://www.edweek.org/teaching-learning/new-adhd-research-challenges-former-assumptions-why-it-matters/2026/02"
+    "https://www.edweek.org/teaching-learning/new-adhd-research-challenges-former-assumptions-why-it-matters/2026/02",
+    "https://www.msn.com/en-us/weather/topstories/green-hydrogen-drive-could-backfire-without-supply-chain-overhaul-study-says/ar-AA1Xs1Re"
   ],
   "headlines": [
     {
@@ -454,6 +455,12 @@
       "title": "New ADHD Research Challenges Former Assumptions. Why It Matters",
       "topic": "ADHD research",
       "date": "2026-03-05"
+    },
+    {
+      "url": "https://www.msn.com/en-us/weather/topstories/green-hydrogen-drive-could-backfire-without-supply-chain-overhaul-study-says/ar-AA1Xs1Re",
+      "title": "Green hydrogen drive could backfire without supply chain overhaul, study says",
+      "topic": "environmental policy",
+      "date": "2026-03-06"
     }
   ]
 }
