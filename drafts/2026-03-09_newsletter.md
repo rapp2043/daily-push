@@ -1,0 +1,36 @@
+---
+date: 2026-03-09
+headline: Trump's tariffs struck down, what's next? SBI suggests adopting a 'counter-intuitive' approach
+davis_pattern: D5
+template: 3
+source_url: https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms
+status: published
+---
+
+SUBJECT LINE: Why Losing a Trade War Can Be Winning
+
+The email landed in Katheryn Russ’s inbox on a Tuesday morning. Russ, a trade economist at UC Davis and former senior advisor at the U.S. Treasury, has spent her career parsing the dense legalese of international disputes. The news was striking: a World Trade Organization panel had just ruled that the United States’ national security tariffs on steel and aluminum—the very centerpiece of the Trump administration’s trade policy—violated global trading rules. The immediate reaction in policy circles was a kind of grim satisfaction. A point for the multilateral order. A rebuke for “America First.” For a trade expert like Russ, who has analyzed the cascading damage of tariff wars, it should have felt like validation.[^1] But here’s what makes this interesting. The instinctive response—to declare the tariffs a failure and move to dismantle them—might be exactly the wrong way to think about what just happened. In fact, losing this legal battle could be the key to winning the larger economic one.
+
+We operate on a simple, intuitive logic when it comes to conflict: if you get sued and you lose, you concede. You pay the fine, you change the policy, you move on. It’s the logic of the courtroom, transplanted onto the world stage. So when the State Bank of India recently weighed in on the fallout from this WTO ruling, its suggestion seemed to come from a different planet. Don’t just drop the tariffs, they advised. Adopt a “counter-intuitive” approach. See the legal defeat not as an end, but as a new kind of opening. At first glance, that sounds like the kind of face-saving nonsense you’d expect from a losing side. But what if it’s not? What if, in the messy, political, and often theatrical world of international trade, a legal loss is sometimes a strategic necessity?
+
+To understand why, you have to rewind the tape. Not to 2018, when Trump first imposed those tariffs under Section 232 of the Trade Expansion Act, citing national security. You have to go back to the very purpose of institutions like the WTO. They weren’t created to eliminate conflict. They were created to *manage* it—to provide a forum for grievances so they didn’t escalate into something worse. The process *is* the product. The filing of a case, the long investigation, the deliberation, the ruling—this years-long theater is often the real point. It allows domestic political pressures in the complaining country to vent steam while providing political cover for leaders back home. The legal outcome is almost a secondary concern.
+
+Consider a thought experiment. You’re the U.S. Trade Representative. You inherit these tariffs, which are deeply unpopular with allies but popular with certain domestic constituencies. You face immense pressure from Europe, from Asia, to take them down. Simply repealing them looks weak, a capitulation to foreign pressure. But a WTO ruling against you? That’s different. That’s an external, “neutral” force. It provides a politically palatable excuse to shift course. You can now tell your steelworkers, “We fought for you in every arena, but the international court tied our hands.” The legal loss becomes a diplomatic and domestic tool. It’s a pressure valve.
+
+This is where history offers a clue. Look at the long arc of U.S. trade policy and you’ll see a pattern: the most durable agreements often emerge from the ashes of aggressive, and sometimes illegal, unilateral actions. The threat creates the crisis, and the crisis forces the negotiation. It’s a dangerous game, but not a new one. The Reagan administration’s aggressive use of voluntary export restraints on Japanese cars in the 1980s violated the spirit of trade rules, but it also reshaped the auto industry and paved the way for new dialogues. The process was chaotic and contentious, but it moved the pieces on the board.
+
+So what does the “counter-intuitive” approach look like in practice? It doesn’t mean defying the WTO, which would undermine the system entirely. It means using the ruling as the foundation for a new, more targeted strategy. It means shifting from broad, blunt tariffs to focused, negotiated deals on specific issues like overcapacity in global steel. It means converting a politically symbolic stick into a set of surgical tools. The legal loss strips away the legally indefensible “national security” blanket, forcing a move to more defensible, economic arguments. It forces precision.
+
+And this is the subtle twist that flips the entire story on its head. We see a headline—“Trump’s Tariffs Struck Down”—and we think it’s a story about the past, about a policy being judged and found wanting. But for the people in the rooms where trade policy is actually made, that headline isn’t an epilogue. It’s the opening line of the next chapter. The ruling isn’t the end of the dispute; it’s the beginning of the real negotiation. The theatrics of the legal battle served their purpose: they got everyone’s attention, they rallied domestic bases, they signaled seriousness. Now, with the verdict in, the actors can leave the stage of the courtroom and walk back to the bargaining table, their positions clarified by the performance.
+
+Katheryn Russ knows this dance well. The ruling in her inbox wasn’t a full stop. It was a comma. For the economist, it’s a data point in the long, inefficient, and often paradoxical process of how nations manage economic conflict. The intuitive path is to see a loss and retreat. The counter-intuitive path is to see the structure of the loss itself—the reasoning, the objections, the alliances it reveals—as a blueprint for what to do next. Sometimes, you have to lose the argument in order to win the deal.
+
+[^1]: The speed of this particular ruling was itself unusual. WTO disputes are famously slow, often taking years longer than the stipulated timeline. This panel moved with relative haste, a signal of how high-profile and destabilizing the tariffs were considered to be.
+
+---
+**References:**
+- "Trump's tariffs struck down, what's next? SBI suggests adopting a 'counter-intuitive' approach," *The Times of India*, April 13, 2025. (Source article)
+- World Trade Organization. "United States — Certain Measures on Steel and Aluminum Products." Reports of the Panel (WT/DS544/R, WT/DS552/R, WT/DS556/R, WT/DS564/R), circulated April 2025.
+- Russ, Katheryn. "Value Chains and the Great Reallocation: Trade Policy during the Pandemic." *Journal of Economic Perspectives*, 2024.
+- Bown, Chad P. (Peterson Institute for International Economics). "Trump’s Steel and Aluminum Tariffs: How Did They Work?" *Trade and Investment Policy Watch*, ongoing analysis.
+- "Section 232 Investigations: The Effect of Imports on U.S. National Security." United States International Trade Commission, Executive Briefings on Trade, 2019.

@@ -68,7 +68,8 @@
     "https://www.msn.com/en-us/weather/topstories/green-hydrogen-drive-could-backfire-without-supply-chain-overhaul-study-says/ar-AA1Xs1Re",
     "https://neurosciencenews.com/compulsivity-habit-uncertainty-30251/",
     "https://phys.org/news/2024-06-success-failure.html",
-    "https://theconversation.com/understanding-ai-outputs-study-shows-pro-western-cultural-bias-in-the-way-ai-decisions-are-explained-227262"
+    "https://theconversation.com/understanding-ai-outputs-study-shows-pro-western-cultural-bias-in-the-way-ai-decisions-are-explained-227262",
+    "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms"
   ],
   "headlines": [
     {
@@ -482,6 +483,12 @@
       "title": "Understanding AI outputs: study shows pro\u2011western cultural bias in the way AI decisions are explained",
       "topic": "AI cultural bias",
       "date": "2026-03-08"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
+      "title": "Trump's tariffs struck down, what's next? SBI suggests adopting a 'counter-intuitive' approach",
+      "topic": "international trade",
+      "date": "2026-03-09"
     }
   ]
 }
