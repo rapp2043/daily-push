@@ -72,7 +72,8 @@
     "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
     "https://www.healthaffairs.org/content/forefront/unanswered-questions-and-unintended-consequences-state-prescription-drug-affordability?trk=public_post_comment-text",
     "https://www.forbes.com/sites/carolinecastrillon/2025/03/06/why-career-success-depends-on-embracing-failure/",
-    "https://www.consumeraffairs.com/news/ai-brain-fry-is-emerging-as-a-new-workplace-risk-031026.html"
+    "https://www.consumeraffairs.com/news/ai-brain-fry-is-emerging-as-a-new-workplace-risk-031026.html",
+    "https://www.eurekalert.org/news-releases/1095631"
   ],
   "headlines": [
     {
@@ -510,6 +511,12 @@
       "title": "AI 'brain fry' is emerging as a new workplace risk",
       "topic": "AI occupational health",
       "date": "2026-03-12"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1095631",
+      "title": "When the familiar meets the unfamiliar: A cross-cultural study of what future teachers notice",
+      "topic": "education research",
+      "date": "2026-03-13"
     }
   ]
 }
