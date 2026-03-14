@@ -73,7 +73,8 @@
     "https://www.healthaffairs.org/content/forefront/unanswered-questions-and-unintended-consequences-state-prescription-drug-affordability?trk=public_post_comment-text",
     "https://www.forbes.com/sites/carolinecastrillon/2025/03/06/why-career-success-depends-on-embracing-failure/",
     "https://www.consumeraffairs.com/news/ai-brain-fry-is-emerging-as-a-new-workplace-risk-031026.html",
-    "https://www.eurekalert.org/news-releases/1095631"
+    "https://www.eurekalert.org/news-releases/1095631",
+    "https://phys.org/news/2025-12-climate-policies-backfire-eroding-green.html"
   ],
   "headlines": [
     {
@@ -517,6 +518,12 @@
       "title": "When the familiar meets the unfamiliar: A cross-cultural study of what future teachers notice",
       "topic": "education research",
       "date": "2026-03-13"
+    },
+    {
+      "url": "https://phys.org/news/2025-12-climate-policies-backfire-eroding-green.html",
+      "title": "Climate policies can backfire by eroding 'green' values, study finds",
+      "topic": "climate policy",
+      "date": "2026-03-14"
     }
   ]
 }
