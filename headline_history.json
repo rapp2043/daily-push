@@ -75,7 +75,8 @@
     "https://www.consumeraffairs.com/news/ai-brain-fry-is-emerging-as-a-new-workplace-risk-031026.html",
     "https://www.eurekalert.org/news-releases/1095631",
     "https://phys.org/news/2025-12-climate-policies-backfire-eroding-green.html",
-    "https://thedebrief.org/new-research-finds-ai-labels-can-backfire-making-misinformation-seem-more-credible/"
+    "https://thedebrief.org/new-research-finds-ai-labels-can-backfire-making-misinformation-seem-more-credible/",
+    "https://phys.org/news/2026-03-customer-backfire.html"
   ],
   "headlines": [
     {
@@ -531,6 +532,12 @@
       "title": "New Research Finds AI Labels Can Backfire, Making Misinformation Seem More Credible",
       "topic": "AI misinformation",
       "date": "2026-03-14"
+    },
+    {
+      "url": "https://phys.org/news/2026-03-customer-backfire.html",
+      "title": "The customer might always be right, but apologies actually backfire in customer service",
+      "topic": "consumer behavior",
+      "date": "2026-03-15"
     }
   ]
 }
