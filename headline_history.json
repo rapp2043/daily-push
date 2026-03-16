@@ -76,7 +76,8 @@
     "https://www.eurekalert.org/news-releases/1095631",
     "https://phys.org/news/2025-12-climate-policies-backfire-eroding-green.html",
     "https://thedebrief.org/new-research-finds-ai-labels-can-backfire-making-misinformation-seem-more-credible/",
-    "https://phys.org/news/2026-03-customer-backfire.html"
+    "https://phys.org/news/2026-03-customer-backfire.html",
+    "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7"
   ],
   "headlines": [
     {
@@ -538,6 +539,12 @@
       "title": "The customer might always be right, but apologies actually backfire in customer service",
       "topic": "consumer behavior",
       "date": "2026-03-15"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7",
+      "title": "The bystander effect applies to virtual agents, new psychology research shows",
+      "topic": "AI psychology",
+      "date": "2026-03-16"
     }
   ]
 }
