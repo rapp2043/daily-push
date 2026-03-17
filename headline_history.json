@@ -77,7 +77,8 @@
     "https://phys.org/news/2025-12-climate-policies-backfire-eroding-green.html",
     "https://thedebrief.org/new-research-finds-ai-labels-can-backfire-making-misinformation-seem-more-credible/",
     "https://phys.org/news/2026-03-customer-backfire.html",
-    "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7"
+    "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7",
+    "https://www.morningstar.com/news/business-wire/20260218663261/new-research-from-apexanalytix-highlights-the-quantum-paradox-urging-leaders-to-future-proof-supplier-platforms"
   ],
   "headlines": [
     {
@@ -545,6 +546,12 @@
       "title": "The bystander effect applies to virtual agents, new psychology research shows",
       "topic": "AI psychology",
       "date": "2026-03-16"
+    },
+    {
+      "url": "https://www.morningstar.com/news/business-wire/20260218663261/new-research-from-apexanalytix-highlights-the-quantum-paradox-urging-leaders-to-future-proof-supplier-platforms",
+      "title": "New Research From apexanalytix Highlights the Quantum Paradox, Urging Leaders to Future-Proof Supplier Platforms",
+      "topic": "emerging technology risk",
+      "date": "2026-03-17"
     }
   ]
 }
