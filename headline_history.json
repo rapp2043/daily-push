@@ -78,7 +78,8 @@
     "https://thedebrief.org/new-research-finds-ai-labels-can-backfire-making-misinformation-seem-more-credible/",
     "https://phys.org/news/2026-03-customer-backfire.html",
     "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7",
-    "https://www.morningstar.com/news/business-wire/20260218663261/new-research-from-apexanalytix-highlights-the-quantum-paradox-urging-leaders-to-future-proof-supplier-platforms"
+    "https://www.morningstar.com/news/business-wire/20260218663261/new-research-from-apexanalytix-highlights-the-quantum-paradox-urging-leaders-to-future-proof-supplier-platforms",
+    "https://www.eurekalert.org/news-releases/1109442"
   ],
   "headlines": [
     {
@@ -552,6 +553,12 @@
       "title": "New Research From apexanalytix Highlights the Quantum Paradox, Urging Leaders to Future-Proof Supplier Platforms",
       "topic": "emerging technology risk",
       "date": "2026-03-17"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1109442",
+      "title": "UC Irvine professor wins criminology's equivalent of the Nobel Prize",
+      "topic": "criminology",
+      "date": "2026-03-18"
     }
   ]
 }
