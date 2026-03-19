@@ -79,7 +79,8 @@
     "https://phys.org/news/2026-03-customer-backfire.html",
     "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7",
     "https://www.morningstar.com/news/business-wire/20260218663261/new-research-from-apexanalytix-highlights-the-quantum-paradox-urging-leaders-to-future-proof-supplier-platforms",
-    "https://www.eurekalert.org/news-releases/1109442"
+    "https://www.eurekalert.org/news-releases/1109442",
+    "https://knowridge.com/2026/03/hidden-side-effects-and-surprising-brain-benefits-of-cholesterol-drugs/"
   ],
   "headlines": [
     {
@@ -559,6 +560,12 @@
       "title": "UC Irvine professor wins criminology's equivalent of the Nobel Prize",
       "topic": "criminology",
       "date": "2026-03-18"
+    },
+    {
+      "url": "https://knowridge.com/2026/03/hidden-side-effects-and-surprising-brain-benefits-of-cholesterol-drugs/",
+      "title": "Hidden side effects and surprising brain benefits of cholesterol drugs",
+      "topic": "medical research",
+      "date": "2026-03-19"
     }
   ]
 }
