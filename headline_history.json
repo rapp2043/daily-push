@@ -80,7 +80,8 @@
     "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7",
     "https://www.morningstar.com/news/business-wire/20260218663261/new-research-from-apexanalytix-highlights-the-quantum-paradox-urging-leaders-to-future-proof-supplier-platforms",
     "https://www.eurekalert.org/news-releases/1109442",
-    "https://knowridge.com/2026/03/hidden-side-effects-and-surprising-brain-benefits-of-cholesterol-drugs/"
+    "https://knowridge.com/2026/03/hidden-side-effects-and-surprising-brain-benefits-of-cholesterol-drugs/",
+    "https://www.msn.com/en-us/personal-development/emotional-intelligence-and-self-awareness/new-psychology-study-reveals-we-consistently-underestimate-our-power-in-close-relationships/ar-AA1YKh3C"
   ],
   "headlines": [
     {
@@ -566,6 +567,12 @@
       "title": "Hidden side effects and surprising brain benefits of cholesterol drugs",
       "topic": "medical research",
       "date": "2026-03-19"
+    },
+    {
+      "url": "https://www.msn.com/en-us/personal-development/emotional-intelligence-and-self-awareness/new-psychology-study-reveals-we-consistently-underestimate-our-power-in-close-relationships/ar-AA1YKh3C",
+      "title": "New psychology study reveals we consistently underestimate our power in close relationships",
+      "topic": "social psychology",
+      "date": "2026-03-20"
     }
   ]
 }
