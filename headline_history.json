@@ -81,7 +81,8 @@
     "https://www.morningstar.com/news/business-wire/20260218663261/new-research-from-apexanalytix-highlights-the-quantum-paradox-urging-leaders-to-future-proof-supplier-platforms",
     "https://www.eurekalert.org/news-releases/1109442",
     "https://knowridge.com/2026/03/hidden-side-effects-and-surprising-brain-benefits-of-cholesterol-drugs/",
-    "https://www.msn.com/en-us/personal-development/emotional-intelligence-and-self-awareness/new-psychology-study-reveals-we-consistently-underestimate-our-power-in-close-relationships/ar-AA1YKh3C"
+    "https://www.msn.com/en-us/personal-development/emotional-intelligence-and-self-awareness/new-psychology-study-reveals-we-consistently-underestimate-our-power-in-close-relationships/ar-AA1YKh3C",
+    "https://www.investopedia.com/how-many-americans-save-usd500-000-by-40-the-answer-reveals-a-surprising-reality-11926513"
   ],
   "headlines": [
     {
@@ -573,6 +574,12 @@
       "title": "New psychology study reveals we consistently underestimate our power in close relationships",
       "topic": "social psychology",
       "date": "2026-03-20"
+    },
+    {
+      "url": "https://www.investopedia.com/how-many-americans-save-usd500-000-by-40-the-answer-reveals-a-surprising-reality-11926513",
+      "title": "How Many Americans Save $500,000 by 40? The Answer Reveals a Surprising Reality",
+      "topic": "personal finance",
+      "date": "2026-03-21"
     }
   ]
 }
