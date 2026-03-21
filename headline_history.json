@@ -82,7 +82,8 @@
     "https://www.eurekalert.org/news-releases/1109442",
     "https://knowridge.com/2026/03/hidden-side-effects-and-surprising-brain-benefits-of-cholesterol-drugs/",
     "https://www.msn.com/en-us/personal-development/emotional-intelligence-and-self-awareness/new-psychology-study-reveals-we-consistently-underestimate-our-power-in-close-relationships/ar-AA1YKh3C",
-    "https://www.investopedia.com/how-many-americans-save-usd500-000-by-40-the-answer-reveals-a-surprising-reality-11926513"
+    "https://www.investopedia.com/how-many-americans-save-usd500-000-by-40-the-answer-reveals-a-surprising-reality-11926513",
+    "https://www.msn.com/en-us/sports/nba/my-research-on-wheelchair-basketball-challenges-one-of-the-biggest-assumptions-about-sex-differences-in-sports/ar-AA1YP74v"
   ],
   "headlines": [
     {
@@ -579,6 +580,12 @@
       "url": "https://www.investopedia.com/how-many-americans-save-usd500-000-by-40-the-answer-reveals-a-surprising-reality-11926513",
       "title": "How Many Americans Save $500,000 by 40? The Answer Reveals a Surprising Reality",
       "topic": "personal finance",
+      "date": "2026-03-21"
+    },
+    {
+      "url": "https://www.msn.com/en-us/sports/nba/my-research-on-wheelchair-basketball-challenges-one-of-the-biggest-assumptions-about-sex-differences-in-sports/ar-AA1YP74v",
+      "title": "My research on wheelchair basketball challenges one of the biggest assumptions about sex differences in sports",
+      "topic": "sports science",
       "date": "2026-03-21"
     }
   ]
