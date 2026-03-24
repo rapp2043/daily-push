@@ -85,7 +85,8 @@
     "https://www.investopedia.com/how-many-americans-save-usd500-000-by-40-the-answer-reveals-a-surprising-reality-11926513",
     "https://www.msn.com/en-us/sports/nba/my-research-on-wheelchair-basketball-challenges-one-of-the-biggest-assumptions-about-sex-differences-in-sports/ar-AA1YP74v",
     "https://thehendersonnews.com/2026/03/21/historically-speaking-the-unintended-consequences-of-attacking-higher-education/",
-    "https://grist.org/politics/why-forcing-people-to-go-green-can-backfire/"
+    "https://grist.org/politics/why-forcing-people-to-go-green-can-backfire/",
+    "https://www.genengnews.com/topics/translational-medicine/fmt-may-have-long-lasting-unintended-health-consequences-in-recipients-study-findings-suggest/"
   ],
   "headlines": [
     {
@@ -601,6 +602,12 @@
       "title": "Why forcing people to go green can backfire",
       "topic": "environmental policy",
       "date": "2026-03-23"
+    },
+    {
+      "url": "https://www.genengnews.com/topics/translational-medicine/fmt-may-have-long-lasting-unintended-health-consequences-in-recipients-study-findings-suggest/",
+      "title": "FMT Safety Questioned: Microbiome Mismatches May Have Unintended Health Effects",
+      "topic": "microbiome therapy",
+      "date": "2026-03-24"
     }
   ]
 }
