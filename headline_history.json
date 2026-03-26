@@ -87,7 +87,8 @@
     "https://thehendersonnews.com/2026/03/21/historically-speaking-the-unintended-consequences-of-attacking-higher-education/",
     "https://grist.org/politics/why-forcing-people-to-go-green-can-backfire/",
     "https://www.genengnews.com/topics/translational-medicine/fmt-may-have-long-lasting-unintended-health-consequences-in-recipients-study-findings-suggest/",
-    "https://www.msn.com/en-us/science/general/are-humans-naturally-violent-new-research-challenges-long-held-assumptions/ar-AA1Z8wEo"
+    "https://www.msn.com/en-us/science/general/are-humans-naturally-violent-new-research-challenges-long-held-assumptions/ar-AA1Z8wEo",
+    "https://www.sciencedaily.com/releases/2026/03/260312020104.htm"
   ],
   "headlines": [
     {
@@ -615,6 +616,12 @@
       "title": "Are humans naturally violent? New research challenges long-held assumptions",
       "topic": "evolutionary psychology",
       "date": "2026-03-25"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260312020104.htm",
+      "title": "A surprising blood protein pattern may reveal Alzheimer's",
+      "topic": "medical research",
+      "date": "2026-03-26"
     }
   ]
 }
