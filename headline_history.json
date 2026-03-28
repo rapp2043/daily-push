@@ -90,7 +90,8 @@
     "https://www.msn.com/en-us/science/general/are-humans-naturally-violent-new-research-challenges-long-held-assumptions/ar-AA1Z8wEo",
     "https://www.sciencedaily.com/releases/2026/03/260312020104.htm",
     "https://www.yahoo.com/lifestyle/articles/3-surprising-things-boost-creativity-140000975.html",
-    "https://phys.org/news/2026-03-explores-paradox-firms-unique-technologies.html"
+    "https://phys.org/news/2026-03-explores-paradox-firms-unique-technologies.html",
+    "https://www.msn.com/en-us/money/general/the-crippling-success-paradox-that-makes-even-winners-fear-failure/ar-AA1YycXS"
   ],
   "headlines": [
     {
@@ -635,6 +636,12 @@
       "url": "https://phys.org/news/2026-03-explores-paradox-firms-unique-technologies.html",
       "title": "New research explores the paradox of firms' unique technologies",
       "topic": "business strategy",
+      "date": "2026-03-28"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/general/the-crippling-success-paradox-that-makes-even-winners-fear-failure/ar-AA1YycXS",
+      "title": "The crippling 'success paradox' that makes even winners fear failure",
+      "topic": "psychology of success",
       "date": "2026-03-28"
     }
   ]
