@@ -91,7 +91,8 @@
     "https://www.sciencedaily.com/releases/2026/03/260312020104.htm",
     "https://www.yahoo.com/lifestyle/articles/3-surprising-things-boost-creativity-140000975.html",
     "https://phys.org/news/2026-03-explores-paradox-firms-unique-technologies.html",
-    "https://www.msn.com/en-us/money/general/the-crippling-success-paradox-that-makes-even-winners-fear-failure/ar-AA1YycXS"
+    "https://www.msn.com/en-us/money/general/the-crippling-success-paradox-that-makes-even-winners-fear-failure/ar-AA1YycXS",
+    "https://www.msn.com/en-au/news/other/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SloB8"
   ],
   "headlines": [
     {
@@ -643,6 +644,12 @@
       "title": "The crippling 'success paradox' that makes even winners fear failure",
       "topic": "psychology of success",
       "date": "2026-03-28"
+    },
+    {
+      "url": "https://www.msn.com/en-au/news/other/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SloB8",
+      "title": "'Checkout charity' requests often backfire, leaving shoppers feeling guilty: new study",
+      "topic": "consumer behavior",
+      "date": "2026-03-29"
     }
   ]
 }
