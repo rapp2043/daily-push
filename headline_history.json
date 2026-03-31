@@ -93,7 +93,8 @@
     "https://phys.org/news/2026-03-explores-paradox-firms-unique-technologies.html",
     "https://www.msn.com/en-us/money/general/the-crippling-success-paradox-that-makes-even-winners-fear-failure/ar-AA1YycXS",
     "https://www.msn.com/en-au/news/other/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SloB8",
-    "https://scitechdaily.com/psychologists-find-past-actions-influence-decisions-more-than-previously-thought/"
+    "https://scitechdaily.com/psychologists-find-past-actions-influence-decisions-more-than-previously-thought/",
+    "https://www.sciencedaily.com/releases/2026/03/260328043552.htm"
   ],
   "headlines": [
     {
@@ -657,6 +658,12 @@
       "title": "Psychologists Find Past Actions Influence Decisions More Than Previously Thought",
       "topic": "behavioral psychology",
       "date": "2026-03-30"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260328043552.htm",
+      "title": "Scientists say the evidence is clear: E-cigarettes beat patches and gum in helping smokers quit",
+      "topic": "public health",
+      "date": "2026-03-31"
     }
   ]
 }
