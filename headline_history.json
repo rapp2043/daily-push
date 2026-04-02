@@ -94,7 +94,8 @@
     "https://www.msn.com/en-us/money/general/the-crippling-success-paradox-that-makes-even-winners-fear-failure/ar-AA1YycXS",
     "https://www.msn.com/en-au/news/other/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SloB8",
     "https://scitechdaily.com/psychologists-find-past-actions-influence-decisions-more-than-previously-thought/",
-    "https://www.sciencedaily.com/releases/2026/03/260328043552.htm"
+    "https://www.sciencedaily.com/releases/2026/03/260328043552.htm",
+    "https://www.bostonglobe.com/2025/11/17/opinion/ai-medicine-malpractice-lawsuits/"
   ],
   "headlines": [
     {
@@ -664,6 +665,12 @@
       "title": "Scientists say the evidence is clear: E-cigarettes beat patches and gum in helping smokers quit",
       "topic": "public health",
       "date": "2026-03-31"
+    },
+    {
+      "url": "https://www.bostonglobe.com/2025/11/17/opinion/ai-medicine-malpractice-lawsuits/",
+      "title": "The unintended consequences of AI in medicine",
+      "topic": "AI in healthcare",
+      "date": "2026-04-02"
     }
   ]
 }
