@@ -95,7 +95,8 @@
     "https://www.msn.com/en-au/news/other/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SloB8",
     "https://scitechdaily.com/psychologists-find-past-actions-influence-decisions-more-than-previously-thought/",
     "https://www.sciencedaily.com/releases/2026/03/260328043552.htm",
-    "https://www.bostonglobe.com/2025/11/17/opinion/ai-medicine-malpractice-lawsuits/"
+    "https://www.bostonglobe.com/2025/11/17/opinion/ai-medicine-malpractice-lawsuits/",
+    "https://scitechdaily.com/are-humans-naturally-violent-scientists-challenge-long-held-assumptions/"
   ],
   "headlines": [
     {
@@ -671,6 +672,12 @@
       "title": "The unintended consequences of AI in medicine",
       "topic": "AI in healthcare",
       "date": "2026-04-02"
+    },
+    {
+      "url": "https://scitechdaily.com/are-humans-naturally-violent-scientists-challenge-long-held-assumptions/",
+      "title": "Are Humans Naturally Violent? Scientists Challenge Long-Held Assumptions",
+      "topic": "human evolution",
+      "date": "2026-04-03"
     }
   ]
 }
