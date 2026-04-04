@@ -96,7 +96,8 @@
     "https://scitechdaily.com/psychologists-find-past-actions-influence-decisions-more-than-previously-thought/",
     "https://www.sciencedaily.com/releases/2026/03/260328043552.htm",
     "https://www.bostonglobe.com/2025/11/17/opinion/ai-medicine-malpractice-lawsuits/",
-    "https://scitechdaily.com/are-humans-naturally-violent-scientists-challenge-long-held-assumptions/"
+    "https://scitechdaily.com/are-humans-naturally-violent-scientists-challenge-long-held-assumptions/",
+    "https://www.nature.com/research-intelligence/nri-topic-summaries/cultural-studies-for-l2-4702"
   ],
   "headlines": [
     {
@@ -678,6 +679,12 @@
       "title": "Are Humans Naturally Violent? Scientists Challenge Long-Held Assumptions",
       "topic": "human evolution",
       "date": "2026-04-03"
+    },
+    {
+      "url": "https://www.nature.com/research-intelligence/nri-topic-summaries/cultural-studies-for-l2-4702",
+      "title": "Cultural Studies",
+      "topic": "academic disciplines",
+      "date": "2026-04-04"
     }
   ]
 }
