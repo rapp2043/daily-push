@@ -97,7 +97,8 @@
     "https://www.sciencedaily.com/releases/2026/03/260328043552.htm",
     "https://www.bostonglobe.com/2025/11/17/opinion/ai-medicine-malpractice-lawsuits/",
     "https://scitechdaily.com/are-humans-naturally-violent-scientists-challenge-long-held-assumptions/",
-    "https://www.nature.com/research-intelligence/nri-topic-summaries/cultural-studies-for-l2-4702"
+    "https://www.nature.com/research-intelligence/nri-topic-summaries/cultural-studies-for-l2-4702",
+    "https://www.fastcompany.com/91507167/the-crippling-success-paradox-that-makes-even-winners-fear-failure"
   ],
   "headlines": [
     {
@@ -685,6 +686,12 @@
       "title": "Cultural Studies",
       "topic": "academic disciplines",
       "date": "2026-04-04"
+    },
+    {
+      "url": "https://www.fastcompany.com/91507167/the-crippling-success-paradox-that-makes-even-winners-fear-failure",
+      "title": "The crippling 'success paradox' that makes even winners fear failure",
+      "topic": "success dynamics",
+      "date": "2026-04-06"
     }
   ]
 }
