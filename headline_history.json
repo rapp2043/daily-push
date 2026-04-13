@@ -98,7 +98,8 @@
     "https://www.bostonglobe.com/2025/11/17/opinion/ai-medicine-malpractice-lawsuits/",
     "https://scitechdaily.com/are-humans-naturally-violent-scientists-challenge-long-held-assumptions/",
     "https://www.nature.com/research-intelligence/nri-topic-summaries/cultural-studies-for-l2-4702",
-    "https://www.fastcompany.com/91507167/the-crippling-success-paradox-that-makes-even-winners-fear-failure"
+    "https://www.fastcompany.com/91507167/the-crippling-success-paradox-that-makes-even-winners-fear-failure",
+    "https://www.msn.com/en-gb/society-culture-and-history/social-issues/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxMKf"
   ],
   "headlines": [
     {
@@ -692,6 +693,12 @@
       "title": "The crippling 'success paradox' that makes even winners fear failure",
       "topic": "success dynamics",
       "date": "2026-04-06"
+    },
+    {
+      "url": "https://www.msn.com/en-gb/society-culture-and-history/social-issues/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxMKf",
+      "title": "Jane Goodall revolutionized animal research, but her work had some unintended consequences. Here's what we've learned from them.",
+      "topic": "animal research ethics",
+      "date": "2026-04-13"
     }
   ]
 }
