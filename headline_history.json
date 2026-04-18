@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/science/sociology/new-research-challenges-western-assumptions-about-autistic-social-cognition/ar-AA1TCz08",
     "https://www.psychologytoday.com/nz/blog/stretching-theory/202412/the-surprising-psychology-of-holiday-decorations",
     "https://thesocietypages.org/firstpublics/2026/01/14/teaching-methods-in-times-of-crisis/",
     "https://www.psychologytoday.com/nz/blog/the-healthy-journey/202508/the-surprising-psychology-behind-weight-loss-maintenance",
@@ -99,14 +98,10 @@
     "https://scitechdaily.com/are-humans-naturally-violent-scientists-challenge-long-held-assumptions/",
     "https://www.nature.com/research-intelligence/nri-topic-summaries/cultural-studies-for-l2-4702",
     "https://www.fastcompany.com/91507167/the-crippling-success-paradox-that-makes-even-winners-fear-failure",
-    "https://www.msn.com/en-gb/society-culture-and-history/social-issues/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxMKf"
+    "https://www.msn.com/en-gb/society-culture-and-history/social-issues/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxMKf",
+    "https://phys.org/news/2025-04-sustainability-certificates-palm-oil-plantations.html"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/science/sociology/new-research-challenges-western-assumptions-about-autistic-social-cognition/ar-AA1TCz08",
-      "title": "New research challenges Western assumptions about autistic social cognition",
-      "date": "2026-01-15"
-    },
     {
       "url": "https://www.psychologytoday.com/nz/blog/stretching-theory/202412/the-surprising-psychology-of-holiday-decorations",
       "title": "The Surprising Psychology of Holiday Decorations",
@@ -699,6 +694,12 @@
       "title": "Jane Goodall revolutionized animal research, but her work had some unintended consequences. Here's what we've learned from them.",
       "topic": "animal research ethics",
       "date": "2026-04-13"
+    },
+    {
+      "url": "https://phys.org/news/2025-04-sustainability-certificates-palm-oil-plantations.html",
+      "title": "Sustainability certificates for palm oil plantations can have unintended consequences",
+      "topic": "sustainability certification",
+      "date": "2026-04-18"
     }
   ]
 }
