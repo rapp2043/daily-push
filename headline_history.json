@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.psychologytoday.com/nz/blog/stretching-theory/202412/the-surprising-psychology-of-holiday-decorations",
     "https://thesocietypages.org/firstpublics/2026/01/14/teaching-methods-in-times-of-crisis/",
     "https://www.psychologytoday.com/nz/blog/the-healthy-journey/202508/the-surprising-psychology-behind-weight-loss-maintenance",
     "https://www.eurekalert.org/news-releases/1099156",
@@ -99,14 +98,10 @@
     "https://www.nature.com/research-intelligence/nri-topic-summaries/cultural-studies-for-l2-4702",
     "https://www.fastcompany.com/91507167/the-crippling-success-paradox-that-makes-even-winners-fear-failure",
     "https://www.msn.com/en-gb/society-culture-and-history/social-issues/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxMKf",
-    "https://phys.org/news/2025-04-sustainability-certificates-palm-oil-plantations.html"
+    "https://phys.org/news/2025-04-sustainability-certificates-palm-oil-plantations.html",
+    "https://www.msn.com/en-us/society-culture-and-history/cultural-events/unexpected-characteristic-is-driving-transition-in-human-s-evolution-study/ar-AA1N5VD6"
   ],
   "headlines": [
-    {
-      "url": "https://www.psychologytoday.com/nz/blog/stretching-theory/202412/the-surprising-psychology-of-holiday-decorations",
-      "title": "The Surprising Psychology of Holiday Decorations",
-      "date": "2026-01-15"
-    },
     {
       "url": "https://thesocietypages.org/firstpublics/2026/01/14/teaching-methods-in-times-of-crisis/",
       "title": "Teaching Methods in Times of Crisis",
@@ -700,6 +695,12 @@
       "title": "Sustainability certificates for palm oil plantations can have unintended consequences",
       "topic": "sustainability certification",
       "date": "2026-04-18"
+    },
+    {
+      "url": "https://www.msn.com/en-us/society-culture-and-history/cultural-events/unexpected-characteristic-is-driving-transition-in-human-s-evolution-study/ar-AA1N5VD6",
+      "title": "Unexpected characteristic is driving transition in human's evolution: study",
+      "topic": "cultural evolution",
+      "date": "2026-04-19"
     }
   ]
 }
