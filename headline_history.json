@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.psychologytoday.com/nz/blog/the-healthy-journey/202508/the-surprising-psychology-behind-weight-loss-maintenance",
     "https://www.eurekalert.org/news-releases/1099156",
     "https://www.msn.com/en-us/travel/budget-travel/skyscanner-s-cheapest-vacation-hotspots-of-2026-including-a-surprising-few-top-luxury-destinations/ar-AA1U7YHN",
     "https://www.eurekalert.org/news-releases/1092129",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-gb/society-culture-and-history/social-issues/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxMKf",
     "https://phys.org/news/2025-04-sustainability-certificates-palm-oil-plantations.html",
     "https://www.msn.com/en-us/society-culture-and-history/cultural-events/unexpected-characteristic-is-driving-transition-in-human-s-evolution-study/ar-AA1N5VD6",
-    "https://medicalxpress.com/news/2026-04-qa-psychiatrists-unintended-fatal-consequences.html"
+    "https://medicalxpress.com/news/2026-04-qa-psychiatrists-unintended-fatal-consequences.html",
+    "https://www.eschoolnews.com/innovative-teaching/2026/04/08/career-readiness-starts-with-a-critical-undertaught-skill-decision-education/"
   ],
   "headlines": [
-    {
-      "url": "https://www.psychologytoday.com/nz/blog/the-healthy-journey/202508/the-surprising-psychology-behind-weight-loss-maintenance",
-      "title": "The Surprising Psychology Behind Weight Loss Maintenance",
-      "topic": "health psychology",
-      "date": "2026-01-15"
-    },
     {
       "url": "https://www.eurekalert.org/news-releases/1099156",
       "title": "New study reveals critical gap: 45% of experienced professionals lack structured decision-making habits despite high confidence in their own skills",
@@ -701,6 +695,12 @@
       "title": "Q&A: Psychiatrists on the unintended, fatal consequences of mixing psychiatric meds",
       "topic": "psychiatric medication safety",
       "date": "2026-04-22"
+    },
+    {
+      "url": "https://www.eschoolnews.com/innovative-teaching/2026/04/08/career-readiness-starts-with-a-critical-undertaught-skill-decision-education/",
+      "title": "Career readiness starts with a critical, undertaught skill: Decision Education",
+      "topic": "education policy",
+      "date": "2026-04-24"
     }
   ]
 }
