@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/travel/budget-travel/skyscanner-s-cheapest-vacation-hotspots-of-2026-including-a-surprising-few-top-luxury-destinations/ar-AA1U7YHN",
     "https://www.eurekalert.org/news-releases/1092129",
     "https://www.eurekalert.org/news-releases/1104122",
     "https://www.eurekalert.org/news-releases/1082349",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/society-culture-and-history/cultural-events/unexpected-characteristic-is-driving-transition-in-human-s-evolution-study/ar-AA1N5VD6",
     "https://medicalxpress.com/news/2026-04-qa-psychiatrists-unintended-fatal-consequences.html",
     "https://www.eschoolnews.com/innovative-teaching/2026/04/08/career-readiness-starts-with-a-critical-undertaught-skill-decision-education/",
-    "https://www.msn.com/en-us/health/diet/fruits-veggies-can-actually-fuel-lung-cancer-risk-in-young-non-smokers-shocking-study/ar-AA21I1v2"
+    "https://www.msn.com/en-us/health/diet/fruits-veggies-can-actually-fuel-lung-cancer-risk-in-young-non-smokers-shocking-study/ar-AA21I1v2",
+    "https://www.si.edu/object/what-cultural-studies-reader-edited-john-storey:siris_sil_692548"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/travel/budget-travel/skyscanner-s-cheapest-vacation-hotspots-of-2026-including-a-surprising-few-top-luxury-destinations/ar-AA1U7YHN",
-      "title": "Skyscanner's cheapest vacation hotspots of 2026 \u2014 including a surprising few top luxury destinations",
-      "topic": "travel economics",
-      "date": "2026-01-15"
-    },
     {
       "url": "https://www.eurekalert.org/news-releases/1092129",
       "title": "Interference to astronomy the unintended consequence of faster internet",
@@ -701,6 +695,12 @@
       "title": "Fruits, veggies can actually fuel lung cancer risk in young non-smokers: shocking study",
       "topic": "diet and cancer",
       "date": "2026-04-26"
+    },
+    {
+      "url": "https://www.si.edu/object/what-cultural-studies-reader-edited-john-storey:siris_sil_692548",
+      "title": "What is cultural studies? : a reader / edited by John Storey",
+      "topic": "cultural studies",
+      "date": "2026-04-30"
     }
   ]
 }
