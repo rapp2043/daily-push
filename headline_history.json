@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.eurekalert.org/news-releases/1104122",
     "https://www.eurekalert.org/news-releases/1082349",
     "https://www.statnews.com/2026/01/12/pulse-oximeter-study-accuracy-on-dark-skin/",
     "https://www.msn.com/en-us/health/other/study-finds-early-withdrawal-of-care-may-limit-recovery-in-severe-brain-injury/ar-AA1Ua2ii",
@@ -99,15 +98,10 @@
     "https://www.eschoolnews.com/innovative-teaching/2026/04/08/career-readiness-starts-with-a-critical-undertaught-skill-decision-education/",
     "https://www.msn.com/en-us/health/diet/fruits-veggies-can-actually-fuel-lung-cancer-risk-in-young-non-smokers-shocking-study/ar-AA21I1v2",
     "https://www.si.edu/object/what-cultural-studies-reader-edited-john-storey:siris_sil_692548",
-    "https://www.msn.com/en-us/news/technology/early-brain-regions-play-greater-role-in-decision-making-challenging-traditional-neuroscience/ar-AA22c0YM"
+    "https://www.msn.com/en-us/news/technology/early-brain-regions-play-greater-role-in-decision-making-challenging-traditional-neuroscience/ar-AA22c0YM",
+    "https://reason.com/2026/04/30/even-laws-that-havent-passed-can-have-unintended-consequences/"
   ],
   "headlines": [
-    {
-      "url": "https://www.eurekalert.org/news-releases/1104122",
-      "title": "Forests and water: new research challenges old assumptions about forest restoration",
-      "topic": "environmental science",
-      "date": "2026-01-17"
-    },
     {
       "url": "https://www.eurekalert.org/news-releases/1082349",
       "title": "Study links childhood trauma to increased substance use and unexpected effects on heart rate and blood pressure in adolescents",
@@ -701,6 +695,12 @@
       "title": "Early brain regions play greater role in decision-making, challenging traditional neuroscience",
       "topic": "neuroscience",
       "date": "2026-05-02"
+    },
+    {
+      "url": "https://reason.com/2026/04/30/even-laws-that-havent-passed-can-have-unintended-consequences/",
+      "title": "Even Laws That Haven't Passed Can Have Unintended Consequences",
+      "topic": "legislative uncertainty",
+      "date": "2026-05-05"
     }
   ]
 }
