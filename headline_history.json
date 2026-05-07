@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.eurekalert.org/news-releases/1082349",
     "https://www.statnews.com/2026/01/12/pulse-oximeter-study-accuracy-on-dark-skin/",
     "https://www.msn.com/en-us/health/other/study-finds-early-withdrawal-of-care-may-limit-recovery-in-severe-brain-injury/ar-AA1Ua2ii",
     "https://www.psychologytoday.com/us/blog/consumed/202504/the-surprising-power-of-disclosure",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/health/diet/fruits-veggies-can-actually-fuel-lung-cancer-risk-in-young-non-smokers-shocking-study/ar-AA21I1v2",
     "https://www.si.edu/object/what-cultural-studies-reader-edited-john-storey:siris_sil_692548",
     "https://www.msn.com/en-us/news/technology/early-brain-regions-play-greater-role-in-decision-making-challenging-traditional-neuroscience/ar-AA22c0YM",
-    "https://reason.com/2026/04/30/even-laws-that-havent-passed-can-have-unintended-consequences/"
+    "https://reason.com/2026/04/30/even-laws-that-havent-passed-can-have-unintended-consequences/",
+    "https://www.sciencedaily.com/releases/2026/05/260504154016.htm"
   ],
   "headlines": [
-    {
-      "url": "https://www.eurekalert.org/news-releases/1082349",
-      "title": "Study links childhood trauma to increased substance use and unexpected effects on heart rate and blood pressure in adolescents",
-      "topic": "developmental psychopathology",
-      "date": "2026-01-18"
-    },
     {
       "url": "https://www.statnews.com/2026/01/12/pulse-oximeter-study-accuracy-on-dark-skin/",
       "title": "FDA-funded study of pulse oximeter accuracy yields surprising and confusing results",
@@ -701,6 +695,12 @@
       "title": "Even Laws That Haven't Passed Can Have Unintended Consequences",
       "topic": "legislative uncertainty",
       "date": "2026-05-05"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504154016.htm",
+      "title": "The dark side of weight loss drugs: Ozempic's surprising hidden cost",
+      "topic": "health psychology",
+      "date": "2026-05-07"
     }
   ]
 }
