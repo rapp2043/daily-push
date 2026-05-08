@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.statnews.com/2026/01/12/pulse-oximeter-study-accuracy-on-dark-skin/",
     "https://www.msn.com/en-us/health/other/study-finds-early-withdrawal-of-care-may-limit-recovery-in-severe-brain-injury/ar-AA1Ua2ii",
     "https://www.psychologytoday.com/us/blog/consumed/202504/the-surprising-power-of-disclosure",
     "https://phys.org/news/2026-01-equal-treatment-ads-backfire.html",
@@ -99,15 +98,10 @@
     "https://www.si.edu/object/what-cultural-studies-reader-edited-john-storey:siris_sil_692548",
     "https://www.msn.com/en-us/news/technology/early-brain-regions-play-greater-role-in-decision-making-challenging-traditional-neuroscience/ar-AA22c0YM",
     "https://reason.com/2026/04/30/even-laws-that-havent-passed-can-have-unintended-consequences/",
-    "https://www.sciencedaily.com/releases/2026/05/260504154016.htm"
+    "https://www.sciencedaily.com/releases/2026/05/260504154016.htm",
+    "https://www.manufacturing.net/operations/article/22965898/the-growth-paradox-why-us-manufacturers-cant-scale-their-success"
   ],
   "headlines": [
-    {
-      "url": "https://www.statnews.com/2026/01/12/pulse-oximeter-study-accuracy-on-dark-skin/",
-      "title": "FDA-funded study of pulse oximeter accuracy yields surprising and confusing results",
-      "topic": "medical devices",
-      "date": "2026-01-19"
-    },
     {
       "url": "https://www.msn.com/en-us/health/other/study-finds-early-withdrawal-of-care-may-limit-recovery-in-severe-brain-injury/ar-AA1Ua2ii",
       "title": "Study finds early withdrawal of care may limit recovery in severe brain injury",
@@ -701,6 +695,12 @@
       "title": "The dark side of weight loss drugs: Ozempic's surprising hidden cost",
       "topic": "health psychology",
       "date": "2026-05-07"
+    },
+    {
+      "url": "https://www.manufacturing.net/operations/article/22965898/the-growth-paradox-why-us-manufacturers-cant-scale-their-success",
+      "title": "The Growth Paradox: Why U.S. Manufacturers Can't Scale Their Success",
+      "topic": "business strategy",
+      "date": "2026-05-08"
     }
   ]
 }
