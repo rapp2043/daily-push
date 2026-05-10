@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/health/other/study-finds-early-withdrawal-of-care-may-limit-recovery-in-severe-brain-injury/ar-AA1Ua2ii",
     "https://www.psychologytoday.com/us/blog/consumed/202504/the-surprising-power-of-disclosure",
     "https://phys.org/news/2026-01-equal-treatment-ads-backfire.html",
     "https://www.benzinga.com/content/42471240/research-challenges-assumptions-about-successful-accounting-firm",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/news/technology/early-brain-regions-play-greater-role-in-decision-making-challenging-traditional-neuroscience/ar-AA22c0YM",
     "https://reason.com/2026/04/30/even-laws-that-havent-passed-can-have-unintended-consequences/",
     "https://www.sciencedaily.com/releases/2026/05/260504154016.htm",
-    "https://www.manufacturing.net/operations/article/22965898/the-growth-paradox-why-us-manufacturers-cant-scale-their-success"
+    "https://www.manufacturing.net/operations/article/22965898/the-growth-paradox-why-us-manufacturers-cant-scale-their-success",
+    "https://www.msn.com/en-us/science/zoology/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxF8o"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/health/other/study-finds-early-withdrawal-of-care-may-limit-recovery-in-severe-brain-injury/ar-AA1Ua2ii",
-      "title": "Study finds early withdrawal of care may limit recovery in severe brain injury",
-      "topic": "medical research",
-      "date": "2026-01-22"
-    },
     {
       "url": "https://www.psychologytoday.com/us/blog/consumed/202504/the-surprising-power-of-disclosure",
       "title": "The Surprising Power of Disclosure",
@@ -701,6 +695,12 @@
       "title": "The Growth Paradox: Why U.S. Manufacturers Can't Scale Their Success",
       "topic": "business strategy",
       "date": "2026-05-08"
+    },
+    {
+      "url": "https://www.msn.com/en-us/science/zoology/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxF8o",
+      "title": "Jane Goodall revolutionized animal research, but her work had some unintended consequences. Here's what we've learned from them.",
+      "topic": "primatology",
+      "date": "2026-05-10"
     }
   ]
 }
