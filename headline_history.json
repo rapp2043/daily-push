@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.psychologytoday.com/us/blog/consumed/202504/the-surprising-power-of-disclosure",
     "https://phys.org/news/2026-01-equal-treatment-ads-backfire.html",
     "https://www.benzinga.com/content/42471240/research-challenges-assumptions-about-successful-accounting-firm",
     "https://www.firstpost.com/world/americans-not-foreign-countries-are-paying-for-trump-tariffs-almost-entirely-finds-report-taking-13971032.html",
@@ -99,15 +98,10 @@
     "https://reason.com/2026/04/30/even-laws-that-havent-passed-can-have-unintended-consequences/",
     "https://www.sciencedaily.com/releases/2026/05/260504154016.htm",
     "https://www.manufacturing.net/operations/article/22965898/the-growth-paradox-why-us-manufacturers-cant-scale-their-success",
-    "https://www.msn.com/en-us/science/zoology/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxF8o"
+    "https://www.msn.com/en-us/science/zoology/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxF8o",
+    "https://phys.org/news/2026-05-remorse-bias-legal-decision.html"
   ],
   "headlines": [
-    {
-      "url": "https://www.psychologytoday.com/us/blog/consumed/202504/the-surprising-power-of-disclosure",
-      "title": "The Surprising Power of Disclosure",
-      "topic": "behavioral science",
-      "date": "2026-01-23"
-    },
     {
       "url": "https://phys.org/news/2026-01-equal-treatment-ads-backfire.html",
       "title": "Equal treatment ads can backfire, study finds",
@@ -701,6 +695,12 @@
       "title": "Jane Goodall revolutionized animal research, but her work had some unintended consequences. Here's what we've learned from them.",
       "topic": "primatology",
       "date": "2026-05-10"
+    },
+    {
+      "url": "https://phys.org/news/2026-05-remorse-bias-legal-decision.html",
+      "title": "New research examines 'remorse bias' in legal decision-making",
+      "topic": "criminal justice psychology",
+      "date": "2026-05-12"
     }
   ]
 }
