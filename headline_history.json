@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://phys.org/news/2026-01-equal-treatment-ads-backfire.html",
     "https://www.benzinga.com/content/42471240/research-challenges-assumptions-about-successful-accounting-firm",
     "https://www.firstpost.com/world/americans-not-foreign-countries-are-paying-for-trump-tariffs-almost-entirely-finds-report-taking-13971032.html",
     "https://www.dfnionline.com/latest-news/m1nd-set-research-challenges-assumptions-around-low-income-travel-retail-shoppers-23-01-2026/",
@@ -99,15 +98,10 @@
     "https://www.sciencedaily.com/releases/2026/05/260504154016.htm",
     "https://www.manufacturing.net/operations/article/22965898/the-growth-paradox-why-us-manufacturers-cant-scale-their-success",
     "https://www.msn.com/en-us/science/zoology/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-here-s-what-we-ve-learned-from-them/ar-AA1OxF8o",
-    "https://phys.org/news/2026-05-remorse-bias-legal-decision.html"
+    "https://phys.org/news/2026-05-remorse-bias-legal-decision.html",
+    "https://www.news-medical.net/news/20260508/Study-challenges-assumptions-about-testosteronee28099s-role-in-brain-cancer.aspx"
   ],
   "headlines": [
-    {
-      "url": "https://phys.org/news/2026-01-equal-treatment-ads-backfire.html",
-      "title": "Equal treatment ads can backfire, study finds",
-      "topic": "advertising policy",
-      "date": "2026-01-24"
-    },
     {
       "url": "https://www.benzinga.com/content/42471240/research-challenges-assumptions-about-successful-accounting-firm",
       "title": "Research Challenges Assumptions About Successful Accounting Firm",
@@ -701,6 +695,12 @@
       "title": "New research examines 'remorse bias' in legal decision-making",
       "topic": "criminal justice psychology",
       "date": "2026-05-12"
+    },
+    {
+      "url": "https://www.news-medical.net/news/20260508/Study-challenges-assumptions-about-testosteronee28099s-role-in-brain-cancer.aspx",
+      "title": "Study challenges assumptions about testosterone's role in brain cancer",
+      "topic": "brain cancer research",
+      "date": "2026-05-13"
     }
   ]
 }
