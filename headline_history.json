@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.dfnionline.com/latest-news/m1nd-set-research-challenges-assumptions-around-low-income-travel-retail-shoppers-23-01-2026/",
     "https://www.motherjones.com/environment/2026/01/why-mandatory-green-climate-environmental-policies-backfire-study-nature-sustainability/",
     "https://www.msn.com/en-us/news/technology/study-finds-emotional-tweets-by-politicians-don-t-always-win-followers-and-can-backfire-with-diverse-audiences/ar-AA1OxvV2",
     "https://www.mmm-online.com/home/channel/fda-black-box-warning-antidepressants-consequences/",
@@ -99,15 +98,10 @@
     "https://phys.org/news/2026-05-remorse-bias-legal-decision.html",
     "https://www.news-medical.net/news/20260508/Study-challenges-assumptions-about-testosteronee28099s-role-in-brain-cancer.aspx",
     "https://www.msn.com/en-gb/health/other/study-changes-what-we-know-about-how-quickly-to-lose-weight/ar-AA23dFQs",
-    "https://www.rollingstone.com/culture-council/articles/unexpected-rise-of-perfume-bottles-as-cultural-artifacts-1235553279/"
+    "https://www.rollingstone.com/culture-council/articles/unexpected-rise-of-perfume-bottles-as-cultural-artifacts-1235553279/",
+    "https://www.msn.com/en-us/travel/tripideas/10-cities-that-became-unexpected-capitals-of-culture/ar-AA1WNBfu"
   ],
   "headlines": [
-    {
-      "url": "https://www.dfnionline.com/latest-news/m1nd-set-research-challenges-assumptions-around-low-income-travel-retail-shoppers-23-01-2026/",
-      "title": "m1nd-set research challenges assumptions around \"low income\" travel retail shoppers",
-      "topic": "travel retail",
-      "date": "2026-01-27"
-    },
     {
       "url": "https://www.motherjones.com/environment/2026/01/why-mandatory-green-climate-environmental-policies-backfire-study-nature-sustainability/",
       "title": "Why Mandatory Green Policies Often Backfire",
@@ -700,6 +694,12 @@
       "url": "https://www.rollingstone.com/culture-council/articles/unexpected-rise-of-perfume-bottles-as-cultural-artifacts-1235553279/",
       "title": "The Unexpected Rise of Perfume Bottles as Cultural Artifacts",
       "topic": "material culture",
+      "date": "2026-05-23"
+    },
+    {
+      "url": "https://www.msn.com/en-us/travel/tripideas/10-cities-that-became-unexpected-capitals-of-culture/ar-AA1WNBfu",
+      "title": "10 cities that became unexpected capitals of culture",
+      "topic": "urban culture",
       "date": "2026-05-23"
     }
   ]
