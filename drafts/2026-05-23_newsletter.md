@@ -1,0 +1,24 @@
+---
+date: 2026-05-23
+headline: The Unexpected Rise of Perfume Bottles as Cultural Artifacts
+davis_pattern: D6
+template: 6
+source_url: https://www.rollingstone.com/culture-council/articles/unexpected-rise-of-perfume-bottles-as-cultural-artifacts-1235553279/
+status: published
+---
+
+SUBJECT LINE: Why the Empty Perfume Bottles in Your Trash Are Worth More Than You Think
+
+On a spring morning in 1921, the glassmaker René Lalique sat at his desk in a workshop west of Paris, staring at a small, unremarkable sheet of paper. The commission had come from a man named François Coty, who at that moment was the most ambitious figure in French perfumery. Coty wanted a bottle for a new scent he was calling *L'Origan*—nothing fancy, he insisted, just a practical container that would sit on a department store counter. What Coty could not have known was that he was about to ignite a quiet revolution in the way we think about the objects that surround our lives. Lalique, for his part, simply began sketching.
+
+The story of how perfume bottles became cultural artifacts is not the story of a single brilliant idea. It is the story of a series of small decisions made by designers, marketers, and collectors—decisions that gradually transformed a functional container into a canvas, and then into a collectible. A recent article in *Rolling Stone* documented this transformation, noting that perfume bottles, once thrown away without a second thought, are now being exhibited in museums and fetching prices that rival minor works of art.[^1] But if you want to understand how we got here, you have to go back further than the auction houses. You have to go back to that moment in 1921 when Lalique put pencil to paper.
+
+What Lalique did next was remarkable. Instead of designing a bottle that was purely functional, he created a vessel that was a tiny sculpture. The *L'Origan* bottle was simple in form, but its stopper was carved into the shape of a flower. Lalique had already made a name for himself as a jeweler and glass artist, but this was different: he was applying his art to an object that was destined for the masses. The bottle was a hit. Soon, other perfume houses were knocking on his door. In the 1920s and 1930s, Lalique would go on to design bottles for Guerlain, Houbigant, and other houses, each one a miniature work of art. The most famous of these, the *Fioretti* bottle from 1928, featured a stopper shaped like a bouquet of flowers—so intricate that it had to be cast in a special mold.
+
+But here’s the thing that Gladwell would call the "counter-intuitive twist": Lalique’s bottles were not designed to be saved. They were designed to be used and discarded. The perfume industry, then as now, made its money on the liquid inside, not the container. The bottle was simply packaging, a way to catch the customer’s eye in a crowded market. The idea that someone would pay more for an empty bottle than for a full one would have seemed absurd to Coty. It took nearly a century for that absurdity to become a fact of the market.
+
+To understand why, we need to look at the second act of the perfume bottle story, which began with a woman named Elsa Schiaparelli. In the 1930s, Schiaparelli, the Italian-born fashion designer, decided that her perfume bottles should be as shocking as her clothes. She collaborated with the surrealist artist Salvador Dalí to create a bottle for her scent *Salvador Dalí*—a tall, slender bottle with a gilded stopper that looked like a pair of lips. It was a radical departure from the elegant, floral designs of Lalique. Schiaparelli’s bottle was a conversation piece, an object that was meant to be displayed and discussed. In a way, she was treating the bottle as an art object long before anyone used that term.
+
+But Schiaparelli was an exception. For most of the twentieth century, perfume bottles remained largely invisible. They were made, they were sold, and they were thrown away. Then something strange happened. In the 1990s, a small group of collectors began to notice that certain bottles—especially those by Lalique, Baccarat, and Émile Gallé—were surviving in estates and auctions. These collectors were not chemists or perfumers; they were, in many cases, art historians or museum curators who recognized that the bottles were documents of their time. They told the story of the Art Deco movement, of the rise of advertising, of changing ideas about femininity and luxury.
+
+Ask yourself this: what would you pay for an empty bottle? A dollar? Ten dollars? A thousand? In 2014, an anonymous collector paid $16,000 for a Lalique *Orient* perfume bottle at auction. In 2019, a Schiaparelli bottle
