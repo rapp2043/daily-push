@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/health/medical/a-field-experiment-reveals-the-psychology-behind-the-batman-effect/ar-AA1RDSDz",
     "https://www.sciencedaily.com/releases/2026/01/260118064637.htm",
     "https://phys.org/news/2026-01-pushback-couldnt-derail-criminology.html",
     "https://www.msn.com/en-us/health/other/feeling-involved-in-decision-making-associated-with-higher-mental-well-being-lower-loneliness-for-women-in-farming/ar-AA1UvVlA",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/travel/tripideas/10-cities-that-became-unexpected-capitals-of-culture/ar-AA1WNBfu",
     "https://www.msn.com/en-us/health/diseases-and-conditions/long-term-trial-challenges-assumptions-about-lymph-node-radiation-therapy-in-breast-cancer/ar-AA23wfLY",
     "https://www.tradersmagazine.com/departments/brokerage/unintended-consequences-shrinking-sell-side-research/",
-    "https://www.nature.com/nature-index/topics/l2/cultural-studies"
+    "https://www.nature.com/nature-index/topics/l2/cultural-studies",
+    "https://www.msn.com/en-us/health/other/unintended-consequences-graphic-anti-smoking-ads-may-nudge-people-toward-vaping/ar-AA24bERG"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/health/medical/a-field-experiment-reveals-the-psychology-behind-the-batman-effect/ar-AA1RDSDz",
-      "title": "A field experiment reveals the psychology behind the 'Batman effect'",
-      "topic": "Psychology",
-      "date": "2026-01-31"
-    },
     {
       "url": "https://www.sciencedaily.com/releases/2026/01/260118064637.htm",
       "title": "Scientists sent viruses to space and they evolved in surprising ways",
@@ -701,6 +695,12 @@
       "title": "Cultural Studies",
       "topic": "cultural theory",
       "date": "2026-05-27"
+    },
+    {
+      "url": "https://www.msn.com/en-us/health/other/unintended-consequences-graphic-anti-smoking-ads-may-nudge-people-toward-vaping/ar-AA24bERG",
+      "title": "Unintended consequences: Graphic anti-smoking ads may nudge people toward vaping",
+      "topic": "smoking behavior",
+      "date": "2026-05-30"
     }
   ]
 }
