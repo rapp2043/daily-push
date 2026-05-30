@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.sciencedaily.com/releases/2026/01/260118064637.htm",
     "https://phys.org/news/2026-01-pushback-couldnt-derail-criminology.html",
     "https://www.msn.com/en-us/health/other/feeling-involved-in-decision-making-associated-with-higher-mental-well-being-lower-loneliness-for-women-in-farming/ar-AA1UvVlA",
     "https://www.yahoo.com/news/articles/paradox-success-former-idf-chief-154553869.html",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/health/diseases-and-conditions/long-term-trial-challenges-assumptions-about-lymph-node-radiation-therapy-in-breast-cancer/ar-AA23wfLY",
     "https://www.tradersmagazine.com/departments/brokerage/unintended-consequences-shrinking-sell-side-research/",
     "https://www.nature.com/nature-index/topics/l2/cultural-studies",
-    "https://www.msn.com/en-us/health/other/unintended-consequences-graphic-anti-smoking-ads-may-nudge-people-toward-vaping/ar-AA24bERG"
+    "https://www.msn.com/en-us/health/other/unintended-consequences-graphic-anti-smoking-ads-may-nudge-people-toward-vaping/ar-AA24bERG",
+    "https://www.insidehighered.com/news/government/science-research-policy/2024/02/13/researchers-oppose-biden-plan-allow-seizure"
   ],
   "headlines": [
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/01/260118064637.htm",
-      "title": "Scientists sent viruses to space and they evolved in surprising ways",
-      "topic": "astrobiology",
-      "date": "2026-01-31"
-    },
     {
       "url": "https://phys.org/news/2026-01-pushback-couldnt-derail-criminology.html",
       "title": "Pushback couldn't derail this researcher's work in criminology",
@@ -700,6 +694,12 @@
       "url": "https://www.msn.com/en-us/health/other/unintended-consequences-graphic-anti-smoking-ads-may-nudge-people-toward-vaping/ar-AA24bERG",
       "title": "Unintended consequences: Graphic anti-smoking ads may nudge people toward vaping",
       "topic": "smoking behavior",
+      "date": "2026-05-30"
+    },
+    {
+      "url": "https://www.insidehighered.com/news/government/science-research-policy/2024/02/13/researchers-oppose-biden-plan-allow-seizure",
+      "title": "Researchers Fear 'Unintended Consequences' of Plan to Lower Drug Prices",
+      "topic": "health policy",
       "date": "2026-05-30"
     }
   ]
