@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/health/other/feeling-involved-in-decision-making-associated-with-higher-mental-well-being-lower-loneliness-for-women-in-farming/ar-AA1UvVlA",
     "https://www.yahoo.com/news/articles/paradox-success-former-idf-chief-154553869.html",
     "https://www.sciencedaily.com/releases/2026/01/260114084113.htm",
     "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP",
@@ -99,15 +98,10 @@
     "https://www.nature.com/nature-index/topics/l2/cultural-studies",
     "https://www.msn.com/en-us/health/other/unintended-consequences-graphic-anti-smoking-ads-may-nudge-people-toward-vaping/ar-AA24bERG",
     "https://www.insidehighered.com/news/government/science-research-policy/2024/02/13/researchers-oppose-biden-plan-allow-seizure",
-    "https://finance.yahoo.com/sectors/technology/articles/airfocus-lucid-research-reveals-ai-120000670.html"
+    "https://finance.yahoo.com/sectors/technology/articles/airfocus-lucid-research-reveals-ai-120000670.html",
+    "https://www.msn.com/en-gb/health/mindandbody/reconstruction-of-1-500-year-old-woman-challenges-modern-assumptions-about-disability/ar-AA25akKG"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/health/other/feeling-involved-in-decision-making-associated-with-higher-mental-well-being-lower-loneliness-for-women-in-farming/ar-AA1UvVlA",
-      "title": "Feeling involved in decision-making associated with higher mental well-being, lower loneliness for women in farming",
-      "topic": "rural mental health",
-      "date": "2026-01-31"
-    },
     {
       "url": "https://www.yahoo.com/news/articles/paradox-success-former-idf-chief-154553869.html",
       "title": "'Paradox of success': Former IDF chief explains interception failure at Ramon",
@@ -701,6 +695,12 @@
       "title": "airfocus by Lucid Research Reveals AI Is Shifting Software's Biggest Bottleneck from Engineering to Product Alignment",
       "topic": "product management",
       "date": "2026-06-03"
+    },
+    {
+      "url": "https://www.msn.com/en-gb/health/mindandbody/reconstruction-of-1-500-year-old-woman-challenges-modern-assumptions-about-disability/ar-AA25akKG",
+      "title": "Reconstruction of 1,500\u2011year\u2011old woman challenges modern assumptions about disability",
+      "topic": "archaeology and disability",
+      "date": "2026-06-09"
     }
   ]
 }
