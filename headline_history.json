@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.yahoo.com/news/articles/paradox-success-former-idf-chief-154553869.html",
     "https://www.sciencedaily.com/releases/2026/01/260114084113.htm",
     "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP",
     "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/health/other/unintended-consequences-graphic-anti-smoking-ads-may-nudge-people-toward-vaping/ar-AA24bERG",
     "https://www.insidehighered.com/news/government/science-research-policy/2024/02/13/researchers-oppose-biden-plan-allow-seizure",
     "https://finance.yahoo.com/sectors/technology/articles/airfocus-lucid-research-reveals-ai-120000670.html",
-    "https://www.msn.com/en-gb/health/mindandbody/reconstruction-of-1-500-year-old-woman-challenges-modern-assumptions-about-disability/ar-AA25akKG"
+    "https://www.msn.com/en-gb/health/mindandbody/reconstruction-of-1-500-year-old-woman-challenges-modern-assumptions-about-disability/ar-AA25akKG",
+    "https://www.msn.com/en-us/money/smallbusiness/you-ve-been-making-decisions-wrong-here-s-how-to-do-it-right-according-to-new-research/ar-AA25bZ2k"
   ],
   "headlines": [
-    {
-      "url": "https://www.yahoo.com/news/articles/paradox-success-former-idf-chief-154553869.html",
-      "title": "'Paradox of success': Former IDF chief explains interception failure at Ramon",
-      "topic": "military strategy",
-      "date": "2026-01-31"
-    },
     {
       "url": "https://www.sciencedaily.com/releases/2026/01/260114084113.htm",
       "title": "New research challenges the cold dark matter assumption",
@@ -701,6 +695,12 @@
       "title": "Reconstruction of 1,500\u2011year\u2011old woman challenges modern assumptions about disability",
       "topic": "archaeology and disability",
       "date": "2026-06-09"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/smallbusiness/you-ve-been-making-decisions-wrong-here-s-how-to-do-it-right-according-to-new-research/ar-AA25bZ2k",
+      "title": "You've been making decisions wrong. Here's how to do it right, according to new research",
+      "topic": "behavioral economics",
+      "date": "2026-06-11"
     }
   ]
 }
