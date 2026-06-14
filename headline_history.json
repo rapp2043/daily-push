@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.sciencedaily.com/releases/2026/01/260114084113.htm",
     "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP",
     "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/",
     "https://medicalxpress.com/news/2025-03-syndrome-case-alzheimer-assumptions-unexpected.html",
@@ -99,15 +98,10 @@
     "https://www.insidehighered.com/news/government/science-research-policy/2024/02/13/researchers-oppose-biden-plan-allow-seizure",
     "https://finance.yahoo.com/sectors/technology/articles/airfocus-lucid-research-reveals-ai-120000670.html",
     "https://www.msn.com/en-gb/health/mindandbody/reconstruction-of-1-500-year-old-woman-challenges-modern-assumptions-about-disability/ar-AA25akKG",
-    "https://www.msn.com/en-us/money/smallbusiness/you-ve-been-making-decisions-wrong-here-s-how-to-do-it-right-according-to-new-research/ar-AA25bZ2k"
+    "https://www.msn.com/en-us/money/smallbusiness/you-ve-been-making-decisions-wrong-here-s-how-to-do-it-right-according-to-new-research/ar-AA25bZ2k",
+    "https://www.cnbctv18.com/india/environment/new-research-challenges-assumptions-about-how-trees-store-carbon-ws-el-19924971.htm"
   ],
   "headlines": [
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/01/260114084113.htm",
-      "title": "New research challenges the cold dark matter assumption",
-      "topic": "cosmology",
-      "date": "2026-01-31"
-    },
     {
       "url": "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP",
       "title": "'Checkout charity' requests often backfire, leaving shoppers feeling guilty: new study",
@@ -701,6 +695,12 @@
       "title": "You've been making decisions wrong. Here's how to do it right, according to new research",
       "topic": "behavioral economics",
       "date": "2026-06-11"
+    },
+    {
+      "url": "https://www.cnbctv18.com/india/environment/new-research-challenges-assumptions-about-how-trees-store-carbon-ws-el-19924971.htm",
+      "title": "New research challenges assumptions about how trees store carbon",
+      "topic": "forest ecology",
+      "date": "2026-06-14"
     }
   ]
 }
