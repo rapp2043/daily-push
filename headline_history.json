@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP",
     "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/",
     "https://medicalxpress.com/news/2025-03-syndrome-case-alzheimer-assumptions-unexpected.html",
     "https://ctmirror.org/2025/01/27/unintended-consequences-of-halting-vaccine-research-more-cancer-deaths/",
@@ -99,15 +98,10 @@
     "https://finance.yahoo.com/sectors/technology/articles/airfocus-lucid-research-reveals-ai-120000670.html",
     "https://www.msn.com/en-gb/health/mindandbody/reconstruction-of-1-500-year-old-woman-challenges-modern-assumptions-about-disability/ar-AA25akKG",
     "https://www.msn.com/en-us/money/smallbusiness/you-ve-been-making-decisions-wrong-here-s-how-to-do-it-right-according-to-new-research/ar-AA25bZ2k",
-    "https://www.cnbctv18.com/india/environment/new-research-challenges-assumptions-about-how-trees-store-carbon-ws-el-19924971.htm"
+    "https://www.cnbctv18.com/india/environment/new-research-challenges-assumptions-about-how-trees-store-carbon-ws-el-19924971.htm",
+    "https://finance.yahoo.com/markets/stocks/articles/ficomm-partners-research-challenges-industry-130000667.html"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-za/society-culture-and-history/social-issues/checkout-charity-requests-often-backfire-leaving-shoppers-feeling-guilty-new-study/ar-AA1SyubP",
-      "title": "'Checkout charity' requests often backfire, leaving shoppers feeling guilty: new study",
-      "topic": "behavioral economics",
-      "date": "2026-01-31"
-    },
     {
       "url": "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/",
       "title": "Compulsive Behavior May Not Be a 'Bad Habit' After All, New Study Finds",
@@ -701,6 +695,12 @@
       "title": "New research challenges assumptions about how trees store carbon",
       "topic": "forest ecology",
       "date": "2026-06-14"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ficomm-partners-research-challenges-industry-130000667.html",
+      "title": "New Ficomm Partners Research Challenges Industry Assumptions on Organic Growth: Half of $5M+ Investors Found Advisors Without Referrals",
+      "topic": "wealth management",
+      "date": "2026-06-15"
     }
   ]
 }
