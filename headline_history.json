@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/",
     "https://medicalxpress.com/news/2025-03-syndrome-case-alzheimer-assumptions-unexpected.html",
     "https://ctmirror.org/2025/01/27/unintended-consequences-of-halting-vaccine-research-more-cancer-deaths/",
     "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-gb/health/mindandbody/reconstruction-of-1-500-year-old-woman-challenges-modern-assumptions-about-disability/ar-AA25akKG",
     "https://www.msn.com/en-us/money/smallbusiness/you-ve-been-making-decisions-wrong-here-s-how-to-do-it-right-according-to-new-research/ar-AA25bZ2k",
     "https://www.cnbctv18.com/india/environment/new-research-challenges-assumptions-about-how-trees-store-carbon-ws-el-19924971.htm",
-    "https://finance.yahoo.com/markets/stocks/articles/ficomm-partners-research-challenges-industry-130000667.html"
+    "https://finance.yahoo.com/markets/stocks/articles/ficomm-partners-research-challenges-industry-130000667.html",
+    "https://medicalxpress.com/news/2025-08-rethinking-autism-assumptions.html"
   ],
   "headlines": [
-    {
-      "url": "https://scitechdaily.com/compulsive-behavior-may-not-be-a-bad-habit-after-all-new-study-finds/",
-      "title": "Compulsive Behavior May Not Be a 'Bad Habit' After All, New Study Finds",
-      "topic": "compulsive behavior research",
-      "date": "2026-01-31"
-    },
     {
       "url": "https://medicalxpress.com/news/2025-03-syndrome-case-alzheimer-assumptions-unexpected.html",
       "title": "Down syndrome case challenges Alzheimer's assumptions with unexpected cognitive stability",
@@ -701,6 +695,12 @@
       "title": "New Ficomm Partners Research Challenges Industry Assumptions on Organic Growth: Half of $5M+ Investors Found Advisors Without Referrals",
       "topic": "wealth management",
       "date": "2026-06-15"
+    },
+    {
+      "url": "https://medicalxpress.com/news/2025-08-rethinking-autism-assumptions.html",
+      "title": "Rethinking autism and exercise: New study challenges old assumptions",
+      "topic": "autism research",
+      "date": "2026-06-18"
     }
   ]
 }
