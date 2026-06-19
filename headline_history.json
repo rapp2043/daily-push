@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://medicalxpress.com/news/2025-03-syndrome-case-alzheimer-assumptions-unexpected.html",
     "https://ctmirror.org/2025/01/27/unintended-consequences-of-halting-vaccine-research-more-cancer-deaths/",
     "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625",
     "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/money/smallbusiness/you-ve-been-making-decisions-wrong-here-s-how-to-do-it-right-according-to-new-research/ar-AA25bZ2k",
     "https://www.cnbctv18.com/india/environment/new-research-challenges-assumptions-about-how-trees-store-carbon-ws-el-19924971.htm",
     "https://finance.yahoo.com/markets/stocks/articles/ficomm-partners-research-challenges-industry-130000667.html",
-    "https://medicalxpress.com/news/2025-08-rethinking-autism-assumptions.html"
+    "https://medicalxpress.com/news/2025-08-rethinking-autism-assumptions.html",
+    "https://www.inc.com/bill-fotsch/new-research-reveals-the-missing-link-in-employee-ownership/91343189"
   ],
   "headlines": [
-    {
-      "url": "https://medicalxpress.com/news/2025-03-syndrome-case-alzheimer-assumptions-unexpected.html",
-      "title": "Down syndrome case challenges Alzheimer's assumptions with unexpected cognitive stability",
-      "topic": "genetic disorders and dementia",
-      "date": "2026-02-01"
-    },
     {
       "url": "https://ctmirror.org/2025/01/27/unintended-consequences-of-halting-vaccine-research-more-cancer-deaths/",
       "title": "Unintended consequences of halting vaccine research: more cancer deaths?",
@@ -701,6 +695,12 @@
       "title": "Rethinking autism and exercise: New study challenges old assumptions",
       "topic": "autism research",
       "date": "2026-06-18"
+    },
+    {
+      "url": "https://www.inc.com/bill-fotsch/new-research-reveals-the-missing-link-in-employee-ownership/91343189",
+      "title": "New Research Reveals the Missing Link in Employee Ownership",
+      "topic": "business management",
+      "date": "2026-06-19"
     }
   ]
 }
