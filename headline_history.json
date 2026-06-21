@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625",
     "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner",
     "https://www.wbez.org/2024/09/18/research-finds-shotspotter-slows-police-responses-to-911-calls",
     "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
@@ -99,15 +98,10 @@
     "https://finance.yahoo.com/markets/stocks/articles/ficomm-partners-research-challenges-industry-130000667.html",
     "https://medicalxpress.com/news/2025-08-rethinking-autism-assumptions.html",
     "https://www.inc.com/bill-fotsch/new-research-reveals-the-missing-link-in-employee-ownership/91343189",
-    "https://www.psychologytoday.com/us/blog/consumed/202606/how-biology-helps-shape-choice-in-behavioral-economics"
+    "https://www.psychologytoday.com/us/blog/consumed/202606/how-biology-helps-shape-choice-in-behavioral-economics",
+    "https://www.msn.com/en-ph/news/world/fossils-challenge-assumptions-on-how-animals-adapted-to-land/ar-AA261PmM"
   ],
   "headlines": [
-    {
-      "url": "https://theconversation.com/some-people-gain-confidence-from-thinking-things-through-others-lose-it-new-research-273625",
-      "title": "Some people gain confidence from thinking things through, others lose it - new research",
-      "topic": "social psychology",
-      "date": "2026-02-01"
-    },
     {
       "url": "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner",
       "title": "New Research Challenges Assumptions on Workplace Engagement: Hybrid Work Emerges as a Front-Runner",
@@ -701,6 +695,12 @@
       "title": "How Biology Helps Shape Choice in Behavioral Economics",
       "topic": "behavioral economics",
       "date": "2026-06-20"
+    },
+    {
+      "url": "https://www.msn.com/en-ph/news/world/fossils-challenge-assumptions-on-how-animals-adapted-to-land/ar-AA261PmM",
+      "title": "Fossils challenge assumptions on how animals adapted to land",
+      "topic": "paleontology",
+      "date": "2026-06-21"
     }
   ]
 }
