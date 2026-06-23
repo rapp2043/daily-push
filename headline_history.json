@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner",
     "https://www.wbez.org/2024/09/18/research-finds-shotspotter-slows-police-responses-to-911-calls",
     "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
     "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
@@ -99,15 +98,10 @@
     "https://medicalxpress.com/news/2025-08-rethinking-autism-assumptions.html",
     "https://www.inc.com/bill-fotsch/new-research-reveals-the-missing-link-in-employee-ownership/91343189",
     "https://www.psychologytoday.com/us/blog/consumed/202606/how-biology-helps-shape-choice-in-behavioral-economics",
-    "https://www.msn.com/en-ph/news/world/fossils-challenge-assumptions-on-how-animals-adapted-to-land/ar-AA261PmM"
+    "https://www.msn.com/en-ph/news/world/fossils-challenge-assumptions-on-how-animals-adapted-to-land/ar-AA261PmM",
+    "https://www.news-medical.net/news/20260616/JMIR-articles-address-AI-clinical-decision-making-and-health-care-worker-burnout.aspx"
   ],
   "headlines": [
-    {
-      "url": "https://www.morningstar.com/news/pr-newswire/20240815da85248/new-research-challenges-assumptions-on-workplace-engagement-hybrid-work-emerges-as-a-front-runner",
-      "title": "New Research Challenges Assumptions on Workplace Engagement: Hybrid Work Emerges as a Front-Runner",
-      "topic": "workplace studies",
-      "date": "2026-02-02"
-    },
     {
       "url": "https://www.wbez.org/2024/09/18/research-finds-shotspotter-slows-police-responses-to-911-calls",
       "title": "Research finds ShotSpotter slows police responses to 911 calls",
@@ -701,6 +695,12 @@
       "title": "Fossils challenge assumptions on how animals adapted to land",
       "topic": "paleontology",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://www.news-medical.net/news/20260616/JMIR-articles-address-AI-clinical-decision-making-and-health-care-worker-burnout.aspx",
+      "title": "JMIR articles address AI clinical decision-making and health care worker burnout",
+      "topic": "AI in healthcare",
+      "date": "2026-06-23"
     }
   ]
 }
