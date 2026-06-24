@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.wbez.org/2024/09/18/research-finds-shotspotter-slows-police-responses-to-911-calls",
     "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
     "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
     "https://www.msn.com/en-us/health/other/what-works-at-50-may-backfire-at-70-new-aspirin-cancer-study-challenges-conventional-wisdom/ar-AA1Vuzq9",
@@ -99,15 +98,10 @@
     "https://www.inc.com/bill-fotsch/new-research-reveals-the-missing-link-in-employee-ownership/91343189",
     "https://www.psychologytoday.com/us/blog/consumed/202606/how-biology-helps-shape-choice-in-behavioral-economics",
     "https://www.msn.com/en-ph/news/world/fossils-challenge-assumptions-on-how-animals-adapted-to-land/ar-AA261PmM",
-    "https://www.news-medical.net/news/20260616/JMIR-articles-address-AI-clinical-decision-making-and-health-care-worker-burnout.aspx"
+    "https://www.news-medical.net/news/20260616/JMIR-articles-address-AI-clinical-decision-making-and-health-care-worker-burnout.aspx",
+    "https://www.eurekalert.org/news-releases/1105760"
   ],
   "headlines": [
-    {
-      "url": "https://www.wbez.org/2024/09/18/research-finds-shotspotter-slows-police-responses-to-911-calls",
-      "title": "Research finds ShotSpotter slows police responses to 911 calls",
-      "topic": "law enforcement technology",
-      "date": "2026-02-03"
-    },
     {
       "url": "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
       "title": "This brain discovery is forcing scientists to rethink how memory works",
@@ -701,6 +695,12 @@
       "title": "JMIR articles address AI clinical decision-making and health care worker burnout",
       "topic": "AI in healthcare",
       "date": "2026-06-23"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1105760",
+      "title": "Behavioral economics: Born at Cornell, embraced by policymakers",
+      "topic": "behavioral economics",
+      "date": "2026-06-24"
     }
   ]
 }
