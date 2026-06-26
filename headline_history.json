@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
     "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
     "https://www.msn.com/en-us/health/other/what-works-at-50-may-backfire-at-70-new-aspirin-cancer-study-challenges-conventional-wisdom/ar-AA1Vuzq9",
     "https://www.msn.com/en-us/weather/topstories/cfc-replacements-behind-vast-quantities-of-global-forever-chemical-pollution-research-reveals/ar-AA1VEJzx",
@@ -99,15 +98,10 @@
     "https://www.psychologytoday.com/us/blog/consumed/202606/how-biology-helps-shape-choice-in-behavioral-economics",
     "https://www.msn.com/en-ph/news/world/fossils-challenge-assumptions-on-how-animals-adapted-to-land/ar-AA261PmM",
     "https://www.news-medical.net/news/20260616/JMIR-articles-address-AI-clinical-decision-making-and-health-care-worker-burnout.aspx",
-    "https://www.eurekalert.org/news-releases/1105760"
+    "https://www.eurekalert.org/news-releases/1105760",
+    "https://www.msn.com/en-us/health/other/could-ozempic-make-people-less-violent-here-s-what-researchers-found/ar-AA26kBap"
   ],
   "headlines": [
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
-      "title": "This brain discovery is forcing scientists to rethink how memory works",
-      "topic": "memory neuroscience",
-      "date": "2026-02-04"
-    },
     {
       "url": "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
       "title": "LLMs exhibit significant Western cultural bias, study finds",
@@ -701,6 +695,12 @@
       "title": "Behavioral economics: Born at Cornell, embraced by policymakers",
       "topic": "behavioral economics",
       "date": "2026-06-24"
+    },
+    {
+      "url": "https://www.msn.com/en-us/health/other/could-ozempic-make-people-less-violent-here-s-what-researchers-found/ar-AA26kBap",
+      "title": "Could Ozempic make people less violent? Here's what researchers found",
+      "topic": "pharmacology behavior",
+      "date": "2026-06-26"
     }
   ]
 }
