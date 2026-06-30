@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
     "https://www.msn.com/en-us/health/other/what-works-at-50-may-backfire-at-70-new-aspirin-cancer-study-challenges-conventional-wisdom/ar-AA1Vuzq9",
     "https://www.msn.com/en-us/weather/topstories/cfc-replacements-behind-vast-quantities-of-global-forever-chemical-pollution-research-reveals/ar-AA1VEJzx",
     "https://www.psychologytoday.com/au/blog/the-athletes-way/201608/nonconformity-has-counter-intuitive-benefits-study-finds",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-ph/news/world/fossils-challenge-assumptions-on-how-animals-adapted-to-land/ar-AA261PmM",
     "https://www.news-medical.net/news/20260616/JMIR-articles-address-AI-clinical-decision-making-and-health-care-worker-burnout.aspx",
     "https://www.eurekalert.org/news-releases/1105760",
-    "https://www.msn.com/en-us/health/other/could-ozempic-make-people-less-violent-here-s-what-researchers-found/ar-AA26kBap"
+    "https://www.msn.com/en-us/health/other/could-ozempic-make-people-less-violent-here-s-what-researchers-found/ar-AA26kBap",
+    "https://www.the-scientist.com/avoiding-gene-editing-s-unintended-consequences-71619"
   ],
   "headlines": [
-    {
-      "url": "https://venturebeat.com/ai/large-language-models-exhibit-significant-western-cultural-bias-study-finds/",
-      "title": "LLMs exhibit significant Western cultural bias, study finds",
-      "topic": "AI ethics",
-      "date": "2026-02-05"
-    },
     {
       "url": "https://www.msn.com/en-us/health/other/what-works-at-50-may-backfire-at-70-new-aspirin-cancer-study-challenges-conventional-wisdom/ar-AA1Vuzq9",
       "title": "What works at 50 may backfire at 70: New aspirin-cancer study challenges conventional wisdom",
@@ -701,6 +695,12 @@
       "title": "Could Ozempic make people less violent? Here's what researchers found",
       "topic": "pharmacology behavior",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.the-scientist.com/avoiding-gene-editing-s-unintended-consequences-71619",
+      "title": "Avoiding Gene Editing's Unintended Consequences",
+      "topic": "gene editing",
+      "date": "2026-06-30"
     }
   ]
 }
