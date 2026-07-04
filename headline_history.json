@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/weather/topstories/cfc-replacements-behind-vast-quantities-of-global-forever-chemical-pollution-research-reveals/ar-AA1VEJzx",
     "https://www.psychologytoday.com/au/blog/the-athletes-way/201608/nonconformity-has-counter-intuitive-benefits-study-finds",
     "https://news.yale.edu/2025/01/27/riding-wave-yales-expansion-korean-language-and-cultural-studies",
     "https://www.forbes.com/councils/forbesbusinesscouncil/2026/02/03/moving-from-decision-making-to-decision-leadership-why-the-usual-frameworks-arent-enough/",
@@ -99,15 +98,10 @@
     "https://www.eurekalert.org/news-releases/1105760",
     "https://www.msn.com/en-us/health/other/could-ozempic-make-people-less-violent-here-s-what-researchers-found/ar-AA26kBap",
     "https://www.the-scientist.com/avoiding-gene-editing-s-unintended-consequences-71619",
-    "https://www.scu.edu/business/blog/business-concepts/what-is-behavioral-economics/"
+    "https://www.scu.edu/business/blog/business-concepts/what-is-behavioral-economics/",
+    "https://www.thenews.com.pk/latest/1408053-did-hobbit-human-species-ever-hunt-or-use-fire-new-study-challenges-long-held-assumptions"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/weather/topstories/cfc-replacements-behind-vast-quantities-of-global-forever-chemical-pollution-research-reveals/ar-AA1VEJzx",
-      "title": "CFC replacements behind vast quantities of global 'forever chemical' pollution, research reveals",
-      "topic": "environmental science",
-      "date": "2026-02-07"
-    },
     {
       "url": "https://www.psychologytoday.com/au/blog/the-athletes-way/201608/nonconformity-has-counter-intuitive-benefits-study-finds",
       "title": "Nonconformity Has Counter-Intuitive Benefits, Study Finds",
@@ -700,6 +694,12 @@
       "url": "https://www.scu.edu/business/blog/business-concepts/what-is-behavioral-economics/",
       "title": "What Is Behavioral Economics? A Guide to Human Logic",
       "topic": "behavioral economics",
+      "date": "2026-07-04"
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1408053-did-hobbit-human-species-ever-hunt-or-use-fire-new-study-challenges-long-held-assumptions",
+      "title": "Did 'hobbit' human species ever hunt or use fire? New study challenges long-held assumptions",
+      "topic": "paleoanthropology",
       "date": "2026-07-04"
     }
   ]
