@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.psychologytoday.com/au/blog/the-athletes-way/201608/nonconformity-has-counter-intuitive-benefits-study-finds",
     "https://news.yale.edu/2025/01/27/riding-wave-yales-expansion-korean-language-and-cultural-studies",
     "https://www.forbes.com/councils/forbesbusinesscouncil/2026/02/03/moving-from-decision-making-to-decision-leadership-why-the-usual-frameworks-arent-enough/",
     "https://www.eurekalert.org/news-releases/1077458",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/health/other/could-ozempic-make-people-less-violent-here-s-what-researchers-found/ar-AA26kBap",
     "https://www.the-scientist.com/avoiding-gene-editing-s-unintended-consequences-71619",
     "https://www.scu.edu/business/blog/business-concepts/what-is-behavioral-economics/",
-    "https://www.thenews.com.pk/latest/1408053-did-hobbit-human-species-ever-hunt-or-use-fire-new-study-challenges-long-held-assumptions"
+    "https://www.thenews.com.pk/latest/1408053-did-hobbit-human-species-ever-hunt-or-use-fire-new-study-challenges-long-held-assumptions",
+    "https://www.ibtimes.sg/can-exercise-slow-parkinsons-progression-new-research-challenges-long-held-assumptions-88486"
   ],
   "headlines": [
-    {
-      "url": "https://www.psychologytoday.com/au/blog/the-athletes-way/201608/nonconformity-has-counter-intuitive-benefits-study-finds",
-      "title": "Nonconformity Has Counter-Intuitive Benefits, Study Finds",
-      "topic": "social psychology",
-      "date": "2026-02-07"
-    },
     {
       "url": "https://news.yale.edu/2025/01/27/riding-wave-yales-expansion-korean-language-and-cultural-studies",
       "title": "Riding a 'Wave': Yale's expansion of Korean language and cultural studies",
@@ -701,6 +695,12 @@
       "title": "Did 'hobbit' human species ever hunt or use fire? New study challenges long-held assumptions",
       "topic": "paleoanthropology",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://www.ibtimes.sg/can-exercise-slow-parkinsons-progression-new-research-challenges-long-held-assumptions-88486",
+      "title": "Can Exercise Slow Parkinson's Progression? New Research Challenges Long-Held Assumptions",
+      "topic": "Parkinson's disease research",
+      "date": "2026-07-08"
     }
   ]
 }
