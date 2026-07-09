@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://news.yale.edu/2025/01/27/riding-wave-yales-expansion-korean-language-and-cultural-studies",
     "https://www.forbes.com/councils/forbesbusinesscouncil/2026/02/03/moving-from-decision-making-to-decision-leadership-why-the-usual-frameworks-arent-enough/",
     "https://www.eurekalert.org/news-releases/1077458",
     "https://medicalxpress.com/news/2026-02-eye-movements-brain-3d-assumption.html",
@@ -99,15 +98,10 @@
     "https://www.the-scientist.com/avoiding-gene-editing-s-unintended-consequences-71619",
     "https://www.scu.edu/business/blog/business-concepts/what-is-behavioral-economics/",
     "https://www.thenews.com.pk/latest/1408053-did-hobbit-human-species-ever-hunt-or-use-fire-new-study-challenges-long-held-assumptions",
-    "https://www.ibtimes.sg/can-exercise-slow-parkinsons-progression-new-research-challenges-long-held-assumptions-88486"
+    "https://www.ibtimes.sg/can-exercise-slow-parkinsons-progression-new-research-challenges-long-held-assumptions-88486",
+    "https://finance.yahoo.com/technology/articles/seven-10-voters-banning-heavyly-161500445.html"
   ],
   "headlines": [
-    {
-      "url": "https://news.yale.edu/2025/01/27/riding-wave-yales-expansion-korean-language-and-cultural-studies",
-      "title": "Riding a 'Wave': Yale's expansion of Korean language and cultural studies",
-      "topic": "cultural education",
-      "date": "2026-02-08"
-    },
     {
       "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/02/03/moving-from-decision-making-to-decision-leadership-why-the-usual-frameworks-arent-enough/",
       "title": "Moving From Decision-Making To Decision Leadership: Why The Usual Frameworks Aren't Enough",
@@ -701,6 +695,12 @@
       "title": "Can Exercise Slow Parkinson's Progression? New Research Challenges Long-Held Assumptions",
       "topic": "Parkinson's disease research",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/articles/seven-10-voters-banning-heavyly-161500445.html",
+      "title": "Seven-In-10 Voters Say Banning or Heavily Restricting Youth Access to Technology Could Have Unintended Consequences",
+      "topic": "youth mental health",
+      "date": "2026-07-09"
     }
   ]
 }
