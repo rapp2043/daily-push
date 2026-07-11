@@ -1,0 +1,28 @@
+---
+date: 2026-07-11
+headline: 
+davis_pattern: 
+template: None
+source_url: 
+status: published
+---
+
+SUBJECT LINE: Why the Most Moral People Do Nothing Wrong
+
+In the spring of 1973, a group of Princeton Theological Seminary students were told they were participating in a study on religious education and vocational careers. They were asked to complete a questionnaire and then, one by one, they were handed a slip of paper telling them to go to another building to deliver a short talk. Some were told they were late. Others were told they had exactly the right amount of time. A third group was told they had a few minutes to spare. On the way between buildings, each student passed a man slumped in a doorway, head down, eyes closed, coughing and groaning. The question was simple: who would stop to help?
+
+Before I tell you what happened, take a moment to ask yourself what you would have done. Would your religious training, your personal compassion, make a difference? Most of us would say yes. A person who has chosen to study theology, who spends his days thinking about the Good Samaritan, is surely more likely to be one himself. But that’s not what the researchers found. The strongest predictor of helping was not the student’s character or even his religious commitment. It was time pressure. Of the students who were told they were late, only ten percent stopped to help. Of those who had a few minutes to spare, more than sixty percent stopped. The one variable that mattered was not who you were, but how much of a hurry you were in.[^1]
+
+This was the famous “Good Samaritan” study conducted by John Darley and Daniel Batson, and it stands as one of the most unsettling demonstrations of what psychologists call the fundamental attribution error—our habit of explaining other people’s behavior in terms of their personality rather than the situation they are in. We want to believe that helping is a matter of character. The evidence says it is largely a matter of circumstance.
+
+But here’s the problem. The study is more than fifty years old, and we still behave as though we never learned the lesson. Every day, in workplaces, in friendships, in online arguments, we attribute failure to moral weakness where we should attribute it to situational constraints. The seminarians were not bad people. They were late. And that distinction is tremendously hard to keep in mind.
+
+Consider a more modern example: the difficulty we have with email. In 2005, the psychologists Justin Kruger, Nicholas Epley, and their colleagues published a series of experiments on what they called “egocentrism over e-mail.” They asked participants to send an email conveying a specific tone—sarcasm, seriousness, humor—and then predict how accurately the recipient would perceive that tone. Over and over, the senders vastly overestimated the accuracy of their communication. They thought their sarcasm would be obvious; it was not. The recipients misread the tone, and then attributed the misreading to something about the sender. “He’s rude,” they thought, or “She’s not as funny as she thinks.” The senders, for their part, blamed the recipients. “They should have understood.”
+
+What is happening here is exactly the same psychological mechanism that caused the seminarians to walk past a suffering man. The seminarians were not indifferent. They were simply focused on the task at hand, overwhelmed by the pressure to get to the next building. In the same way, when we send an email, we are steeped in our own context. We know our intention, we can hear our own voice. The recipient has none of that. The gap between what we intend and what others perceive is not a failure of character; it is a failure of perspective-taking, and it is built into the structure of the interaction.
+
+This is why the classic “tapper and listener” experiment from Elizabeth Newton’s 1990 dissertation at Stanford is so illuminating. Newton asked some participants to tap the rhythm of a well-known song—like “Happy Birthday”—and other participants to guess the song. The tappers predicted the listeners would get it right about half the time. The actual success rate was two and a half percent. The tappers could hear the song in their own heads; the listeners heard nothing but an irregular tapping. The tappers could not imagine what it was like not to know the song. That is the curse of knowledge, a term coined by the economist Colin Camerer and his colleagues. Once you know something, it is impossible to remember what it was like not to know it.
+
+So what does all of this mean for how we judge others, and for how we run our teams and our lives? It means we have to fight against a deeply ingrained tendency to see the person rather than the context. The next time a colleague sends a brusque email, the first question should not be “What kind of person would do that?” but “What situation may have led to that?” The next time someone fails to help, we should ask not “Why are they so morally weak?” but “What pressure were they under?” This is not an excuse for bad behavior. It is a tool for understanding it, and for designing systems that make the right behavior more likely.
+
+Return to those seminarians. The ones who helped were not better people. They were simply not in a hurry. The ones who walked by were not monsters. They were late. And that, in the end, is a far more useful truth than any story about character. It means we can change outcomes by changing situations. We can give people a few extra minutes. We can make the cues more obvious. We can design our communication to require less mind-reading. The fundamental attribution error is a mistake we all make, but it is one we can learn to correct—if we remember
