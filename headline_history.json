@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.eurekalert.org/news-releases/1077458",
     "https://medicalxpress.com/news/2026-02-eye-movements-brain-3d-assumption.html",
     "https://www.forbes.com/sites/shodewan/2024/12/23/how-to-use-behavioral-economics-to-navigate-salary-negotiations/",
     "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations",
@@ -99,15 +98,10 @@
     "https://www.thenews.com.pk/latest/1408053-did-hobbit-human-species-ever-hunt-or-use-fire-new-study-challenges-long-held-assumptions",
     "https://www.ibtimes.sg/can-exercise-slow-parkinsons-progression-new-research-challenges-long-held-assumptions-88486",
     "https://finance.yahoo.com/technology/articles/seven-10-voters-banning-heavyly-161500445.html",
-    ""
+    "",
+    "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
   ],
   "headlines": [
-    {
-      "url": "https://www.eurekalert.org/news-releases/1077458",
-      "title": "New study challenges assumptions about solid-state lithium metal batteries",
-      "topic": "battery technology",
-      "date": "2026-02-11"
-    },
     {
       "url": "https://medicalxpress.com/news/2026-02-eye-movements-brain-3d-assumption.html",
       "title": "Eye movements help the brain see in 3D: Research challenges long-standing assumption",
@@ -700,6 +694,12 @@
       "url": "",
       "title": "",
       "topic": "",
+      "date": "2026-07-11"
+    },
+    {
+      "url": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/",
+      "title": "LLMs and Math Combine to Map Human Decision-Making",
+      "topic": "cognitive science",
       "date": "2026-07-11"
     }
   ]
