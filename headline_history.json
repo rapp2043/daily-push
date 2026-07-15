@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://medicalxpress.com/news/2026-02-eye-movements-brain-3d-assumption.html",
     "https://www.forbes.com/sites/shodewan/2024/12/23/how-to-use-behavioral-economics-to-navigate-salary-negotiations/",
     "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations",
     "https://www.sciencedaily.com/releases/2026/01/260129080440.htm",
@@ -99,15 +98,10 @@
     "https://www.ibtimes.sg/can-exercise-slow-parkinsons-progression-new-research-challenges-long-held-assumptions-88486",
     "https://finance.yahoo.com/technology/articles/seven-10-voters-banning-heavyly-161500445.html",
     "",
-    "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
+    "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/",
+    "https://phys.org/news/2024-11-assumptions-tuberculosis-bacteria.html"
   ],
   "headlines": [
-    {
-      "url": "https://medicalxpress.com/news/2026-02-eye-movements-brain-3d-assumption.html",
-      "title": "Eye movements help the brain see in 3D: Research challenges long-standing assumption",
-      "topic": "neuroscience research",
-      "date": "2026-02-12"
-    },
     {
       "url": "https://www.forbes.com/sites/shodewan/2024/12/23/how-to-use-behavioral-economics-to-navigate-salary-negotiations/",
       "title": "How To Use Behavioral Economics To Navigate Salary Negotiations",
@@ -701,6 +695,12 @@
       "title": "LLMs and Math Combine to Map Human Decision-Making",
       "topic": "cognitive science",
       "date": "2026-07-11"
+    },
+    {
+      "url": "https://phys.org/news/2024-11-assumptions-tuberculosis-bacteria.html",
+      "title": "Study challenges assumptions about how tuberculosis bacteria grow",
+      "topic": "microbiology",
+      "date": "2026-07-15"
     }
   ]
 }
