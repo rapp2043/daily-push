@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.forbes.com/sites/shodewan/2024/12/23/how-to-use-behavioral-economics-to-navigate-salary-negotiations/",
     "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations",
     "https://www.sciencedaily.com/releases/2026/01/260129080440.htm",
     "https://www.msn.com/en-us/news/technology/psychology-study-reveals-how-gratitude-can-backfire-on-your-social-standing/ar-AA1VnGC9",
@@ -99,15 +98,10 @@
     "https://finance.yahoo.com/technology/articles/seven-10-voters-banning-heavyly-161500445.html",
     "",
     "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/",
-    "https://phys.org/news/2024-11-assumptions-tuberculosis-bacteria.html"
+    "https://phys.org/news/2024-11-assumptions-tuberculosis-bacteria.html",
+    "https://www.cc.gatech.edu/external-news/georgia-tech-research-challenges-assumptions-about-online-education-success"
   ],
   "headlines": [
-    {
-      "url": "https://www.forbes.com/sites/shodewan/2024/12/23/how-to-use-behavioral-economics-to-navigate-salary-negotiations/",
-      "title": "How To Use Behavioral Economics To Navigate Salary Negotiations",
-      "topic": "behavioral economics",
-      "date": "2026-02-13"
-    },
     {
       "url": "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations",
       "title": "Research sheds light on unintended consequences of money laundering regulations",
@@ -701,6 +695,12 @@
       "title": "Study challenges assumptions about how tuberculosis bacteria grow",
       "topic": "microbiology",
       "date": "2026-07-15"
+    },
+    {
+      "url": "https://www.cc.gatech.edu/external-news/georgia-tech-research-challenges-assumptions-about-online-education-success",
+      "title": "Georgia Tech Research Challenges Assumptions About Online Education Success",
+      "topic": "online education",
+      "date": "2026-07-31"
     }
   ]
 }
