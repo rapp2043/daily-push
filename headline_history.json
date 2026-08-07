@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.sciencedaily.com/releases/2026/01/260129080440.htm",
     "https://www.msn.com/en-us/news/technology/psychology-study-reveals-how-gratitude-can-backfire-on-your-social-standing/ar-AA1VnGC9",
     "https://www.washingtonexaminer.com/red-alert-politics/1490255/study-unexpected-college-majors-are-most-likely-to-vote/",
     "https://www.marketwatch.com/press-release/rural-health-transformation-reality-check-what-rural-hospital-decision-makers-will-fund-in-2026-and-what-they-won-t-b95d99ca",
@@ -99,15 +98,10 @@
     "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/",
     "https://phys.org/news/2024-11-assumptions-tuberculosis-bacteria.html",
     "https://www.cc.gatech.edu/external-news/georgia-tech-research-challenges-assumptions-about-online-education-success",
-    "https://www.morningstar.com/news/pr-newswire/20260603ny74756/new-ficomm-partners-research-challenges-industry-assumptions-on-organic-growth-half-of-5m-investors-found-advisors-without-referrals"
+    "https://www.morningstar.com/news/pr-newswire/20260603ny74756/new-ficomm-partners-research-challenges-industry-assumptions-on-organic-growth-half-of-5m-investors-found-advisors-without-referrals",
+    "https://www.inc.com/minda-zetlin/youve-been-making-decisions-wrong-heres-how-to-do-it-right-according-to-new-research/91356570"
   ],
   "headlines": [
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/01/260129080440.htm",
-      "title": "A diabetes drug shows surprising promise against heart disease",
-      "topic": "medical research",
-      "date": "2026-02-14"
-    },
     {
       "url": "https://www.msn.com/en-us/news/technology/psychology-study-reveals-how-gratitude-can-backfire-on-your-social-standing/ar-AA1VnGC9",
       "title": "Psychology study reveals how gratitude can backfire on your social standing",
@@ -701,6 +695,12 @@
       "title": "New Ficomm Partners Research Challenges Industry Assumptions on Organic Growth: Half of $5M+ Investors Found Advisors Without Referrals",
       "topic": "financial services",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.inc.com/minda-zetlin/youve-been-making-decisions-wrong-heres-how-to-do-it-right-according-to-new-research/91356570",
+      "title": "You've Been Making Decisions Wrong. Here's How to Do It Right, According to New Research",
+      "topic": "behavioral economics",
+      "date": "2026-08-07"
     }
   ]
 }
