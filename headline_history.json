@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.washingtonexaminer.com/red-alert-politics/1490255/study-unexpected-college-majors-are-most-likely-to-vote/",
     "https://www.marketwatch.com/press-release/rural-health-transformation-reality-check-what-rural-hospital-decision-makers-will-fund-in-2026-and-what-they-won-t-b95d99ca",
     "https://thedebrief.org/scientists-successfully-use-string-theory-to-challenge-more-than-a-century-of-assumptions-about-living-systems/",
     "https://www.msn.com/en-in/entertainment/news/word-of-the-day-counterintuitive/ar-AA1WeuHT",
@@ -99,15 +98,10 @@
     "https://www.cc.gatech.edu/external-news/georgia-tech-research-challenges-assumptions-about-online-education-success",
     "https://www.morningstar.com/news/pr-newswire/20260603ny74756/new-ficomm-partners-research-challenges-industry-assumptions-on-organic-growth-half-of-5m-investors-found-advisors-without-referrals",
     "https://www.inc.com/minda-zetlin/youve-been-making-decisions-wrong-heres-how-to-do-it-right-according-to-new-research/91356570",
-    "https://phys.org/news/2026-01-pushback-couldnt-derail-criminology.html"
+    "https://phys.org/news/2026-01-pushback-couldnt-derail-criminology.html",
+    null
   ],
   "headlines": [
-    {
-      "url": "https://www.washingtonexaminer.com/red-alert-politics/1490255/study-unexpected-college-majors-are-most-likely-to-vote/",
-      "title": "Study: Unexpected college majors are most likely to vote",
-      "topic": "education policy",
-      "date": "2026-02-16"
-    },
     {
       "url": "https://www.marketwatch.com/press-release/rural-health-transformation-reality-check-what-rural-hospital-decision-makers-will-fund-in-2026-and-what-they-won-t-b95d99ca",
       "title": "Rural Health Transformation Reality Check: What Rural Hospital Decision-Makers Will Fund in 2026 and What They Won't",
@@ -700,6 +694,12 @@
       "url": "https://phys.org/news/2026-01-pushback-couldnt-derail-criminology.html",
       "title": "Pushback couldn't derail this researcher's work in criminology",
       "topic": "criminology research",
+      "date": "2026-08-08"
+    },
+    {
+      "url": null,
+      "title": null,
+      "topic": null,
       "date": "2026-08-08"
     }
   ]
