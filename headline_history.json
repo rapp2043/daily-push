@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://thedebrief.org/scientists-successfully-use-string-theory-to-challenge-more-than-a-century-of-assumptions-about-living-systems/",
     "https://www.msn.com/en-in/entertainment/news/word-of-the-day-counterintuitive/ar-AA1WeuHT",
     "https://theconversation.com/why-failure-is-a-necessary-ingredient-for-success-especially-in-the-era-of-ai-272820",
     "https://www.msn.com/en-us/health/wellness/a-new-experiment-reveals-an-unexpected-shift-in-how-pregnant-women-handle-intimidation/ar-AA1VJuEy",
@@ -99,15 +98,10 @@
     "https://www.inc.com/minda-zetlin/youve-been-making-decisions-wrong-heres-how-to-do-it-right-according-to-new-research/91356570",
     "https://phys.org/news/2026-01-pushback-couldnt-derail-criminology.html",
     null,
-    "https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2023/do-no-harm-unintended-consequences-of-pharmaceutical-price-regulation-in-india"
+    "https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2023/do-no-harm-unintended-consequences-of-pharmaceutical-price-regulation-in-india",
+    null
   ],
   "headlines": [
-    {
-      "url": "https://thedebrief.org/scientists-successfully-use-string-theory-to-challenge-more-than-a-century-of-assumptions-about-living-systems/",
-      "title": "Scientists Successfully Use String Theory to Challenge More Than a Century of Assumptions About Living Systems",
-      "topic": "theoretical biology",
-      "date": "2026-02-18"
-    },
     {
       "url": "https://www.msn.com/en-in/entertainment/news/word-of-the-day-counterintuitive/ar-AA1WeuHT",
       "title": "Word of the Day: Counterintuitive",
@@ -701,6 +695,12 @@
       "title": "Paper Do No Harm? Unintended Consequences of Pharmaceutical Price Regulation in India",
       "topic": "health policy",
       "date": "2026-08-13"
+    },
+    {
+      "url": null,
+      "title": null,
+      "topic": null,
+      "date": "2026-08-14"
     }
   ]
 }
