@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-in/entertainment/news/word-of-the-day-counterintuitive/ar-AA1WeuHT",
     "https://theconversation.com/why-failure-is-a-necessary-ingredient-for-success-especially-in-the-era-of-ai-272820",
     "https://www.msn.com/en-us/health/wellness/a-new-experiment-reveals-an-unexpected-shift-in-how-pregnant-women-handle-intimidation/ar-AA1VJuEy",
     "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
@@ -99,15 +98,10 @@
     "https://phys.org/news/2026-01-pushback-couldnt-derail-criminology.html",
     null,
     "https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2023/do-no-harm-unintended-consequences-of-pharmaceutical-price-regulation-in-india",
-    null
+    null,
+    "https://www.msn.com/en-us/science/sociology/neuroscientists-uncover-a-universal-mechanism-for-human-decision-making/ar-AA2a6RM8"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-in/entertainment/news/word-of-the-day-counterintuitive/ar-AA1WeuHT",
-      "title": "Word of the Day: Counterintuitive",
-      "topic": "cognitive science",
-      "date": "2026-02-19"
-    },
     {
       "url": "https://theconversation.com/why-failure-is-a-necessary-ingredient-for-success-especially-in-the-era-of-ai-272820",
       "title": "Why failure is a necessary ingredient for success - especially in the era of AI",
@@ -701,6 +695,12 @@
       "title": null,
       "topic": null,
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://www.msn.com/en-us/science/sociology/neuroscientists-uncover-a-universal-mechanism-for-human-decision-making/ar-AA2a6RM8",
+      "title": "Neuroscientists uncover a universal mechanism for human decision making",
+      "topic": "decision neuroscience",
+      "date": "2026-08-15"
     }
   ]
 }
