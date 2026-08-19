@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://theconversation.com/why-failure-is-a-necessary-ingredient-for-success-especially-in-the-era-of-ai-272820",
     "https://www.msn.com/en-us/health/wellness/a-new-experiment-reveals-an-unexpected-shift-in-how-pregnant-women-handle-intimidation/ar-AA1VJuEy",
     "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
     "https://www.msn.com/en-us/family-and-relationships/child-development-and-psychology/childhood-trauma-linked-to-increased-substance-use-unexpected-effects-on-heart-rate-and-blood-pressure-in-adolescents/ar-AA1DWD3X",
@@ -99,15 +98,10 @@
     null,
     "https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2023/do-no-harm-unintended-consequences-of-pharmaceutical-price-regulation-in-india",
     null,
-    "https://www.msn.com/en-us/science/sociology/neuroscientists-uncover-a-universal-mechanism-for-human-decision-making/ar-AA2a6RM8"
+    "https://www.msn.com/en-us/science/sociology/neuroscientists-uncover-a-universal-mechanism-for-human-decision-making/ar-AA2a6RM8",
+    "https://phys.org/news/2026-08-assumptions-online-success.html"
   ],
   "headlines": [
-    {
-      "url": "https://theconversation.com/why-failure-is-a-necessary-ingredient-for-success-especially-in-the-era-of-ai-272820",
-      "title": "Why failure is a necessary ingredient for success - especially in the era of AI",
-      "topic": "AI and innovation",
-      "date": "2026-02-20"
-    },
     {
       "url": "https://www.msn.com/en-us/health/wellness/a-new-experiment-reveals-an-unexpected-shift-in-how-pregnant-women-handle-intimidation/ar-AA1VJuEy",
       "title": "A new experiment reveals an unexpected shift in how pregnant women handle intimidation",
@@ -701,6 +695,12 @@
       "title": "Neuroscientists uncover a universal mechanism for human decision making",
       "topic": "decision neuroscience",
       "date": "2026-08-15"
+    },
+    {
+      "url": "https://phys.org/news/2026-08-assumptions-online-success.html",
+      "title": "Research challenges assumptions about online education success",
+      "topic": "online education",
+      "date": "2026-08-19"
     }
   ]
 }
