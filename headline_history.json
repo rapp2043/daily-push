@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/health/wellness/a-new-experiment-reveals-an-unexpected-shift-in-how-pregnant-women-handle-intimidation/ar-AA1VJuEy",
     "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
     "https://www.msn.com/en-us/family-and-relationships/child-development-and-psychology/childhood-trauma-linked-to-increased-substance-use-unexpected-effects-on-heart-rate-and-blood-pressure-in-adolescents/ar-AA1DWD3X",
     "https://www.morningstar.com/news/business-wire/20251021473397/new-sisense-research-uncovers-the-churn-paradox-86-of-developers-say-theyre-happy-with-their-analytics-tools-yet-82-have-switched",
@@ -99,15 +98,10 @@
     "https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2023/do-no-harm-unintended-consequences-of-pharmaceutical-price-regulation-in-india",
     null,
     "https://www.msn.com/en-us/science/sociology/neuroscientists-uncover-a-universal-mechanism-for-human-decision-making/ar-AA2a6RM8",
-    "https://phys.org/news/2026-08-assumptions-online-success.html"
+    "https://phys.org/news/2026-08-assumptions-online-success.html",
+    "https://phys.org/news/2024-03-reveals-unintended-consequences-suppression.html"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/health/wellness/a-new-experiment-reveals-an-unexpected-shift-in-how-pregnant-women-handle-intimidation/ar-AA1VJuEy",
-      "title": "A new experiment reveals an unexpected shift in how pregnant women handle intimidation",
-      "topic": "social psychology",
-      "date": "2026-02-21"
-    },
     {
       "url": "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
       "title": "Brain inflammation may be driving compulsive behavior",
@@ -701,6 +695,12 @@
       "title": "Research challenges assumptions about online education success",
       "topic": "online education",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://phys.org/news/2024-03-reveals-unintended-consequences-suppression.html",
+      "title": "New study reveals unintended consequences of fire suppression",
+      "topic": "wildfire management",
+      "date": "2026-08-24"
     }
   ]
 }
