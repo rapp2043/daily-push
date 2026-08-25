@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
     "https://www.msn.com/en-us/family-and-relationships/child-development-and-psychology/childhood-trauma-linked-to-increased-substance-use-unexpected-effects-on-heart-rate-and-blood-pressure-in-adolescents/ar-AA1DWD3X",
     "https://www.morningstar.com/news/business-wire/20251021473397/new-sisense-research-uncovers-the-churn-paradox-86-of-developers-say-theyre-happy-with-their-analytics-tools-yet-82-have-switched",
     "https://www.ajmc.com/view/new-research-challenges-assumptions-about-hospital-physician-integration-medicare-patient-mix",
@@ -99,15 +98,10 @@
     null,
     "https://www.msn.com/en-us/science/sociology/neuroscientists-uncover-a-universal-mechanism-for-human-decision-making/ar-AA2a6RM8",
     "https://phys.org/news/2026-08-assumptions-online-success.html",
-    "https://phys.org/news/2024-03-reveals-unintended-consequences-suppression.html"
+    "https://phys.org/news/2024-03-reveals-unintended-consequences-suppression.html",
+    "https://phys.org/news/2025-02-lack-global-diversity-criminology.html"
   ],
   "headlines": [
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
-      "title": "Brain inflammation may be driving compulsive behavior",
-      "topic": "neuroscience",
-      "date": "2026-02-21"
-    },
     {
       "url": "https://www.msn.com/en-us/family-and-relationships/child-development-and-psychology/childhood-trauma-linked-to-increased-substance-use-unexpected-effects-on-heart-rate-and-blood-pressure-in-adolescents/ar-AA1DWD3X",
       "title": "Childhood trauma linked to increased substance use, unexpected effects on heart rate and blood pressure in adolescents",
@@ -701,6 +695,12 @@
       "title": "New study reveals unintended consequences of fire suppression",
       "topic": "wildfire management",
       "date": "2026-08-24"
+    },
+    {
+      "url": "https://phys.org/news/2025-02-lack-global-diversity-criminology.html",
+      "title": "Research indicates a lack of global diversity in criminology education",
+      "topic": "criminology education",
+      "date": "2026-08-25"
     }
   ]
 }
