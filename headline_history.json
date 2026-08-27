@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/family-and-relationships/child-development-and-psychology/childhood-trauma-linked-to-increased-substance-use-unexpected-effects-on-heart-rate-and-blood-pressure-in-adolescents/ar-AA1DWD3X",
     "https://www.morningstar.com/news/business-wire/20251021473397/new-sisense-research-uncovers-the-churn-paradox-86-of-developers-say-theyre-happy-with-their-analytics-tools-yet-82-have-switched",
     "https://www.ajmc.com/view/new-research-challenges-assumptions-about-hospital-physician-integration-medicare-patient-mix",
     "https://www.thenews.com.pk/latest/1393533-mars-missing-water-mystery-takes-a-surprising-turn-as-new-study-finds-regional-dust-storms-trigger-massive-water-loss-into-space",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/science/sociology/neuroscientists-uncover-a-universal-mechanism-for-human-decision-making/ar-AA2a6RM8",
     "https://phys.org/news/2026-08-assumptions-online-success.html",
     "https://phys.org/news/2024-03-reveals-unintended-consequences-suppression.html",
-    "https://phys.org/news/2025-02-lack-global-diversity-criminology.html"
+    "https://phys.org/news/2025-02-lack-global-diversity-criminology.html",
+    "https://www.computerweekly.com/news/366649329/Research-challenges-assumption-that-older-generation-is-less-confident-with-fintech"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/family-and-relationships/child-development-and-psychology/childhood-trauma-linked-to-increased-substance-use-unexpected-effects-on-heart-rate-and-blood-pressure-in-adolescents/ar-AA1DWD3X",
-      "title": "Childhood trauma linked to increased substance use, unexpected effects on heart rate and blood pressure in adolescents",
-      "topic": "trauma research",
-      "date": "2026-02-22"
-    },
     {
       "url": "https://www.morningstar.com/news/business-wire/20251021473397/new-sisense-research-uncovers-the-churn-paradox-86-of-developers-say-theyre-happy-with-their-analytics-tools-yet-82-have-switched",
       "title": "New Sisense Research Uncovers the 'Churn Paradox': 86% of Developers Say They're Happy with Their Analytics Tools, Yet 82% Have Switched",
@@ -701,6 +695,12 @@
       "title": "Research indicates a lack of global diversity in criminology education",
       "topic": "criminology education",
       "date": "2026-08-25"
+    },
+    {
+      "url": "https://www.computerweekly.com/news/366649329/Research-challenges-assumption-that-older-generation-is-less-confident-with-fintech",
+      "title": "Research 'challenges assumption' that older generation is less confident with fintech",
+      "topic": "aging and fintech",
+      "date": "2026-08-27"
     }
   ]
 }
