@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.morningstar.com/news/business-wire/20251021473397/new-sisense-research-uncovers-the-churn-paradox-86-of-developers-say-theyre-happy-with-their-analytics-tools-yet-82-have-switched",
     "https://www.ajmc.com/view/new-research-challenges-assumptions-about-hospital-physician-integration-medicare-patient-mix",
     "https://www.thenews.com.pk/latest/1393533-mars-missing-water-mystery-takes-a-surprising-turn-as-new-study-finds-regional-dust-storms-trigger-massive-water-loss-into-space",
     "https://www.msn.com/en-us/money/careersandeducation/decision-making-nudges-can-improve-racial-equity-in-tenure-decisions/ar-AA1WZtLz",
@@ -99,15 +98,10 @@
     "https://phys.org/news/2026-08-assumptions-online-success.html",
     "https://phys.org/news/2024-03-reveals-unintended-consequences-suppression.html",
     "https://phys.org/news/2025-02-lack-global-diversity-criminology.html",
-    "https://www.computerweekly.com/news/366649329/Research-challenges-assumption-that-older-generation-is-less-confident-with-fintech"
+    "https://www.computerweekly.com/news/366649329/Research-challenges-assumption-that-older-generation-is-less-confident-with-fintech",
+    "https://medicalxpress.com/news/2023-01-cherry-picking-profitable-patients-unintended-consequences.html"
   ],
   "headlines": [
-    {
-      "url": "https://www.morningstar.com/news/business-wire/20251021473397/new-sisense-research-uncovers-the-churn-paradox-86-of-developers-say-theyre-happy-with-their-analytics-tools-yet-82-have-switched",
-      "title": "New Sisense Research Uncovers the 'Churn Paradox': 86% of Developers Say They're Happy with Their Analytics Tools, Yet 82% Have Switched",
-      "topic": "business analytics",
-      "date": "2026-02-23"
-    },
     {
       "url": "https://www.ajmc.com/view/new-research-challenges-assumptions-about-hospital-physician-integration-medicare-patient-mix",
       "title": "New Research Challenges Assumptions About Hospital-Physician Integration, Medicare Patient Mix",
@@ -701,6 +695,12 @@
       "title": "Research 'challenges assumption' that older generation is less confident with fintech",
       "topic": "aging and fintech",
       "date": "2026-08-27"
+    },
+    {
+      "url": "https://medicalxpress.com/news/2023-01-cherry-picking-profitable-patients-unintended-consequences.html",
+      "title": "Cherry-picking profitable patients: New research identifies unintended consequences for some Medicare patients",
+      "topic": "healthcare policy",
+      "date": "2026-08-29"
     }
   ]
 }
