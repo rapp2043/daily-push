@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.ajmc.com/view/new-research-challenges-assumptions-about-hospital-physician-integration-medicare-patient-mix",
     "https://www.thenews.com.pk/latest/1393533-mars-missing-water-mystery-takes-a-surprising-turn-as-new-study-finds-regional-dust-storms-trigger-massive-water-loss-into-space",
     "https://www.msn.com/en-us/money/careersandeducation/decision-making-nudges-can-improve-racial-equity-in-tenure-decisions/ar-AA1WZtLz",
     "https://www.msn.com/en-us/science/sociology/girls-rarely-experience-the-friend-zone-psychology-study-finds/ar-AA1WNpEj",
@@ -99,15 +98,10 @@
     "https://phys.org/news/2024-03-reveals-unintended-consequences-suppression.html",
     "https://phys.org/news/2025-02-lack-global-diversity-criminology.html",
     "https://www.computerweekly.com/news/366649329/Research-challenges-assumption-that-older-generation-is-less-confident-with-fintech",
-    "https://medicalxpress.com/news/2023-01-cherry-picking-profitable-patients-unintended-consequences.html"
+    "https://medicalxpress.com/news/2023-01-cherry-picking-profitable-patients-unintended-consequences.html",
+    "https://www.msn.com/en-us/health/wellness/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-heres-what-weve-learned-from-them/ar-AA1OxF8o"
   ],
   "headlines": [
-    {
-      "url": "https://www.ajmc.com/view/new-research-challenges-assumptions-about-hospital-physician-integration-medicare-patient-mix",
-      "title": "New Research Challenges Assumptions About Hospital-Physician Integration, Medicare Patient Mix",
-      "topic": "healthcare policy",
-      "date": "2026-02-24"
-    },
     {
       "url": "https://www.thenews.com.pk/latest/1393533-mars-missing-water-mystery-takes-a-surprising-turn-as-new-study-finds-regional-dust-storms-trigger-massive-water-loss-into-space",
       "title": "'Mars' missing water mystery takes a surprising turn as new study finds regional dust storms trigger massive water loss into space",
@@ -701,6 +695,12 @@
       "title": "Cherry-picking profitable patients: New research identifies unintended consequences for some Medicare patients",
       "topic": "healthcare policy",
       "date": "2026-08-29"
+    },
+    {
+      "url": "https://www.msn.com/en-us/health/wellness/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-heres-what-weve-learned-from-them/ar-AA1OxF8o",
+      "title": "Jane Goodall revolutionized animal research, but her work had some unintended consequences. Here's what we've learned from them.",
+      "topic": "primatology ethics",
+      "date": "2026-08-31"
     }
   ]
 }
