@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.thenews.com.pk/latest/1393533-mars-missing-water-mystery-takes-a-surprising-turn-as-new-study-finds-regional-dust-storms-trigger-massive-water-loss-into-space",
     "https://www.msn.com/en-us/money/careersandeducation/decision-making-nudges-can-improve-racial-equity-in-tenure-decisions/ar-AA1WZtLz",
     "https://www.msn.com/en-us/science/sociology/girls-rarely-experience-the-friend-zone-psychology-study-finds/ar-AA1WNpEj",
     "https://www.project-syndicate.org/onpoint/technology-brings-more-unintended-consequences-than-intended-ones-by-edward-tenner-2025-04",
@@ -99,15 +98,10 @@
     "https://phys.org/news/2025-02-lack-global-diversity-criminology.html",
     "https://www.computerweekly.com/news/366649329/Research-challenges-assumption-that-older-generation-is-less-confident-with-fintech",
     "https://medicalxpress.com/news/2023-01-cherry-picking-profitable-patients-unintended-consequences.html",
-    "https://www.msn.com/en-us/health/wellness/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-heres-what-weve-learned-from-them/ar-AA1OxF8o"
+    "https://www.msn.com/en-us/health/wellness/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-heres-what-weve-learned-from-them/ar-AA1OxF8o",
+    "https://www.aol.com/articles/running-bad-joints-research-challenges-082050000.html"
   ],
   "headlines": [
-    {
-      "url": "https://www.thenews.com.pk/latest/1393533-mars-missing-water-mystery-takes-a-surprising-turn-as-new-study-finds-regional-dust-storms-trigger-massive-water-loss-into-space",
-      "title": "'Mars' missing water mystery takes a surprising turn as new study finds regional dust storms trigger massive water loss into space",
-      "topic": "planetary science",
-      "date": "2026-02-25"
-    },
     {
       "url": "https://www.msn.com/en-us/money/careersandeducation/decision-making-nudges-can-improve-racial-equity-in-tenure-decisions/ar-AA1WZtLz",
       "title": "Decision-making nudges can improve racial equity in tenure decisions",
@@ -701,6 +695,12 @@
       "title": "Jane Goodall revolutionized animal research, but her work had some unintended consequences. Here's what we've learned from them.",
       "topic": "primatology ethics",
       "date": "2026-08-31"
+    },
+    {
+      "url": "https://www.aol.com/articles/running-bad-joints-research-challenges-082050000.html",
+      "title": "Is running bad for your joints? New research challenges the widespread assumption",
+      "topic": "exercise science",
+      "date": "2026-09-03"
     }
   ]
 }
