@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.project-syndicate.org/onpoint/technology-brings-more-unintended-consequences-than-intended-ones-by-edward-tenner-2025-04",
     "https://www.msn.com/en-us/news/technology/habit-like-repetition-influences-decisions-more-than-previously-thought-large-scale-study-finds/ar-AA1XdHRO",
     "https://www.sciencedaily.com/releases/2026/02/260222092306.htm",
     "https://www.udel.edu/udaily/2026/february/paradox-theory-business-leadership-scholar-wendy-smith/",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/health/wellness/jane-goodall-revolutionized-animal-research-but-her-work-had-some-unintended-consequences-heres-what-weve-learned-from-them/ar-AA1OxF8o",
     "https://www.aol.com/articles/running-bad-joints-research-challenges-082050000.html",
     "https://www.psychologytoday.com/us/blog/seeing-what-others-dont/202609/the-origins-of-naturalistic-decision-making",
-    "https://www.techtarget.com/patientengagement/feature/What-is-the-role-of-behavioral-economics-in-healthcare"
+    "https://www.techtarget.com/patientengagement/feature/What-is-the-role-of-behavioral-economics-in-healthcare",
+    "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/new-esker-research-finds-finance-leaders-want-more-proof-and-control-before-giving-ai-greater-decision-making-authority/2432331"
   ],
   "headlines": [
-    {
-      "url": "https://www.project-syndicate.org/onpoint/technology-brings-more-unintended-consequences-than-intended-ones-by-edward-tenner-2025-04",
-      "title": "A World of Unintended Consequences",
-      "topic": "technology and society",
-      "date": "2026-02-28"
-    },
     {
       "url": "https://www.msn.com/en-us/news/technology/habit-like-repetition-influences-decisions-more-than-previously-thought-large-scale-study-finds/ar-AA1XdHRO",
       "title": "Habit-like repetition influences decisions more than previously thought, large-scale study finds",
@@ -701,6 +695,12 @@
       "title": "What is the role of behavioral economics in healthcare?",
       "topic": "patient engagement",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/new-esker-research-finds-finance-leaders-want-more-proof-and-control-before-giving-ai-greater-decision-making-authority/2432331",
+      "title": "New Esker Research Finds Finance Leaders Want More Proof and Control Before Giving AI Greater Decision-Making Authority",
+      "topic": "AI governance",
+      "date": "2026-09-25"
     }
   ]
 }
