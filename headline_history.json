@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/news/technology/habit-like-repetition-influences-decisions-more-than-previously-thought-large-scale-study-finds/ar-AA1XdHRO",
     "https://www.sciencedaily.com/releases/2026/02/260222092306.htm",
     "https://www.udel.edu/udaily/2026/february/paradox-theory-business-leadership-scholar-wendy-smith/",
     "https://www.eurekalert.org/news-releases/1107097",
@@ -99,15 +98,10 @@
     "https://www.aol.com/articles/running-bad-joints-research-challenges-082050000.html",
     "https://www.psychologytoday.com/us/blog/seeing-what-others-dont/202609/the-origins-of-naturalistic-decision-making",
     "https://www.techtarget.com/patientengagement/feature/What-is-the-role-of-behavioral-economics-in-healthcare",
-    "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/new-esker-research-finds-finance-leaders-want-more-proof-and-control-before-giving-ai-greater-decision-making-authority/2432331"
+    "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/new-esker-research-finds-finance-leaders-want-more-proof-and-control-before-giving-ai-greater-decision-making-authority/2432331",
+    "https://www.msn.com/en-us/news/technology/are-humans-naturally-violent-new-research-challenges-long-held-assumptions/ar-AA1Z8wEo"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/news/technology/habit-like-repetition-influences-decisions-more-than-previously-thought-large-scale-study-finds/ar-AA1XdHRO",
-      "title": "Habit-like repetition influences decisions more than previously thought, large-scale study finds",
-      "topic": "decision-making research",
-      "date": "2026-02-28"
-    },
     {
       "url": "https://www.sciencedaily.com/releases/2026/02/260222092306.htm",
       "title": "Scientists reverse muscle aging in mice and discover a surprising catch",
@@ -701,6 +695,12 @@
       "title": "New Esker Research Finds Finance Leaders Want More Proof and Control Before Giving AI Greater Decision-Making Authority",
       "topic": "AI governance",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/are-humans-naturally-violent-new-research-challenges-long-held-assumptions/ar-AA1Z8wEo",
+      "title": "Are humans naturally violent? New research challenges long-held assumptions",
+      "topic": "evolutionary anthropology",
+      "date": "2026-09-26"
     }
   ]
 }
