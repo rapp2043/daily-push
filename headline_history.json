@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.sciencedaily.com/releases/2026/02/260222092306.htm",
     "https://www.udel.edu/udaily/2026/february/paradox-theory-business-leadership-scholar-wendy-smith/",
     "https://www.eurekalert.org/news-releases/1107097",
     "https://www.hstoday.us/subject-matter-areas/counterterrorism/study-challenges-assumptions-linking-poverty-and-terrorism/",
@@ -99,15 +98,10 @@
     "https://www.psychologytoday.com/us/blog/seeing-what-others-dont/202609/the-origins-of-naturalistic-decision-making",
     "https://www.techtarget.com/patientengagement/feature/What-is-the-role-of-behavioral-economics-in-healthcare",
     "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/new-esker-research-finds-finance-leaders-want-more-proof-and-control-before-giving-ai-greater-decision-making-authority/2432331",
-    "https://www.msn.com/en-us/news/technology/are-humans-naturally-violent-new-research-challenges-long-held-assumptions/ar-AA1Z8wEo"
+    "https://www.msn.com/en-us/news/technology/are-humans-naturally-violent-new-research-challenges-long-held-assumptions/ar-AA1Z8wEo",
+    "https://www.msn.com/en-us/news/other/study-challenges-assumption-that-women-have-more-emotional-intelligence-than-men/ar-AA2cTFwo"
   ],
   "headlines": [
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/02/260222092306.htm",
-      "title": "Scientists reverse muscle aging in mice and discover a surprising catch",
-      "topic": "aging research",
-      "date": "2026-03-01"
-    },
     {
       "url": "https://www.udel.edu/udaily/2026/february/paradox-theory-business-leadership-scholar-wendy-smith/",
       "title": "Power of paradox propels UD's Wendy Smith",
@@ -701,6 +695,12 @@
       "title": "Are humans naturally violent? New research challenges long-held assumptions",
       "topic": "evolutionary anthropology",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/other/study-challenges-assumption-that-women-have-more-emotional-intelligence-than-men/ar-AA2cTFwo",
+      "title": "Study challenges assumption that women have more emotional intelligence than men",
+      "topic": "gender psychology",
+      "date": "2026-10-01"
     }
   ]
 }
