@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.eurekalert.org/news-releases/1107097",
     "https://www.hstoday.us/subject-matter-areas/counterterrorism/study-challenges-assumptions-linking-poverty-and-terrorism/",
     "https://www.edweek.org/teaching-learning/new-adhd-research-challenges-former-assumptions-why-it-matters/2026/02",
     "https://www.msn.com/en-us/weather/topstories/green-hydrogen-drive-could-backfire-without-supply-chain-overhaul-study-says/ar-AA1Xs1Re",
@@ -99,15 +98,10 @@
     "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/new-esker-research-finds-finance-leaders-want-more-proof-and-control-before-giving-ai-greater-decision-making-authority/2432331",
     "https://www.msn.com/en-us/news/technology/are-humans-naturally-violent-new-research-challenges-long-held-assumptions/ar-AA1Z8wEo",
     "https://www.msn.com/en-us/news/other/study-challenges-assumption-that-women-have-more-emotional-intelligence-than-men/ar-AA2cTFwo",
-    "https://phys.org/news/2021-04-greater-awareness-unintended-consequences-crispr.html"
+    "https://phys.org/news/2021-04-greater-awareness-unintended-consequences-crispr.html",
+    "https://www.msn.com/en-us/money/smallbusiness/this-simple-breathing-technique-can-help-you-make-better-decisions-new-research-shows/ar-AA29BqNj"
   ],
   "headlines": [
-    {
-      "url": "https://www.eurekalert.org/news-releases/1107097",
-      "title": "Study shows some holiday gifts can backfire - leading to hurt feelings, bad reviews",
-      "topic": "consumer behavior",
-      "date": "2026-03-03"
-    },
     {
       "url": "https://www.hstoday.us/subject-matter-areas/counterterrorism/study-challenges-assumptions-linking-poverty-and-terrorism/",
       "title": "Study Challenges Assumptions Linking Poverty and Terrorism",
@@ -701,6 +695,12 @@
       "title": "Researchers call for greater awareness of unintended consequences of CRISPR gene editing",
       "topic": "gene editing",
       "date": "2026-10-03"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/smallbusiness/this-simple-breathing-technique-can-help-you-make-better-decisions-new-research-shows/ar-AA29BqNj",
+      "title": "This simple breathing technique can help you make better decisions, new research shows",
+      "topic": "behavioral science",
+      "date": "2026-10-11"
     }
   ]
 }
