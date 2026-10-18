@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.edweek.org/teaching-learning/new-adhd-research-challenges-former-assumptions-why-it-matters/2026/02",
     "https://www.msn.com/en-us/weather/topstories/green-hydrogen-drive-could-backfire-without-supply-chain-overhaul-study-says/ar-AA1Xs1Re",
     "https://neurosciencenews.com/compulsivity-habit-uncertainty-30251/",
     "https://phys.org/news/2024-06-success-failure.html",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/news/other/study-challenges-assumption-that-women-have-more-emotional-intelligence-than-men/ar-AA2cTFwo",
     "https://phys.org/news/2021-04-greater-awareness-unintended-consequences-crispr.html",
     "https://www.msn.com/en-us/money/smallbusiness/this-simple-breathing-technique-can-help-you-make-better-decisions-new-research-shows/ar-AA29BqNj",
-    "https://www.independent.org/article/2025/05/19/state-behavioral-economics/"
+    "https://www.independent.org/article/2025/05/19/state-behavioral-economics/",
+    "https://www.msn.com/en-us/health/mindandbody/the-surprising-connection-between-good-posture-a-better-mood-and-smarter-decisions-according-to-new-research/ar-AA2ea37S"
   ],
   "headlines": [
-    {
-      "url": "https://www.edweek.org/teaching-learning/new-adhd-research-challenges-former-assumptions-why-it-matters/2026/02",
-      "title": "New ADHD Research Challenges Former Assumptions. Why It Matters",
-      "topic": "ADHD research",
-      "date": "2026-03-05"
-    },
     {
       "url": "https://www.msn.com/en-us/weather/topstories/green-hydrogen-drive-could-backfire-without-supply-chain-overhaul-study-says/ar-AA1Xs1Re",
       "title": "Green hydrogen drive could backfire without supply chain overhaul, study says",
@@ -701,6 +695,12 @@
       "title": "The Troubling State of Behavioral Economics",
       "topic": "behavioral economics",
       "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.msn.com/en-us/health/mindandbody/the-surprising-connection-between-good-posture-a-better-mood-and-smarter-decisions-according-to-new-research/ar-AA2ea37S",
+      "title": "The surprising connection between good posture, a better mood, and smarter decisions, according to new research",
+      "topic": "posture research",
+      "date": "2026-10-18"
     }
   ]
 }
