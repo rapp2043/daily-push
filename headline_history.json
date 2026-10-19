@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.msn.com/en-us/weather/topstories/green-hydrogen-drive-could-backfire-without-supply-chain-overhaul-study-says/ar-AA1Xs1Re",
     "https://neurosciencenews.com/compulsivity-habit-uncertainty-30251/",
     "https://phys.org/news/2024-06-success-failure.html",
     "https://theconversation.com/understanding-ai-outputs-study-shows-pro-western-cultural-bias-in-the-way-ai-decisions-are-explained-227262",
@@ -99,15 +98,10 @@
     "https://phys.org/news/2021-04-greater-awareness-unintended-consequences-crispr.html",
     "https://www.msn.com/en-us/money/smallbusiness/this-simple-breathing-technique-can-help-you-make-better-decisions-new-research-shows/ar-AA29BqNj",
     "https://www.independent.org/article/2025/05/19/state-behavioral-economics/",
-    "https://www.msn.com/en-us/health/mindandbody/the-surprising-connection-between-good-posture-a-better-mood-and-smarter-decisions-according-to-new-research/ar-AA2ea37S"
+    "https://www.msn.com/en-us/health/mindandbody/the-surprising-connection-between-good-posture-a-better-mood-and-smarter-decisions-according-to-new-research/ar-AA2ea37S",
+    "https://www.msn.com/en-us/news/other/ai-decision-making-gets-cheap-microsoft-s-new-scoring-model/ar-AA2e9wU4"
   ],
   "headlines": [
-    {
-      "url": "https://www.msn.com/en-us/weather/topstories/green-hydrogen-drive-could-backfire-without-supply-chain-overhaul-study-says/ar-AA1Xs1Re",
-      "title": "Green hydrogen drive could backfire without supply chain overhaul, study says",
-      "topic": "environmental policy",
-      "date": "2026-03-06"
-    },
     {
       "url": "https://neurosciencenews.com/compulsivity-habit-uncertainty-30251/",
       "title": "Compulsivity is Driven by a Fear of the Unknown",
@@ -701,6 +695,12 @@
       "title": "The surprising connection between good posture, a better mood, and smarter decisions, according to new research",
       "topic": "posture research",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/other/ai-decision-making-gets-cheap-microsoft-s-new-scoring-model/ar-AA2e9wU4",
+      "title": "AI decision making gets cheap: Microsoft's new scoring model",
+      "topic": "AI decision tools",
+      "date": "2026-10-19"
     }
   ]
 }
