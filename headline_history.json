@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://neurosciencenews.com/compulsivity-habit-uncertainty-30251/",
     "https://phys.org/news/2024-06-success-failure.html",
     "https://theconversation.com/understanding-ai-outputs-study-shows-pro-western-cultural-bias-in-the-way-ai-decisions-are-explained-227262",
     "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/money/smallbusiness/this-simple-breathing-technique-can-help-you-make-better-decisions-new-research-shows/ar-AA29BqNj",
     "https://www.independent.org/article/2025/05/19/state-behavioral-economics/",
     "https://www.msn.com/en-us/health/mindandbody/the-surprising-connection-between-good-posture-a-better-mood-and-smarter-decisions-according-to-new-research/ar-AA2ea37S",
-    "https://www.msn.com/en-us/news/other/ai-decision-making-gets-cheap-microsoft-s-new-scoring-model/ar-AA2e9wU4"
+    "https://www.msn.com/en-us/news/other/ai-decision-making-gets-cheap-microsoft-s-new-scoring-model/ar-AA2e9wU4",
+    "https://www.miragenews.com/research-challenges-assumptions-about-how-1765283/"
   ],
   "headlines": [
-    {
-      "url": "https://neurosciencenews.com/compulsivity-habit-uncertainty-30251/",
-      "title": "Compulsivity is Driven by a Fear of the Unknown",
-      "topic": "neuroscience research",
-      "date": "2026-03-07"
-    },
     {
       "url": "https://phys.org/news/2024-06-success-failure.html",
       "title": "Success follows failure less often than expected, study finds",
@@ -701,6 +695,12 @@
       "title": "AI decision making gets cheap: Microsoft's new scoring model",
       "topic": "AI decision tools",
       "date": "2026-10-19"
+    },
+    {
+      "url": "https://www.miragenews.com/research-challenges-assumptions-about-how-1765283/",
+      "title": "Research Challenges Assumptions About How Autistic Children Learn",
+      "topic": "autism research",
+      "date": "2026-10-24"
     }
   ]
 }
