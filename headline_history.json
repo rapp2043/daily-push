@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://phys.org/news/2024-06-success-failure.html",
     "https://theconversation.com/understanding-ai-outputs-study-shows-pro-western-cultural-bias-in-the-way-ai-decisions-are-explained-227262",
     "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
     "https://www.healthaffairs.org/content/forefront/unanswered-questions-and-unintended-consequences-state-prescription-drug-affordability?trk=public_post_comment-text",
@@ -99,15 +98,10 @@
     "https://www.independent.org/article/2025/05/19/state-behavioral-economics/",
     "https://www.msn.com/en-us/health/mindandbody/the-surprising-connection-between-good-posture-a-better-mood-and-smarter-decisions-according-to-new-research/ar-AA2ea37S",
     "https://www.msn.com/en-us/news/other/ai-decision-making-gets-cheap-microsoft-s-new-scoring-model/ar-AA2e9wU4",
-    "https://www.miragenews.com/research-challenges-assumptions-about-how-1765283/"
+    "https://www.miragenews.com/research-challenges-assumptions-about-how-1765283/",
+    null
   ],
   "headlines": [
-    {
-      "url": "https://phys.org/news/2024-06-success-failure.html",
-      "title": "Success follows failure less often than expected, study finds",
-      "topic": "psychology research",
-      "date": "2026-03-07"
-    },
     {
       "url": "https://theconversation.com/understanding-ai-outputs-study-shows-pro-western-cultural-bias-in-the-way-ai-decisions-are-explained-227262",
       "title": "Understanding AI outputs: study shows pro\u2011western cultural bias in the way AI decisions are explained",
@@ -700,6 +694,12 @@
       "url": "https://www.miragenews.com/research-challenges-assumptions-about-how-1765283/",
       "title": "Research Challenges Assumptions About How Autistic Children Learn",
       "topic": "autism research",
+      "date": "2026-10-24"
+    },
+    {
+      "url": null,
+      "title": null,
+      "topic": null,
       "date": "2026-10-24"
     }
   ]
