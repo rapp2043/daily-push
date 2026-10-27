@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://theconversation.com/understanding-ai-outputs-study-shows-pro-western-cultural-bias-in-the-way-ai-decisions-are-explained-227262",
     "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
     "https://www.healthaffairs.org/content/forefront/unanswered-questions-and-unintended-consequences-state-prescription-drug-affordability?trk=public_post_comment-text",
     "https://www.forbes.com/sites/carolinecastrillon/2025/03/06/why-career-success-depends-on-embracing-failure/",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/health/mindandbody/the-surprising-connection-between-good-posture-a-better-mood-and-smarter-decisions-according-to-new-research/ar-AA2ea37S",
     "https://www.msn.com/en-us/news/other/ai-decision-making-gets-cheap-microsoft-s-new-scoring-model/ar-AA2e9wU4",
     "https://www.miragenews.com/research-challenges-assumptions-about-how-1765283/",
-    null
+    null,
+    "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations"
   ],
   "headlines": [
-    {
-      "url": "https://theconversation.com/understanding-ai-outputs-study-shows-pro-western-cultural-bias-in-the-way-ai-decisions-are-explained-227262",
-      "title": "Understanding AI outputs: study shows pro\u2011western cultural bias in the way AI decisions are explained",
-      "topic": "AI cultural bias",
-      "date": "2026-03-08"
-    },
     {
       "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
       "title": "Trump's tariffs struck down, what's next? SBI suggests adopting a 'counter-intuitive' approach",
@@ -701,6 +695,12 @@
       "title": null,
       "topic": null,
       "date": "2026-10-24"
+    },
+    {
+      "url": "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations",
+      "title": "Research sheds light on unintended consequences of money laundering regulations",
+      "topic": "financial regulation",
+      "date": "2026-10-27"
     }
   ]
 }
