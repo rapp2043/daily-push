@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
     "https://www.healthaffairs.org/content/forefront/unanswered-questions-and-unintended-consequences-state-prescription-drug-affordability?trk=public_post_comment-text",
     "https://www.forbes.com/sites/carolinecastrillon/2025/03/06/why-career-success-depends-on-embracing-failure/",
     "https://www.consumeraffairs.com/news/ai-brain-fry-is-emerging-as-a-new-workplace-risk-031026.html",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/news/other/ai-decision-making-gets-cheap-microsoft-s-new-scoring-model/ar-AA2e9wU4",
     "https://www.miragenews.com/research-challenges-assumptions-about-how-1765283/",
     null,
-    "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations"
+    "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations",
+    "https://www.msn.com/en-us/news/other/two-crows-took-a-classic-psychology-test-their-decision-making-skills-left-ours-in-the-dust/ar-AA2gpaRv"
   ],
   "headlines": [
-    {
-      "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-tariffs-struck-down-whats-next-sbi-suggests-adopting-a-counter-intuitive-approach/articleshow/128664599.cms",
-      "title": "Trump's tariffs struck down, what's next? SBI suggests adopting a 'counter-intuitive' approach",
-      "topic": "international trade",
-      "date": "2026-03-09"
-    },
     {
       "url": "https://www.healthaffairs.org/content/forefront/unanswered-questions-and-unintended-consequences-state-prescription-drug-affordability?trk=public_post_comment-text",
       "title": "Unanswered Questions And Unintended Consequences Of State Prescription Drug Affordability Boards",
@@ -701,6 +695,12 @@
       "title": "Research sheds light on unintended consequences of money laundering regulations",
       "topic": "financial regulation",
       "date": "2026-10-27"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/other/two-crows-took-a-classic-psychology-test-their-decision-making-skills-left-ours-in-the-dust/ar-AA2gpaRv",
+      "title": "Two crows took a classic psychology test. Their decision-making skills left ours in the dust.",
+      "topic": "animal cognition",
+      "date": "2026-10-30"
     }
   ]
 }
