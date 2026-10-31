@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.healthaffairs.org/content/forefront/unanswered-questions-and-unintended-consequences-state-prescription-drug-affordability?trk=public_post_comment-text",
     "https://www.forbes.com/sites/carolinecastrillon/2025/03/06/why-career-success-depends-on-embracing-failure/",
     "https://www.consumeraffairs.com/news/ai-brain-fry-is-emerging-as-a-new-workplace-risk-031026.html",
     "https://www.eurekalert.org/news-releases/1095631",
@@ -99,15 +98,10 @@
     "https://www.miragenews.com/research-challenges-assumptions-about-how-1765283/",
     null,
     "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations",
-    "https://www.msn.com/en-us/news/other/two-crows-took-a-classic-psychology-test-their-decision-making-skills-left-ours-in-the-dust/ar-AA2gpaRv"
+    "https://www.msn.com/en-us/news/other/two-crows-took-a-classic-psychology-test-their-decision-making-skills-left-ours-in-the-dust/ar-AA2gpaRv",
+    "https://www.nature.com/subjects/decision-making"
   ],
   "headlines": [
-    {
-      "url": "https://www.healthaffairs.org/content/forefront/unanswered-questions-and-unintended-consequences-state-prescription-drug-affordability?trk=public_post_comment-text",
-      "title": "Unanswered Questions And Unintended Consequences Of State Prescription Drug Affordability Boards",
-      "topic": "health policy",
-      "date": "2026-03-10"
-    },
     {
       "url": "https://www.forbes.com/sites/carolinecastrillon/2025/03/06/why-career-success-depends-on-embracing-failure/",
       "title": "Why Career Success Depends On Embracing Failure",
@@ -701,6 +695,12 @@
       "title": "Two crows took a classic psychology test. Their decision-making skills left ours in the dust.",
       "topic": "animal cognition",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.nature.com/subjects/decision-making",
+      "title": "Decision making articles from across Nature Portfolio",
+      "topic": "behavioral economics",
+      "date": "2026-10-31"
     }
   ]
 }
