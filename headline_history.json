@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.consumeraffairs.com/news/ai-brain-fry-is-emerging-as-a-new-workplace-risk-031026.html",
     "https://www.eurekalert.org/news-releases/1095631",
     "https://phys.org/news/2025-12-climate-policies-backfire-eroding-green.html",
     "https://thedebrief.org/new-research-finds-ai-labels-can-backfire-making-misinformation-seem-more-credible/",
@@ -99,15 +98,10 @@
     "https://www.colorado.edu/asmagazine/2026/01/28/research-sheds-light-unintended-consequences-money-laundering-regulations",
     "https://www.msn.com/en-us/news/other/two-crows-took-a-classic-psychology-test-their-decision-making-skills-left-ours-in-the-dust/ar-AA2gpaRv",
     "https://www.nature.com/subjects/decision-making",
-    "https://www.sciencedaily.com/releases/2026/10/261017230028.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
+    "https://www.yahoo.com/news/science/articles/ixico-research-challenges-assumption-cutting-073700410.html"
   ],
   "headlines": [
-    {
-      "url": "https://www.consumeraffairs.com/news/ai-brain-fry-is-emerging-as-a-new-workplace-risk-031026.html",
-      "title": "AI 'brain fry' is emerging as a new workplace risk",
-      "topic": "AI occupational health",
-      "date": "2026-03-12"
-    },
     {
       "url": "https://www.eurekalert.org/news-releases/1095631",
       "title": "When the familiar meets the unfamiliar: A cross-cultural study of what future teachers notice",
@@ -701,6 +695,12 @@
       "title": "Eating blueberries every day may have a surprising effect on your mood",
       "topic": "nutrition research",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.yahoo.com/news/science/articles/ixico-research-challenges-assumption-cutting-073700410.html",
+      "title": "IXICO research challenges assumption that cutting scanner variability always improves Huntington's tracking",
+      "topic": "brain imaging",
+      "date": "2026-11-04"
     }
   ]
 }
