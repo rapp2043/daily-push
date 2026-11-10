@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://www.eurekalert.org/news-releases/1095631",
     "https://phys.org/news/2025-12-climate-policies-backfire-eroding-green.html",
     "https://thedebrief.org/new-research-finds-ai-labels-can-backfire-making-misinformation-seem-more-credible/",
     "https://phys.org/news/2026-03-customer-backfire.html",
@@ -99,15 +98,10 @@
     "https://www.msn.com/en-us/news/other/two-crows-took-a-classic-psychology-test-their-decision-making-skills-left-ours-in-the-dust/ar-AA2gpaRv",
     "https://www.nature.com/subjects/decision-making",
     "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
-    "https://www.yahoo.com/news/science/articles/ixico-research-challenges-assumption-cutting-073700410.html"
+    "https://www.yahoo.com/news/science/articles/ixico-research-challenges-assumption-cutting-073700410.html",
+    null
   ],
   "headlines": [
-    {
-      "url": "https://www.eurekalert.org/news-releases/1095631",
-      "title": "When the familiar meets the unfamiliar: A cross-cultural study of what future teachers notice",
-      "topic": "education research",
-      "date": "2026-03-13"
-    },
     {
       "url": "https://phys.org/news/2025-12-climate-policies-backfire-eroding-green.html",
       "title": "Climate policies can backfire by eroding 'green' values, study finds",
@@ -701,6 +695,12 @@
       "title": "IXICO research challenges assumption that cutting scanner variability always improves Huntington's tracking",
       "topic": "brain imaging",
       "date": "2026-11-04"
+    },
+    {
+      "url": null,
+      "title": null,
+      "topic": null,
+      "date": "2026-11-10"
     }
   ]
 }
