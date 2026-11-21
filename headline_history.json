@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://thedebrief.org/new-research-finds-ai-labels-can-backfire-making-misinformation-seem-more-credible/",
     "https://phys.org/news/2026-03-customer-backfire.html",
     "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7",
     "https://www.morningstar.com/news/business-wire/20260218663261/new-research-from-apexanalytix-highlights-the-quantum-paradox-urging-leaders-to-future-proof-supplier-platforms",
@@ -99,15 +98,10 @@
     "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
     "https://www.yahoo.com/news/science/articles/ixico-research-challenges-assumption-cutting-073700410.html",
     null,
-    "https://news.sonoma.edu/articles/2026/sonoma-state-research-challenges-assumptions-about-wine-tourists"
+    "https://news.sonoma.edu/articles/2026/sonoma-state-research-challenges-assumptions-about-wine-tourists",
+    "https://phys.org/news/2024-06-success-failure.html"
   ],
   "headlines": [
-    {
-      "url": "https://thedebrief.org/new-research-finds-ai-labels-can-backfire-making-misinformation-seem-more-credible/",
-      "title": "New Research Finds AI Labels Can Backfire, Making Misinformation Seem More Credible",
-      "topic": "AI misinformation",
-      "date": "2026-03-14"
-    },
     {
       "url": "https://phys.org/news/2026-03-customer-backfire.html",
       "title": "The customer might always be right, but apologies actually backfire in customer service",
@@ -701,6 +695,12 @@
       "title": "Sonoma State research challenges assumptions about wine tourists",
       "topic": "wine tourism",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://phys.org/news/2024-06-success-failure.html",
+      "title": "Success follows failure less often than expected, study finds",
+      "topic": "experimental psychology",
+      "date": "2026-11-21"
     }
   ]
 }
