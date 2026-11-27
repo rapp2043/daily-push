@@ -1,6 +1,5 @@
 {
   "used_urls": [
-    "https://phys.org/news/2026-03-customer-backfire.html",
     "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7",
     "https://www.morningstar.com/news/business-wire/20260218663261/new-research-from-apexanalytix-highlights-the-quantum-paradox-urging-leaders-to-future-proof-supplier-platforms",
     "https://www.eurekalert.org/news-releases/1109442",
@@ -99,15 +98,10 @@
     "https://www.yahoo.com/news/science/articles/ixico-research-challenges-assumption-cutting-073700410.html",
     null,
     "https://news.sonoma.edu/articles/2026/sonoma-state-research-challenges-assumptions-about-wine-tourists",
-    "https://phys.org/news/2024-06-success-failure.html"
+    "https://phys.org/news/2024-06-success-failure.html",
+    "https://note.com/koudou_coach/n/ndcd8cba02101?hl=en"
   ],
   "headlines": [
-    {
-      "url": "https://phys.org/news/2026-03-customer-backfire.html",
-      "title": "The customer might always be right, but apologies actually backfire in customer service",
-      "topic": "consumer behavior",
-      "date": "2026-03-15"
-    },
     {
       "url": "https://www.msn.com/en-us/news/technology/the-bystander-effect-applies-to-virtual-agents-new-psychology-research-shows/ar-AA1YtjS7",
       "title": "The bystander effect applies to virtual agents, new psychology research shows",
@@ -701,6 +695,12 @@
       "title": "Success follows failure less often than expected, study finds",
       "topic": "experimental psychology",
       "date": "2026-11-21"
+    },
+    {
+      "url": "https://note.com/koudou_coach/n/ndcd8cba02101?hl=en",
+      "title": "[For those who give up easily] The reason you can't keep it up wasn't 'weak willpower.' The surprising truth taught by behavioral economics",
+      "topic": "behavioral economics",
+      "date": "2026-11-27"
     }
   ]
 }
